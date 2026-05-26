@@ -8,12 +8,13 @@
 
 This project demonstrates a complete data analyst workflow:
 
-1. **Data Cleaning** — handle missing values, duplicates, outliers, and type fixes
-2. **Exploratory Data Analysis** — trends, category breakdowns, cashflow analysis
-3. **Visualization** — 5 professional charts (PNG)
-4. **Client Report** — self-contained HTML report with embedded charts and tables
+1. **Smart Format Detection** — auto-detect and map any CSV format from any source
+2. **Data Cleaning** — handle missing values, duplicates, outliers, and type fixes
+3. **Exploratory Data Analysis** — trends, category breakdowns, cashflow analysis
+4. **Visualization** — 5 professional charts (PNG)
+5. **Client Report** — self-contained HTML report with embedded charts and tables
 
-**Use case:** A freelance data analyst receives a client's raw finance CSV and delivers a clean dataset + professional report as the final deliverable.
+**Use case:** A freelance data analyst receives a client's raw finance CSV (in any format) and delivers a clean dataset + professional report as the final deliverable.
 
 ---
 
@@ -23,10 +24,11 @@ This project demonstrates a complete data analyst workflow:
 finance_analysis/
 │
 ├── scripts/
-│   ├── generate_dataset.py       # Generate sample dataset (for demo/testing)
+│   ├── 00_format_mapper.py       # Auto-detect & map any CSV format to standard
 │   ├── 01_data_cleaning.py       # Clean & validate raw data
 │   ├── 02_eda_visualization.py   # EDA & chart generation
-│   └── 03_report_generator.py   # HTML report generator
+│   ├── 03_report_generator.py   # HTML report generator
+│   └── generate_dataset.py       # Generate sample dataset (for demo/testing)
 │
 ├── data/
 │   ├── raw/                      # Raw input data (not committed to Git)
@@ -52,7 +54,7 @@ finance_analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/finance-analysis.git
+git clone https://github.com/armin-lee/finance-analysis.git
 cd finance-analysis
 ```
 
@@ -82,48 +84,80 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### Option A — Run full pipeline (recommended)
+### Option A — Demo with sample data
 ```bash
 python run_all.py
 ```
+Generates a complete analysis using synthetic sample data.
 
-This runs all scripts in order and generates the complete output.
-
-### Option B — Run scripts individually
+### Option B — Use your own client data (any CSV format)
 ```bash
-# Step 1: Generate sample data (skip if you have your own CSV)
-python scripts/generate_dataset.py
+python run_all.py --client-data
+```
+Automatically detects your CSV format, maps columns, and runs the full pipeline.
 
-# Step 2: Clean the data
-python scripts/01_data_cleaning.py
+### Option C — Skip to analysis (data already in standard format)
+```bash
+python run_all.py --skip-gen
+```
 
-# Step 3: Generate charts
-python scripts/02_eda_visualization.py
-
-# Step 4: Generate HTML report
-python scripts/03_report_generator.py
+### Option D — Run scripts individually
+```bash
+python scripts/00_format_mapper.py    # Step 0: Map client CSV to standard format
+python scripts/01_data_cleaning.py    # Step 1: Clean & validate
+python scripts/02_eda_visualization.py # Step 2: Generate charts
+python scripts/03_report_generator.py  # Step 3: Generate HTML report
 ```
 
 ---
 
-## 📥 Using Your Own Data
+## 📥 Using Client Data (Any Format)
 
-Replace the sample dataset with your own CSV file:
+The `00_format_mapper.py` script automatically handles CSV files from any source — no manual reformatting needed.
 
-1. Place your CSV in `data/raw/` and name it `personal_finance_raw.csv`
-2. Ensure your CSV has these columns:
+### How it works
+1. Place the client's CSV file in `data/raw/` (any filename)
+2. Run `python run_all.py --client-data`
+3. The mapper auto-detects format and converts to standard → pipeline runs automatically
 
-| Column | Type | Example |
-|--------|------|---------|
-| `date` | Date (YYYY-MM-DD) | 2024-03-15 |
-| `category` | String | Food |
-| `description` | String | Grocery Store |
-| `amount` | Float | 45.50 |
-| `type` | String | Expense / Income |
-| `payment_method` | String | Credit Card |
-| `notes` | String | *(optional)* |
+### Supported input formats
 
-3. Run `python run_all.py`
+**Column names** — automatically mapped from any of these variants:
+
+| Standard Column | Accepted Variants |
+|-----------------|-------------------|
+| `date` | date, tanggal, transaction date, posting date, waktu, timestamp... |
+| `amount` | amount, jumlah, nominal, value, total, debit, harga, biaya... |
+| `category` | category, kategori, type, jenis, spending category, tag... |
+| `description` | description, deskripsi, narration, merchant, payee, keterangan... |
+| `type` | type, tipe, debit/credit, income/expense, in/out... |
+| `payment_method` | payment method, channel, payment channel, metode, wallet... |
+| `notes` | notes, remarks, memo, comment, keterangan... |
+
+**Date formats** — 13 formats supported:
+
+| Format | Example |
+|--------|---------|
+| YYYY-MM-DD | 2024-03-15 |
+| DD/MM/YYYY | 15/03/2024 |
+| MM/DD/YYYY | 03/15/2024 |
+| DD-MM-YYYY | 15-03-2024 |
+| DD MMM YYYY | 15 Mar 2024 |
+| YYYYMMDD | 20240315 |
+| DD.MM.YYYY | 15.03.2024 |
+
+**Currency & amount** — auto-cleaned:
+- Symbols removed: `$`, `€`, `£`, `¥`, `Rp`, `IDR`, `USD`, `EUR`
+- Thousand separators: both `1,000.50` (US) and `1.000,50` (EU) formats
+- Negative values: both `-100` and `(100)` formats
+
+**Separators** — auto-detected: comma (`,`), semicolon (`;`), tab (`\t`)
+
+**Missing columns** — graceful fallbacks:
+- No `type` column → inferred from amount sign (negative = Expense)
+- No `category` → defaults to "Other"
+- No `payment_method` → defaults to "Unknown"
+- Extra columns → safely ignored
 
 ---
 
@@ -160,17 +194,34 @@ Replace the sample dataset with your own CSV file:
 
 ---
 
-## 📋 Data Cleaning Steps
+## 📋 Pipeline Steps
 
-The cleaning script (`01_data_cleaning.py`) performs:
+### Step 0 — Format Mapper (`00_format_mapper.py`)
+- Auto-detect CSV separator
+- Map column names from any language/format to standard
+- Parse 13 date format variants
+- Clean currency symbols and thousand separators
+- Infer income/expense from amount sign if type column missing
+- Generate mapping log
 
-- ✅ Fix data types (date → datetime, amount → float)
-- ✅ Fill missing values (description, payment_method → "Unknown")
-- ✅ Remove duplicate rows
-- ✅ Validate amount values (remove ≤ 0)
-- ✅ Flag statistical outliers (> mean + 3×std per category)
-- ✅ Add derived columns (month_name, week, day_of_week)
-- ✅ Generate cleaning log with full audit trail
+### Step 1 — Data Cleaning (`01_data_cleaning.py`)
+- Fix data types (date → datetime, amount → float)
+- Fill missing values (description, payment_method → "Unknown")
+- Remove duplicate rows
+- Validate amount values (remove ≤ 0)
+- Flag statistical outliers (> mean + 3×std per category)
+- Add derived columns (month_name, week, day_of_week)
+- Generate cleaning log with full audit trail
+
+### Step 2 — EDA & Visualization (`02_eda_visualization.py`)
+- Generate 5 professional charts
+- Compute key financial metrics
+- Export EDA summary CSV
+
+### Step 3 — Report Generator (`03_report_generator.py`)
+- Build self-contained HTML report
+- Embed all charts as base64
+- Include KPI cards, category table, monthly summary table
 
 ---
 
@@ -178,7 +229,7 @@ The cleaning script (`01_data_cleaning.py`) performs:
 
 - Report is HTML-based — to get PDF, use browser's Print → Save as PDF
 - Dataset generator uses synthetic data for demo purposes only
-- Google Trends and external APIs are not used in this pipeline
+- Format mapper works best with structured tabular CSV — not bank statement PDFs
 
 ---
 

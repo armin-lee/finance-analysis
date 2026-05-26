@@ -67,7 +67,9 @@ def run_script(script_name: str, label: str, step: int, total: int):
 def main():
     parser = argparse.ArgumentParser(description="Finance Analysis Pipeline")
     parser.add_argument("--skip-gen", action="store_true",
-                        help="Skip dataset generation")
+                        help="Skip dataset generation (use existing data)")
+    parser.add_argument("--client-data", action="store_true",
+                        help="Run format mapper first (for client CSV files)")
     args = parser.parse_args()
 
     print("\n" + "=" * 55)
@@ -89,7 +91,10 @@ def main():
 
     # Build pipeline
     scripts = []
-    if not args.skip_gen and not data_exists:
+
+    if args.client_data:
+        scripts.append(("00_format_mapper.py", "Auto-detect & map client CSV format"))
+    elif not args.skip_gen and not data_exists:
         scripts.append(("generate_dataset.py", "Generate sample dataset"))
 
     scripts += [
