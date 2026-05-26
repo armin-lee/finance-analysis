@@ -18,6 +18,27 @@ This project demonstrates a complete data analyst workflow:
 
 ---
 
+## 📈 Sample Output
+
+> Charts generated automatically from the sample dataset included in this repo.
+
+### Monthly Income vs Expense
+![Monthly Trend](sample/01_monthly_trend.png)
+
+### Spending by Category
+![Spending by Category](sample/02_spending_by_category.png)
+
+### Monthly Cashflow
+![Monthly Cashflow](sample/03_monthly_cashflow.png)
+
+### Top Category Trends
+![Category Trend](sample/04_category_trend.png)
+
+### Spending by Day of Week
+![Day of Week](sample/05_day_of_week.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -27,8 +48,16 @@ finance_analysis/
 │   ├── 00_format_mapper.py       # Auto-detect & map any CSV format to standard
 │   ├── 01_data_cleaning.py       # Clean & validate raw data
 │   ├── 02_eda_visualization.py   # EDA & chart generation
-│   ├── 03_report_generator.py   # HTML report generator
+│   ├── 03_report_generator.py    # HTML report generator
 │   └── generate_dataset.py       # Generate sample dataset (for demo/testing)
+│
+├── sample/                       # Sample data & charts for preview
+│   ├── sample_data.csv           # 50-row sample dataset
+│   ├── 01_monthly_trend.png
+│   ├── 02_spending_by_category.png
+│   ├── 03_monthly_cashflow.png
+│   ├── 04_category_trend.png
+│   └── 05_day_of_week.png
 │
 ├── data/
 │   ├── raw/                      # Raw input data (not committed to Git)
@@ -103,8 +132,8 @@ python run_all.py --skip-gen
 
 ### Option D — Run scripts individually
 ```bash
-python scripts/00_format_mapper.py    # Step 0: Map client CSV to standard format
-python scripts/01_data_cleaning.py    # Step 1: Clean & validate
+python scripts/00_format_mapper.py     # Step 0: Map client CSV to standard format
+python scripts/01_data_cleaning.py     # Step 1: Clean & validate
 python scripts/02_eda_visualization.py # Step 2: Generate charts
 python scripts/03_report_generator.py  # Step 3: Generate HTML report
 ```
@@ -161,24 +190,25 @@ The `00_format_mapper.py` script automatically handles CSV files from any source
 
 ---
 
-## 📊 Sample Output
+## 📊 Sample Dataset
 
-### Key Metrics
-| Metric | Value |
-|--------|-------|
-| Analysis Period | 2023–2024 (24 months) |
-| Total Transactions | ~1,500 |
-| Charts Generated | 5 |
-| Report Format | HTML (print to PDF) |
+A 50-row sample dataset is included in `sample/sample_data.csv` for testing and demonstration.
 
-### Charts Included
-| # | Chart | Description |
-|---|-------|-------------|
-| 1 | Monthly Trend | Income vs Expense line chart |
-| 2 | Category Breakdown | Pie + bar chart by category |
-| 3 | Monthly Cashflow | Surplus/deficit bar chart |
-| 4 | Category Trend | Top 5 categories over time |
-| 5 | Day of Week | Average spending by weekday |
+| Column | Description |
+|--------|-------------|
+| date | Transaction date (YYYY-MM-DD) |
+| category | Spending category (Food, Housing, Transport, etc.) |
+| description | Transaction description |
+| amount | Transaction amount (USD) |
+| type | Expense or Income |
+| payment_method | Payment method used |
+
+Try it:
+```bash
+# Copy sample data to raw folder and run pipeline
+copy sample\sample_data.csv data\raw\personal_finance_raw.csv
+python run_all.py --skip-gen
+```
 
 ---
 

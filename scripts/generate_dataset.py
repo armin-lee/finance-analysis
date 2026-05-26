@@ -16,16 +16,16 @@ END_DATE   = datetime(2024, 12, 31)
 N_ROWS     = 1500
 
 CATEGORIES = {
-    "Housing":      {"weight": 0.15, "min": 500,  "max": 2500},
-    "Food":         {"weight": 0.20, "min": 5,    "max": 300},
-    "Transport":    {"weight": 0.12, "min": 10,   "max": 500},
-    "Healthcare":   {"weight": 0.06, "min": 20,   "max": 800},
-    "Shopping":     {"weight": 0.12, "min": 10,   "max": 600},
-    "Entertainment":{"weight": 0.08, "min": 5,    "max": 200},
-    "Utilities":    {"weight": 0.08, "min": 30,   "max": 300},
-    "Education":    {"weight": 0.05, "min": 50,   "max": 1000},
-    "Travel":       {"weight": 0.07, "min": 100,  "max": 3000},
-    "Other":        {"weight": 0.07, "min": 5,    "max": 500},
+    "Housing":      {"weight": 0.15, "min": 100,  "max": 800},
+    "Food":         {"weight": 0.20, "min": 5,    "max": 120},
+    "Transport":    {"weight": 0.12, "min": 5,    "max": 150},
+    "Healthcare":   {"weight": 0.06, "min": 10,   "max": 200},
+    "Shopping":     {"weight": 0.12, "min": 10,   "max": 200},
+    "Entertainment":{"weight": 0.08, "min": 5,    "max": 80},
+    "Utilities":    {"weight": 0.08, "min": 20,   "max": 150},
+    "Education":    {"weight": 0.05, "min": 20,   "max": 300},
+    "Travel":       {"weight": 0.07, "min": 50,   "max": 600},
+    "Other":        {"weight": 0.07, "min": 5,    "max": 150},
 }
 
 INCOME_SOURCES = ["Salary", "Freelance", "Investment", "Bonus", "Other Income"]
@@ -89,13 +89,13 @@ for month_offset in range(24):
         "quarter":        f"Q{(date.month - 1) // 3 + 1}",
         "category":       "Income",
         "description":    "Monthly Salary",
-        "amount":         random.uniform(4500, 5500),
+        "amount":         round(random.uniform(8500, 10500), 2),
         "type":           "Income",
         "payment_method": "Bank Transfer",
         "notes":          "",
     })
-    # Freelance income kadang-kadang
-    if random.random() < 0.4:
+    # Freelance income — cukup sering
+    if random.random() < 0.6:
         rows.append({
             "date":           (date + timedelta(days=random.randint(1, 28))).strftime("%Y-%m-%d"),
             "month":          date.strftime("%Y-%m"),
@@ -103,7 +103,7 @@ for month_offset in range(24):
             "quarter":        f"Q{(date.month - 1) // 3 + 1}",
             "category":       "Income",
             "description":    "Freelance Payment",
-            "amount":         round(random.uniform(200, 1500), 2),
+            "amount":         round(random.uniform(500, 2500), 2),
             "type":           "Income",
             "payment_method": "Bank Transfer",
             "notes":          "",
