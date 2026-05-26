@@ -1,0 +1,12 @@
+metric,value
+total_income,132278.03
+total_expense,860816.24
+total_savings,-728538.2
+savings_rate_pct,-550.8
+avg_monthly_income,6012.64
+avg_monthly_expense,35867.34
+top_category,Housing
+top_category_amount,388811.36
+total_transactions,1536
+date_range,2023-01-01 to 2024-12-31
+outliers_flagged,21

@@ -1,0 +1,1537 @@
+date,month,year,quarter,category,description,amount,type,payment_method,notes,is_outlier,month_name,week,day_of_week,amount_usd
+2023-01-01,2023-01,2023,Q1,Income,Monthly Salary,4686.400038779134,Income,Bank Transfer,,False,January 2023,52,Sunday,4686.4
+2023-01-01,2023-01,2023,Q1,Shopping,Electronics,187.56,Expense,Cash,,False,January 2023,52,Sunday,187.56
+2023-01-01,2023-01,2023,Q1,Housing,Monthly Rent,1324.68,Expense,Digital Wallet,,False,January 2023,52,Sunday,1324.68
+2023-01-01,2023-01,2023,Q1,Housing,Monthly Rent,1495.4,Expense,Bank Transfer,,False,January 2023,52,Sunday,1495.4
+2023-01-03,2023-01,2023,Q1,Food,Supermarket,274.64,Expense,Bank Transfer,,False,January 2023,1,Tuesday,274.64
+2023-01-03,2023-01,2023,Q1,Healthcare,Pharmacy,597.09,Expense,Cash,,False,January 2023,1,Tuesday,597.09
+2023-01-05,2023-01,2023,Q1,Shopping,Unknown,401.25,Expense,Digital Wallet,,False,January 2023,1,Thursday,401.25
+2023-01-05,2023-01,2023,Q1,Other,Bank Fee,230.11,Expense,Debit Card,,False,January 2023,1,Thursday,230.11
+2023-01-05,2023-01,2023,Q1,Travel,Hotel,1403.77,Expense,Debit Card,,False,January 2023,1,Thursday,1403.77
+2023-01-06,2023-01,2023,Q1,Shopping,Amazon,337.49,Expense,Digital Wallet,,False,January 2023,1,Friday,337.49
+2023-01-06,2023-01,2023,Q1,Transport,Parking,429.15,Expense,Bank Transfer,,False,January 2023,1,Friday,429.15
+2023-01-06,2023-01,2023,Q1,Shopping,Online Shopping,330.8,Expense,Digital Wallet,,False,January 2023,1,Friday,330.8
+2023-01-07,2023-01,2023,Q1,Transport,Uber/Grab,230.11,Expense,Bank Transfer,,False,January 2023,1,Saturday,230.11
+2023-01-07,2023-01,2023,Q1,Housing,Home Insurance,770.17,Expense,Debit Card,,False,January 2023,1,Saturday,770.17
+2023-01-07,2023-01,2023,Q1,Shopping,Home Goods,280.14,Expense,Cash,,False,January 2023,1,Saturday,280.14
+2023-01-07,2023-01,2023,Q1,Other,Subscription,297.39,Expense,Cash,,False,January 2023,1,Saturday,297.39
+2023-01-08,2023-01,2023,Q1,Utilities,Gas Bill,245.45,Expense,Cash,,False,January 2023,1,Sunday,245.45
+2023-01-09,2023-01,2023,Q1,Travel,Hotel,1977.38,Expense,Cash,,False,January 2023,2,Monday,1977.38
+2023-01-10,2023-01,2023,Q1,Transport,Car Insurance,465.22,Expense,Digital Wallet,,False,January 2023,2,Tuesday,465.22
+2023-01-10,2023-01,2023,Q1,Utilities,Water Bill,229.41,Expense,Bank Transfer,,False,January 2023,2,Tuesday,229.41
+2023-01-11,2023-01,2023,Q1,Healthcare,Pharmacy,90.63,Expense,Digital Wallet,,False,January 2023,2,Wednesday,90.63
+2023-01-13,2023-01,2023,Q1,Healthcare,Lab Tests,478.49,Expense,Credit Card,,False,January 2023,2,Friday,478.49
+2023-01-13,2023-01,2023,Q1,Entertainment,Spotify,94.71,Expense,Bank Transfer,,False,January 2023,2,Friday,94.71
+2023-01-13,2023-01,2023,Q1,Travel,Flight Ticket,825.23,Expense,Debit Card,,False,January 2023,2,Friday,825.23
+2023-01-13,2023-01,2023,Q1,Utilities,Water Bill,30.69,Expense,Credit Card,,False,January 2023,2,Friday,30.69
+2023-01-13,2023-01,2023,Q1,Healthcare,Dental,483.27,Expense,Cash,,False,January 2023,2,Friday,483.27
+2023-01-15,2023-01,2023,Q1,Housing,Home Insurance,1567.57,Expense,Digital Wallet,,False,January 2023,2,Sunday,1567.57
+2023-01-15,2023-01,2023,Q1,Travel,Airbnb,2619.38,Expense,Credit Card,,False,January 2023,2,Sunday,2619.38
+2023-01-16,2023-01,2023,Q1,Healthcare,Pharmacy,698.19,Expense,Debit Card,,False,January 2023,3,Monday,698.19
+2023-01-17,2023-01,2023,Q1,Income,Freelance Payment,436.58,Income,Bank Transfer,,False,January 2023,3,Tuesday,436.58
+2023-01-17,2023-01,2023,Q1,Housing,Mortgage Payment,1820.4,Expense,Debit Card,,False,January 2023,3,Tuesday,1820.4
+2023-01-17,2023-01,2023,Q1,Housing,Mortgage Payment,1256.42,Expense,Digital Wallet,,False,January 2023,3,Tuesday,1256.42
+2023-01-17,2023-01,2023,Q1,Housing,Maintenance,2310.29,Expense,Digital Wallet,,False,January 2023,3,Tuesday,2310.29
+2023-01-17,2023-01,2023,Q1,Transport,Gas Station,296.93,Expense,Bank Transfer,,False,January 2023,3,Tuesday,296.93
+2023-01-17,2023-01,2023,Q1,Transport,Uber/Grab,396.33,Expense,Cash,,False,January 2023,3,Tuesday,396.33
+2023-01-17,2023-01,2023,Q1,Entertainment,Spotify,39.97,Expense,Digital Wallet,,False,January 2023,3,Tuesday,39.97
+2023-01-18,2023-01,2023,Q1,Utilities,Gas Bill,287.7,Expense,Credit Card,,False,January 2023,3,Wednesday,287.7
+2023-01-18,2023-01,2023,Q1,Transport,Car Insurance,318.81,Expense,Credit Card,,False,January 2023,3,Wednesday,318.81
+2023-01-18,2023-01,2023,Q1,Healthcare,Lab Tests,234.3,Expense,Bank Transfer,,False,January 2023,3,Wednesday,234.3
+2023-01-19,2023-01,2023,Q1,Education,Workshop,849.48,Expense,Credit Card,,False,January 2023,3,Thursday,849.48
+2023-01-20,2023-01,2023,Q1,Utilities,Gas Bill,199.19,Expense,Credit Card,,False,January 2023,3,Friday,199.19
+2023-01-20,2023-01,2023,Q1,Housing,Home Insurance,2372.36,Expense,Debit Card,,False,January 2023,3,Friday,2372.36
+2023-01-21,2023-01,2023,Q1,Entertainment,Netflix,57.47,Expense,Bank Transfer,,False,January 2023,3,Saturday,57.47
+2023-01-21,2023-01,2023,Q1,Shopping,Online Shopping,34.92,Expense,Credit Card,,False,January 2023,3,Saturday,34.92
+2023-01-21,2023-01,2023,Q1,Utilities,Phone Bill,150.22,Expense,Digital Wallet,,False,January 2023,3,Saturday,150.22
+2023-01-23,2023-01,2023,Q1,Food,Supermarket,295.54,Expense,Digital Wallet,,False,January 2023,4,Monday,295.54
+2023-01-24,2023-01,2023,Q1,Shopping,Electronics,247.06,Expense,Bank Transfer,,False,January 2023,4,Tuesday,247.06
+2023-01-24,2023-01,2023,Q1,Other,ATM Withdrawal,209.92,Expense,Debit Card,,False,January 2023,4,Tuesday,209.92
+2023-01-25,2023-01,2023,Q1,Food,Supermarket,88.57,Expense,Credit Card,,False,January 2023,4,Wednesday,88.57
+2023-01-25,2023-01,2023,Q1,Entertainment,Games,172.29,Expense,Bank Transfer,,False,January 2023,4,Wednesday,172.29
+2023-01-25,2023-01,2023,Q1,Food,Coffee Shop,99.62,Expense,Debit Card,,False,January 2023,4,Wednesday,99.62
+2023-01-27,2023-01,2023,Q1,Food,Restaurant,56.48,Expense,Credit Card,,False,January 2023,4,Friday,56.48
+2023-01-27,2023-01,2023,Q1,Food,Restaurant,87.21,Expense,Bank Transfer,,False,January 2023,4,Friday,87.21
+2023-01-28,2023-01,2023,Q1,Education,Tuition,381.43,Expense,Bank Transfer,,False,January 2023,4,Saturday,381.43
+2023-01-30,2023-01,2023,Q1,Travel,Flight Ticket,407.6,Expense,Bank Transfer,,False,January 2023,5,Monday,407.6
+2023-01-30,2023-01,2023,Q1,Food,Grocery Store,272.5,Expense,Cash,,False,January 2023,5,Monday,272.5
+2023-01-30,2023-01,2023,Q1,Shopping,Online Shopping,128.01,Expense,Debit Card,,False,January 2023,5,Monday,128.01
+2023-01-31,2023-01,2023,Q1,Education,Workshop,644.5,Expense,Cash,,False,January 2023,5,Tuesday,644.5
+2023-01-31,2023-01,2023,Q1,Income,Monthly Salary,5448.483311461197,Income,Bank Transfer,,False,January 2023,5,Tuesday,5448.48
+2023-02-01,2023-02,2023,Q1,Healthcare,Pharmacy,515.62,Expense,Cash,,False,February 2023,5,Wednesday,515.62
+2023-02-01,2023-02,2023,Q1,Transport,Uber/Grab,402.54,Expense,Digital Wallet,,False,February 2023,5,Wednesday,402.54
+2023-02-02,2023-02,2023,Q1,Other,Bank Fee,39.16,Expense,Bank Transfer,,False,February 2023,5,Thursday,39.16
+2023-02-04,2023-02,2023,Q1,Transport,Uber/Grab,487.74,Expense,Bank Transfer,,False,February 2023,5,Saturday,487.74
+2023-02-05,2023-02,2023,Q1,Other,Bank Fee,226.51,Expense,Digital Wallet,,False,February 2023,5,Sunday,226.51
+2023-02-05,2023-02,2023,Q1,Healthcare,Lab Tests,81.58,Expense,Digital Wallet,,False,February 2023,5,Sunday,81.58
+2023-02-06,2023-02,2023,Q1,Other,Donation,400.12,Expense,Cash,,False,February 2023,6,Monday,400.12
+2023-02-06,2023-02,2023,Q1,Transport,Gas Station,427.91,Expense,Debit Card,,False,February 2023,6,Monday,427.91
+2023-02-06,2023-02,2023,Q1,Healthcare,Lab Tests,318.72,Expense,Bank Transfer,,False,February 2023,6,Monday,318.72
+2023-02-07,2023-02,2023,Q1,Healthcare,Pharmacy,793.21,Expense,Debit Card,,False,February 2023,6,Tuesday,793.21
+2023-02-07,2023-02,2023,Q1,Transport,Car Insurance,420.43,Expense,Bank Transfer,,False,February 2023,6,Tuesday,420.43
+2023-02-08,2023-02,2023,Q1,Food,Restaurant,94.18,Expense,Credit Card,,False,February 2023,6,Wednesday,94.18
+2023-02-08,2023-02,2023,Q1,Transport,Uber/Grab,247.94,Expense,Cash,,False,February 2023,6,Wednesday,247.94
+2023-02-08,2023-02,2023,Q1,Food,Food Delivery,113.14,Expense,Cash,,False,February 2023,6,Wednesday,113.14
+2023-02-08,2023-02,2023,Q1,Food,Grocery Store,122.81,Expense,Cash,,False,February 2023,6,Wednesday,122.81
+2023-02-08,2023-02,2023,Q1,Housing,Property Tax,839.56,Expense,Bank Transfer,,False,February 2023,6,Wednesday,839.56
+2023-02-08,2023-02,2023,Q1,Transport,Parking,277.62,Expense,Bank Transfer,,False,February 2023,6,Wednesday,277.62
+2023-02-09,2023-02,2023,Q1,Shopping,Amazon,319.89,Expense,Credit Card,,False,February 2023,6,Thursday,319.89
+2023-02-09,2023-02,2023,Q1,Food,Food Delivery,211.88,Expense,Debit Card,,False,February 2023,6,Thursday,211.88
+2023-02-09,2023-02,2023,Q1,Food,Grocery Store,296.32,Expense,Bank Transfer,,False,February 2023,6,Thursday,296.32
+2023-02-10,2023-02,2023,Q1,Food,Coffee Shop,270.2,Expense,Debit Card,,False,February 2023,6,Friday,270.2
+2023-02-10,2023-02,2023,Q1,Entertainment,Games,74.84,Expense,Bank Transfer,,False,February 2023,6,Friday,74.84
+2023-02-11,2023-02,2023,Q1,Shopping,Clothing Store,268.81,Expense,Credit Card,,False,February 2023,6,Saturday,268.81
+2023-02-11,2023-02,2023,Q1,Other,ATM Withdrawal,337.78,Expense,Bank Transfer,,False,February 2023,6,Saturday,337.78
+2023-02-12,2023-02,2023,Q1,Other,Miscellaneous,480.87,Expense,Bank Transfer,,False,February 2023,6,Sunday,480.87
+2023-02-12,2023-02,2023,Q1,Healthcare,Health Insurance,380.92,Expense,Digital Wallet,,False,February 2023,6,Sunday,380.92
+2023-02-14,2023-02,2023,Q1,Shopping,Clothing Store,104.34,Expense,Cash,,False,February 2023,7,Tuesday,104.34
+2023-02-15,2023-02,2023,Q1,Housing,Property Tax,1595.07,Expense,Bank Transfer,,False,February 2023,7,Wednesday,1595.07
+2023-02-15,2023-02,2023,Q1,Housing,Property Tax,2299.01,Expense,Credit Card,,False,February 2023,7,Wednesday,2299.01
+2023-02-16,2023-02,2023,Q1,Utilities,Electricity Bill,55.65,Expense,Debit Card,,False,February 2023,7,Thursday,55.65
+2023-02-16,2023-02,2023,Q1,Transport,Car Insurance,451.12,Expense,Cash,,False,February 2023,7,Thursday,451.12
+2023-02-16,2023-02,2023,Q1,Other,Miscellaneous,483.77,Expense,Cash,,False,February 2023,7,Thursday,483.77
+2023-02-17,2023-02,2023,Q1,Food,Supermarket,105.4,Expense,Cash,,False,February 2023,7,Friday,105.4
+2023-02-17,2023-02,2023,Q1,Travel,Flight Ticket,427.52,Expense,Cash,,False,February 2023,7,Friday,427.52
+2023-02-19,2023-02,2023,Q1,Utilities,Electricity Bill,198.25,Expense,Credit Card,,False,February 2023,7,Sunday,198.25
+2023-02-19,2023-02,2023,Q1,Entertainment,Games,91.58,Expense,Debit Card,,False,February 2023,7,Sunday,91.58
+2023-02-19,2023-02,2023,Q1,Education,Unknown,798.89,Expense,Credit Card,,False,February 2023,7,Sunday,798.89
+2023-02-19,2023-02,2023,Q1,Education,Online Course,120.61,Expense,Bank Transfer,,False,February 2023,7,Sunday,120.61
+2023-02-21,2023-02,2023,Q1,Transport,Gas Station,488.87,Expense,Debit Card,,False,February 2023,8,Tuesday,488.87
+2023-02-21,2023-02,2023,Q1,Transport,Parking,432.06,Expense,Credit Card,,False,February 2023,8,Tuesday,432.06
+2023-02-21,2023-02,2023,Q1,Food,Supermarket,287.6,Expense,Debit Card,,False,February 2023,8,Tuesday,287.6
+2023-02-21,2023-02,2023,Q1,Housing,Home Insurance,1399.19,Expense,Bank Transfer,,False,February 2023,8,Tuesday,1399.19
+2023-02-21,2023-02,2023,Q1,Housing,Monthly Rent,557.99,Expense,Bank Transfer,,False,February 2023,8,Tuesday,557.99
+2023-02-21,2023-02,2023,Q1,Other,Bank Fee,111.5,Expense,Bank Transfer,,False,February 2023,8,Tuesday,111.5
+2023-02-22,2023-02,2023,Q1,Shopping,Clothing Store,304.11,Expense,Cash,,False,February 2023,8,Wednesday,304.11
+2023-02-23,2023-02,2023,Q1,Housing,Property Tax,1829.02,Expense,Cash,,False,February 2023,8,Thursday,1829.02
+2023-02-23,2023-02,2023,Q1,Utilities,Gas Bill,234.77,Expense,Debit Card,,False,February 2023,8,Thursday,234.77
+2023-02-23,2023-02,2023,Q1,Shopping,Clothing Store,80.45,Expense,Debit Card,,False,February 2023,8,Thursday,80.45
+2023-02-24,2023-02,2023,Q1,Food,Food Delivery,237.81,Expense,Credit Card,,False,February 2023,8,Friday,237.81
+2023-02-24,2023-02,2023,Q1,Education,Books,674.55,Expense,Debit Card,,False,February 2023,8,Friday,674.55
+2023-02-25,2023-02,2023,Q1,Utilities,Water Bill,260.25,Expense,Digital Wallet,,False,February 2023,8,Saturday,260.25
+2023-02-25,2023-02,2023,Q1,Housing,Property Tax,1514.22,Expense,Cash,,False,February 2023,8,Saturday,1514.22
+2023-02-25,2023-02,2023,Q1,Education,Online Course,580.43,Expense,Debit Card,,False,February 2023,8,Saturday,580.43
+2023-02-25,2023-02,2023,Q1,Housing,Maintenance,1568.27,Expense,Cash,,False,February 2023,8,Saturday,1568.27
+2023-02-25,2023-02,2023,Q1,Travel,Travel Insurance,313.24,Expense,Debit Card,,False,February 2023,8,Saturday,313.24
+2023-02-25,2023-02,2023,Q1,Food,Coffee Shop,144.71,Expense,Digital Wallet,,False,February 2023,8,Saturday,144.71
+2023-02-26,2023-02,2023,Q1,Utilities,Electricity Bill,64.84,Expense,Digital Wallet,,False,February 2023,8,Sunday,64.84
+2023-02-26,2023-02,2023,Q1,Travel,Airbnb,436.36,Expense,Debit Card,,False,February 2023,8,Sunday,436.36
+2023-02-26,2023-02,2023,Q1,Education,Tuition,247.26,Expense,Credit Card,,False,February 2023,8,Sunday,247.26
+2023-02-27,2023-02,2023,Q1,Food,Coffee Shop,98.74,Expense,Bank Transfer,,False,February 2023,9,Monday,98.74
+2023-02-27,2023-02,2023,Q1,Entertainment,Spotify,56.97,Expense,Digital Wallet,,False,February 2023,9,Monday,56.97
+2023-02-27,2023-02,2023,Q1,Utilities,Gas Bill,235.06,Expense,Debit Card,,False,February 2023,9,Monday,235.06
+2023-02-28,2023-02,2023,Q1,Shopping,Online Shopping,266.61,Expense,Bank Transfer,,False,February 2023,9,Tuesday,266.61
+2023-03-01,2023-03,2023,Q1,Entertainment,Games,128.82,Expense,Bank Transfer,,False,March 2023,9,Wednesday,128.82
+2023-03-01,2023-03,2023,Q1,Shopping,Electronics,201.92,Expense,Bank Transfer,,False,March 2023,9,Wednesday,201.92
+2023-03-01,2023-03,2023,Q1,Food,Restaurant,263.18,Expense,Credit Card,,False,March 2023,9,Wednesday,263.18
+2023-03-01,2023-03,2023,Q1,Entertainment,Spotify,147.34,Expense,Credit Card,,False,March 2023,9,Wednesday,147.34
+2023-03-01,2023-03,2023,Q1,Transport,Parking,261.49,Expense,Bank Transfer,,False,March 2023,9,Wednesday,261.49
+2023-03-01,2023-03,2023,Q1,Food,Grocery Store,296.06,Expense,Bank Transfer,,False,March 2023,9,Wednesday,296.06
+2023-03-02,2023-03,2023,Q1,Income,Monthly Salary,5314.370454941492,Income,Bank Transfer,,False,March 2023,9,Thursday,5314.37
+2023-03-02,2023-03,2023,Q1,Travel,Tour Package,1672.2,Expense,Credit Card,,False,March 2023,9,Thursday,1672.2
+2023-03-03,2023-03,2023,Q1,Healthcare,Pharmacy,205.77,Expense,Cash,,False,March 2023,9,Friday,205.77
+2023-03-03,2023-03,2023,Q1,Utilities,Water Bill,234.46,Expense,Cash,,False,March 2023,9,Friday,234.46
+2023-03-03,2023-03,2023,Q1,Other,Bank Fee,498.5,Expense,Debit Card,,False,March 2023,9,Friday,498.5
+2023-03-04,2023-03,2023,Q1,Utilities,Internet,133.96,Expense,Bank Transfer,,False,March 2023,9,Saturday,133.96
+2023-03-04,2023-03,2023,Q1,Shopping,Online Shopping,351.57,Expense,Bank Transfer,,False,March 2023,9,Saturday,351.57
+2023-03-04,2023-03,2023,Q1,Income,Freelance Payment,1174.89,Income,Bank Transfer,,False,March 2023,9,Saturday,1174.89
+2023-03-04,2023-03,2023,Q1,Transport,Car Insurance,380.66,Expense,Digital Wallet,,False,March 2023,9,Saturday,380.66
+2023-03-05,2023-03,2023,Q1,Healthcare,Pharmacy,496.95,Expense,Digital Wallet,,False,March 2023,9,Sunday,496.95
+2023-03-05,2023-03,2023,Q1,Food,Food Delivery,235.32,Expense,Bank Transfer,,False,March 2023,9,Sunday,235.32
+2023-03-05,2023-03,2023,Q1,Entertainment,Gym Membership,20.23,Expense,Digital Wallet,,False,March 2023,9,Sunday,20.23
+2023-03-06,2023-03,2023,Q1,Travel,Flight Ticket,670.94,Expense,Credit Card,,False,March 2023,10,Monday,670.94
+2023-03-06,2023-03,2023,Q1,Education,Workshop,787.22,Expense,Bank Transfer,,False,March 2023,10,Monday,787.22
+2023-03-07,2023-03,2023,Q1,Healthcare,Dental,349.16,Expense,Bank Transfer,,False,March 2023,10,Tuesday,349.16
+2023-03-07,2023-03,2023,Q1,Housing,Property Tax,1983.44,Expense,Bank Transfer,,False,March 2023,10,Tuesday,1983.44
+2023-03-07,2023-03,2023,Q1,Shopping,Amazon,36.72,Expense,Credit Card,,False,March 2023,10,Tuesday,36.72
+2023-03-08,2023-03,2023,Q1,Shopping,Clothing Store,551.28,Expense,Bank Transfer,,False,March 2023,10,Wednesday,551.28
+2023-03-08,2023-03,2023,Q1,Shopping,Clothing Store,48.56,Expense,Cash,,False,March 2023,10,Wednesday,48.56
+2023-03-09,2023-03,2023,Q1,Transport,Uber/Grab,339.92,Expense,Bank Transfer,,False,March 2023,10,Thursday,339.92
+2023-03-10,2023-03,2023,Q1,Education,Online Course,294.99,Expense,Bank Transfer,,False,March 2023,10,Friday,294.99
+2023-03-11,2023-03,2023,Q1,Entertainment,Gym Membership,115.14,Expense,Digital Wallet,,False,March 2023,10,Saturday,115.14
+2023-03-11,2023-03,2023,Q1,Shopping,Electronics,417.11,Expense,Cash,,False,March 2023,10,Saturday,417.11
+2023-03-12,2023-03,2023,Q1,Utilities,Phone Bill,294.98,Expense,Cash,,False,March 2023,10,Sunday,294.98
+2023-03-12,2023-03,2023,Q1,Other,Subscription,68.92,Expense,Debit Card,,False,March 2023,10,Sunday,68.92
+2023-03-12,2023-03,2023,Q1,Food,Coffee Shop,64.11,Expense,Debit Card,,False,March 2023,10,Sunday,64.11
+2023-03-13,2023-03,2023,Q1,Education,Workshop,217.37,Expense,Credit Card,,False,March 2023,11,Monday,217.37
+2023-03-13,2023-03,2023,Q1,Entertainment,Cinema,82.7,Expense,Cash,,False,March 2023,11,Monday,82.7
+2023-03-13,2023-03,2023,Q1,Travel,Flight Ticket,1148.74,Expense,Debit Card,,False,March 2023,11,Monday,1148.74
+2023-03-14,2023-03,2023,Q1,Travel,Travel Insurance,1792.37,Expense,Debit Card,,False,March 2023,11,Tuesday,1792.37
+2023-03-14,2023-03,2023,Q1,Food,Restaurant,13.57,Expense,Bank Transfer,,False,March 2023,11,Tuesday,13.57
+2023-03-15,2023-03,2023,Q1,Shopping,Online Shopping,347.27,Expense,Debit Card,,False,March 2023,11,Wednesday,347.27
+2023-03-15,2023-03,2023,Q1,Other,Miscellaneous,336.68,Expense,Debit Card,,False,March 2023,11,Wednesday,336.68
+2023-03-17,2023-03,2023,Q1,Entertainment,Netflix,139.0,Expense,Cash,,False,March 2023,11,Friday,139.0
+2023-03-17,2023-03,2023,Q1,Housing,Monthly Rent,1933.74,Expense,Debit Card,,False,March 2023,11,Friday,1933.74
+2023-03-19,2023-03,2023,Q1,Food,Supermarket,192.46,Expense,Debit Card,,False,March 2023,11,Sunday,192.46
+2023-03-20,2023-03,2023,Q1,Housing,Monthly Rent,1281.37,Expense,Debit Card,,False,March 2023,12,Monday,1281.37
+2023-03-20,2023-03,2023,Q1,Other,Miscellaneous,278.65,Expense,Digital Wallet,,False,March 2023,12,Monday,278.65
+2023-03-20,2023-03,2023,Q1,Healthcare,Doctor Visit,250.48,Expense,Digital Wallet,,False,March 2023,12,Monday,250.48
+2023-03-20,2023-03,2023,Q1,Entertainment,Netflix,161.5,Expense,Debit Card,,False,March 2023,12,Monday,161.5
+2023-03-20,2023-03,2023,Q1,Housing,Home Insurance,2141.38,Expense,Debit Card,,False,March 2023,12,Monday,2141.38
+2023-03-21,2023-03,2023,Q1,Housing,Mortgage Payment,1492.37,Expense,Cash,,False,March 2023,12,Tuesday,1492.37
+2023-03-21,2023-03,2023,Q1,Shopping,Amazon,474.51,Expense,Credit Card,,False,March 2023,12,Tuesday,474.51
+2023-03-22,2023-03,2023,Q1,Other,Bank Fee,261.85,Expense,Debit Card,,False,March 2023,12,Wednesday,261.85
+2023-03-22,2023-03,2023,Q1,Transport,Car Insurance,134.95,Expense,Cash,,False,March 2023,12,Wednesday,134.95
+2023-03-22,2023-03,2023,Q1,Entertainment,Games,100.06,Expense,Digital Wallet,,False,March 2023,12,Wednesday,100.06
+2023-03-23,2023-03,2023,Q1,Housing,Property Tax,2342.07,Expense,Credit Card,,False,March 2023,12,Thursday,2342.07
+2023-03-23,2023-03,2023,Q1,Entertainment,Spotify,188.39,Expense,Debit Card,,False,March 2023,12,Thursday,188.39
+2023-03-23,2023-03,2023,Q1,Transport,Parking,41.4,Expense,Credit Card,,False,March 2023,12,Thursday,41.4
+2023-03-24,2023-03,2023,Q1,Healthcare,Dental,729.57,Expense,Digital Wallet,,False,March 2023,12,Friday,729.57
+2023-03-25,2023-03,2023,Q1,Food,Coffee Shop,227.56,Expense,Bank Transfer,,False,March 2023,12,Saturday,227.56
+2023-03-25,2023-03,2023,Q1,Housing,Home Insurance,1504.01,Expense,Debit Card,,False,March 2023,12,Saturday,1504.01
+2023-03-27,2023-03,2023,Q1,Food,Food Delivery,58.75,Expense,Cash,,False,March 2023,13,Monday,58.75
+2023-03-27,2023-03,2023,Q1,Housing,Monthly Rent,1294.03,Expense,Cash,,False,March 2023,13,Monday,1294.03
+2023-03-27,2023-03,2023,Q1,Shopping,Electronics,327.22,Expense,Credit Card,,False,March 2023,13,Monday,327.22
+2023-03-28,2023-03,2023,Q1,Travel,Tour Package,135.79,Expense,Debit Card,,False,March 2023,13,Tuesday,135.79
+2023-03-28,2023-03,2023,Q1,Housing,Maintenance,2298.25,Expense,Debit Card,,False,March 2023,13,Tuesday,2298.25
+2023-03-29,2023-03,2023,Q1,Entertainment,Netflix,97.48,Expense,Bank Transfer,,False,March 2023,13,Wednesday,97.48
+2023-03-29,2023-03,2023,Q1,Housing,Home Insurance,2004.47,Expense,Digital Wallet,,False,March 2023,13,Wednesday,2004.47
+2023-03-29,2023-03,2023,Q1,Utilities,Internet,225.08,Expense,Debit Card,,False,March 2023,13,Wednesday,225.08
+2023-03-31,2023-03,2023,Q1,Shopping,Amazon,272.82,Expense,Bank Transfer,,False,March 2023,13,Friday,272.82
+2023-03-31,2023-03,2023,Q1,Food,Coffee Shop,17.99,Expense,Bank Transfer,,False,March 2023,13,Friday,17.99
+2023-04-01,2023-04,2023,Q2,Other,Bank Fee,88.1,Expense,Bank Transfer,,False,April 2023,13,Saturday,88.1
+2023-04-01,2023-04,2023,Q2,Income,Monthly Salary,5309.178626233076,Income,Bank Transfer,,False,April 2023,13,Saturday,5309.18
+2023-04-02,2023-04,2023,Q2,Food,Grocery Store,289.69,Expense,Debit Card,,False,April 2023,13,Sunday,289.69
+2023-04-02,2023-04,2023,Q2,Shopping,Online Shopping,443.02,Expense,Digital Wallet,,False,April 2023,13,Sunday,443.02
+2023-04-02,2023-04,2023,Q2,Healthcare,Dental,284.56,Expense,Digital Wallet,,False,April 2023,13,Sunday,284.56
+2023-04-03,2023-04,2023,Q2,Transport,Parking,150.67,Expense,Digital Wallet,,False,April 2023,14,Monday,150.67
+2023-04-04,2023-04,2023,Q2,Entertainment,Netflix,152.27,Expense,Credit Card,,False,April 2023,14,Tuesday,152.27
+2023-04-04,2023-04,2023,Q2,Travel,Flight Ticket,1186.47,Expense,Bank Transfer,,False,April 2023,14,Tuesday,1186.47
+2023-04-04,2023-04,2023,Q2,Transport,Parking,53.85,Expense,Cash,,False,April 2023,14,Tuesday,53.85
+2023-04-05,2023-04,2023,Q2,Utilities,Phone Bill,177.73,Expense,Cash,,False,April 2023,14,Wednesday,177.73
+2023-04-06,2023-04,2023,Q2,Transport,Car Insurance,249.14,Expense,Cash,,False,April 2023,14,Thursday,249.14
+2023-04-06,2023-04,2023,Q2,Food,Coffee Shop,27.13,Expense,Digital Wallet,,False,April 2023,14,Thursday,27.13
+2023-04-07,2023-04,2023,Q2,Healthcare,Doctor Visit,465.12,Expense,Bank Transfer,,False,April 2023,14,Friday,465.12
+2023-04-07,2023-04,2023,Q2,Education,Training,578.16,Expense,Credit Card,,False,April 2023,14,Friday,578.16
+2023-04-08,2023-04,2023,Q2,Utilities,Gas Bill,54.83,Expense,Cash,,False,April 2023,14,Saturday,54.83
+2023-04-09,2023-04,2023,Q2,Utilities,Gas Bill,275.64,Expense,Debit Card,,False,April 2023,14,Sunday,275.64
+2023-04-10,2023-04,2023,Q2,Utilities,Phone Bill,170.7,Expense,Bank Transfer,,False,April 2023,15,Monday,170.7
+2023-04-10,2023-04,2023,Q2,Housing,Monthly Rent,836.8,Expense,Bank Transfer,,False,April 2023,15,Monday,836.8
+2023-04-10,2023-04,2023,Q2,Utilities,Phone Bill,248.02,Expense,Cash,,False,April 2023,15,Monday,248.02
+2023-04-10,2023-04,2023,Q2,Food,Food Delivery,19.74,Expense,Digital Wallet,,False,April 2023,15,Monday,19.74
+2023-04-11,2023-04,2023,Q2,Shopping,Home Goods,292.77,Expense,Bank Transfer,,False,April 2023,15,Tuesday,292.77
+2023-04-12,2023-04,2023,Q2,Transport,Public Transit,475.77,Expense,Digital Wallet,,False,April 2023,15,Wednesday,475.77
+2023-04-12,2023-04,2023,Q2,Entertainment,Spotify,153.58,Expense,Cash,,False,April 2023,15,Wednesday,153.58
+2023-04-12,2023-04,2023,Q2,Travel,Hotel,1657.67,Expense,Digital Wallet,,False,April 2023,15,Wednesday,1657.67
+2023-04-13,2023-04,2023,Q2,Housing,Property Tax,2430.71,Expense,Credit Card,,False,April 2023,15,Thursday,2430.71
+2023-04-13,2023-04,2023,Q2,Housing,Monthly Rent,1633.19,Expense,Digital Wallet,,False,April 2023,15,Thursday,1633.19
+2023-04-14,2023-04,2023,Q2,Food,Grocery Store,11.34,Expense,Debit Card,,False,April 2023,15,Friday,11.34
+2023-04-14,2023-04,2023,Q2,Healthcare,Health Insurance,315.4,Expense,Digital Wallet,,False,April 2023,15,Friday,315.4
+2023-04-14,2023-04,2023,Q2,Utilities,Phone Bill,296.01,Expense,Cash,,False,April 2023,15,Friday,296.01
+2023-04-14,2023-04,2023,Q2,Other,Bank Fee,390.87,Expense,Debit Card,,False,April 2023,15,Friday,390.87
+2023-04-15,2023-04,2023,Q2,Housing,Monthly Rent,1721.48,Expense,Digital Wallet,,False,April 2023,15,Saturday,1721.48
+2023-04-15,2023-04,2023,Q2,Housing,Mortgage Payment,1289.62,Expense,Credit Card,,False,April 2023,15,Saturday,1289.62
+2023-04-15,2023-04,2023,Q2,Entertainment,Netflix,165.74,Expense,Digital Wallet,,False,April 2023,15,Saturday,165.74
+2023-04-15,2023-04,2023,Q2,Housing,Monthly Rent,1266.14,Expense,Cash,,False,April 2023,15,Saturday,1266.14
+2023-04-16,2023-04,2023,Q2,Travel,Tour Package,215.72,Expense,Cash,,False,April 2023,15,Sunday,215.72
+2023-04-16,2023-04,2023,Q2,Utilities,Phone Bill,193.2,Expense,Credit Card,,False,April 2023,15,Sunday,193.2
+2023-04-17,2023-04,2023,Q2,Entertainment,Spotify,113.15,Expense,Cash,,False,April 2023,16,Monday,113.15
+2023-04-17,2023-04,2023,Q2,Entertainment,Games,583.2063930458456,Expense,Cash,,True,April 2023,16,Monday,583.21
+2023-04-19,2023-04,2023,Q2,Utilities,Phone Bill,193.09,Expense,Digital Wallet,,False,April 2023,16,Wednesday,193.09
+2023-04-19,2023-04,2023,Q2,Food,Grocery Store,179.36,Expense,Bank Transfer,,False,April 2023,16,Wednesday,179.36
+2023-04-20,2023-04,2023,Q2,Transport,Car Insurance,82.31,Expense,Debit Card,,False,April 2023,16,Thursday,82.31
+2023-04-21,2023-04,2023,Q2,Shopping,Clothing Store,495.23,Expense,Bank Transfer,,False,April 2023,16,Friday,495.23
+2023-04-22,2023-04,2023,Q2,Healthcare,Lab Tests,562.75,Expense,Digital Wallet,,False,April 2023,16,Saturday,562.75
+2023-04-23,2023-04,2023,Q2,Transport,Parking,163.11,Expense,Bank Transfer,,False,April 2023,16,Sunday,163.11
+2023-04-23,2023-04,2023,Q2,Travel,Flight Ticket,444.42,Expense,Cash,,False,April 2023,16,Sunday,444.42
+2023-04-24,2023-04,2023,Q2,Shopping,Electronics,439.07,Expense,Debit Card,,False,April 2023,17,Monday,439.07
+2023-04-24,2023-04,2023,Q2,Housing,Maintenance,1909.39,Expense,Cash,,False,April 2023,17,Monday,1909.39
+2023-04-24,2023-04,2023,Q2,Housing,Property Tax,1637.33,Expense,Bank Transfer,,False,April 2023,17,Monday,1637.33
+2023-04-24,2023-04,2023,Q2,Travel,Flight Ticket,1369.7,Expense,Digital Wallet,,False,April 2023,17,Monday,1369.7
+2023-04-24,2023-04,2023,Q2,Other,Subscription,338.95,Expense,Cash,,False,April 2023,17,Monday,338.95
+2023-04-25,2023-04,2023,Q2,Shopping,Amazon,172.38,Expense,Debit Card,,False,April 2023,17,Tuesday,172.38
+2023-04-26,2023-04,2023,Q2,Entertainment,Games,184.85,Expense,Credit Card,,False,April 2023,17,Wednesday,184.85
+2023-04-26,2023-04,2023,Q2,Education,Books,479.11,Expense,Digital Wallet,,False,April 2023,17,Wednesday,479.11
+2023-04-26,2023-04,2023,Q2,Housing,Home Insurance,1566.94,Expense,Digital Wallet,,False,April 2023,17,Wednesday,1566.94
+2023-04-27,2023-04,2023,Q2,Transport,Parking,410.08,Expense,Debit Card,,False,April 2023,17,Thursday,410.08
+2023-04-27,2023-04,2023,Q2,Shopping,Home Goods,335.83,Expense,Credit Card,,False,April 2023,17,Thursday,335.83
+2023-04-28,2023-04,2023,Q2,Shopping,Amazon,150.74,Expense,Debit Card,,False,April 2023,17,Friday,150.74
+2023-04-28,2023-04,2023,Q2,Food,Grocery Store,93.58,Expense,Cash,,False,April 2023,17,Friday,93.58
+2023-04-28,2023-04,2023,Q2,Shopping,Home Goods,428.6,Expense,Credit Card,,False,April 2023,17,Friday,428.6
+2023-04-29,2023-04,2023,Q2,Income,Freelance Payment,731.43,Income,Bank Transfer,,False,April 2023,17,Saturday,731.43
+2023-04-30,2023-04,2023,Q2,Shopping,Online Shopping,400.94,Expense,Bank Transfer,,False,April 2023,17,Sunday,400.94
+2023-04-30,2023-04,2023,Q2,Utilities,Water Bill,70.0,Expense,Debit Card,,False,April 2023,17,Sunday,70.0
+2023-05-01,2023-05,2023,Q2,Transport,Car Insurance,296.93,Expense,Credit Card,,False,May 2023,18,Monday,296.93
+2023-05-01,2023-05,2023,Q2,Utilities,Electricity Bill,265.83,Expense,Cash,,False,May 2023,18,Monday,265.83
+2023-05-01,2023-05,2023,Q2,Food,Restaurant,259.35,Expense,Debit Card,,False,May 2023,18,Monday,259.35
+2023-05-01,2023-05,2023,Q2,Food,Coffee Shop,99.15,Expense,Debit Card,,False,May 2023,18,Monday,99.15
+2023-05-01,2023-05,2023,Q2,Income,Monthly Salary,5126.837379582013,Income,Bank Transfer,,False,May 2023,18,Monday,5126.84
+2023-05-01,2023-05,2023,Q2,Food,Supermarket,6.35,Expense,Credit Card,,False,May 2023,18,Monday,6.35
+2023-05-02,2023-05,2023,Q2,Transport,Car Insurance,429.73,Expense,Credit Card,,False,May 2023,18,Tuesday,429.73
+2023-05-02,2023-05,2023,Q2,Utilities,Internet,168.64,Expense,Credit Card,,False,May 2023,18,Tuesday,168.64
+2023-05-04,2023-05,2023,Q2,Entertainment,Spotify,57.83,Expense,Cash,,False,May 2023,18,Thursday,57.83
+2023-05-07,2023-05,2023,Q2,Housing,Maintenance,1835.17,Expense,Debit Card,,False,May 2023,18,Sunday,1835.17
+2023-05-07,2023-05,2023,Q2,Housing,Maintenance,731.58,Expense,Cash,,False,May 2023,18,Sunday,731.58
+2023-05-07,2023-05,2023,Q2,Travel,Airbnb,2466.56,Expense,Bank Transfer,,False,May 2023,18,Sunday,2466.56
+2023-05-07,2023-05,2023,Q2,Education,Online Course,296.77,Expense,Credit Card,,False,May 2023,18,Sunday,296.77
+2023-05-08,2023-05,2023,Q2,Food,Coffee Shop,193.96,Expense,Bank Transfer,,False,May 2023,19,Monday,193.96
+2023-05-08,2023-05,2023,Q2,Shopping,Electronics,70.53,Expense,Credit Card,,False,May 2023,19,Monday,70.53
+2023-05-08,2023-05,2023,Q2,Healthcare,Dental,1769.2467658384282,Expense,Debit Card,,True,May 2023,19,Monday,1769.25
+2023-05-10,2023-05,2023,Q2,Food,Food Delivery,17.14,Expense,Cash,,False,May 2023,19,Wednesday,17.14
+2023-05-10,2023-05,2023,Q2,Food,Supermarket,190.69,Expense,Digital Wallet,,False,May 2023,19,Wednesday,190.69
+2023-05-10,2023-05,2023,Q2,Shopping,Amazon,506.06,Expense,Cash,,False,May 2023,19,Wednesday,506.06
+2023-05-11,2023-05,2023,Q2,Travel,Airbnb,1485.07,Expense,Debit Card,,False,May 2023,19,Thursday,1485.07
+2023-05-11,2023-05,2023,Q2,Transport,Car Insurance,137.6,Expense,Cash,,False,May 2023,19,Thursday,137.6
+2023-05-11,2023-05,2023,Q2,Food,Grocery Store,255.07,Expense,Bank Transfer,,False,May 2023,19,Thursday,255.07
+2023-05-13,2023-05,2023,Q2,Housing,Maintenance,754.25,Expense,Digital Wallet,,False,May 2023,19,Saturday,754.25
+2023-05-13,2023-05,2023,Q2,Housing,Property Tax,1494.77,Expense,Digital Wallet,,False,May 2023,19,Saturday,1494.77
+2023-05-14,2023-05,2023,Q2,Housing,Mortgage Payment,1503.65,Expense,Bank Transfer,,False,May 2023,19,Sunday,1503.65
+2023-05-14,2023-05,2023,Q2,Housing,Mortgage Payment,1635.64,Expense,Cash,,False,May 2023,19,Sunday,1635.64
+2023-05-14,2023-05,2023,Q2,Entertainment,Games,28.4,Expense,Digital Wallet,,False,May 2023,19,Sunday,28.4
+2023-05-14,2023-05,2023,Q2,Travel,Hotel,289.59,Expense,Debit Card,,False,May 2023,19,Sunday,289.59
+2023-05-14,2023-05,2023,Q2,Transport,Uber/Grab,219.97,Expense,Digital Wallet,,False,May 2023,19,Sunday,219.97
+2023-05-15,2023-05,2023,Q2,Other,Miscellaneous,379.09,Expense,Bank Transfer,,False,May 2023,20,Monday,379.09
+2023-05-15,2023-05,2023,Q2,Housing,Maintenance,1173.53,Expense,Bank Transfer,,False,May 2023,20,Monday,1173.53
+2023-05-15,2023-05,2023,Q2,Food,Supermarket,88.83,Expense,Debit Card,,False,May 2023,20,Monday,88.83
+2023-05-16,2023-05,2023,Q2,Food,Food Delivery,291.02,Expense,Cash,,False,May 2023,20,Tuesday,291.02
+2023-05-16,2023-05,2023,Q2,Entertainment,Spotify,138.89,Expense,Digital Wallet,,False,May 2023,20,Tuesday,138.89
+2023-05-16,2023-05,2023,Q2,Education,Tuition,472.99,Expense,Debit Card,,False,May 2023,20,Tuesday,472.99
+2023-05-17,2023-05,2023,Q2,Transport,Uber/Grab,156.64,Expense,Credit Card,,False,May 2023,20,Wednesday,156.64
+2023-05-17,2023-05,2023,Q2,Transport,Uber/Grab,178.0,Expense,Bank Transfer,,False,May 2023,20,Wednesday,178.0
+2023-05-18,2023-05,2023,Q2,Other,Donation,273.93,Expense,Bank Transfer,,False,May 2023,20,Thursday,273.93
+2023-05-18,2023-05,2023,Q2,Food,Supermarket,42.73,Expense,Credit Card,,False,May 2023,20,Thursday,42.73
+2023-05-19,2023-05,2023,Q2,Food,Food Delivery,213.02,Expense,Debit Card,,False,May 2023,20,Friday,213.02
+2023-05-20,2023-05,2023,Q2,Food,Coffee Shop,5.03,Expense,Cash,,False,May 2023,20,Saturday,5.03
+2023-05-20,2023-05,2023,Q2,Education,Tuition,866.53,Expense,Cash,,False,May 2023,20,Saturday,866.53
+2023-05-20,2023-05,2023,Q2,Entertainment,Netflix,99.91,Expense,Debit Card,,False,May 2023,20,Saturday,99.91
+2023-05-20,2023-05,2023,Q2,Transport,Gas Station,461.72,Expense,Cash,,False,May 2023,20,Saturday,461.72
+2023-05-20,2023-05,2023,Q2,Transport,Parking,124.47,Expense,Credit Card,,False,May 2023,20,Saturday,124.47
+2023-05-21,2023-05,2023,Q2,Food,Grocery Store,105.83,Expense,Bank Transfer,,False,May 2023,20,Sunday,105.83
+2023-05-21,2023-05,2023,Q2,Transport,Uber/Grab,282.35,Expense,Debit Card,,False,May 2023,20,Sunday,282.35
+2023-05-22,2023-05,2023,Q2,Utilities,Phone Bill,173.01,Expense,Bank Transfer,,False,May 2023,21,Monday,173.01
+2023-05-23,2023-05,2023,Q2,Shopping,Electronics,110.05,Expense,Cash,,False,May 2023,21,Tuesday,110.05
+2023-05-23,2023-05,2023,Q2,Healthcare,Pharmacy,114.66,Expense,Bank Transfer,,False,May 2023,21,Tuesday,114.66
+2023-05-24,2023-05,2023,Q2,Housing,Property Tax,1838.51,Expense,Cash,,False,May 2023,21,Wednesday,1838.51
+2023-05-25,2023-05,2023,Q2,Utilities,Phone Bill,92.91,Expense,Credit Card,,False,May 2023,21,Thursday,92.91
+2023-05-25,2023-05,2023,Q2,Food,Coffee Shop,108.34,Expense,Digital Wallet,,False,May 2023,21,Thursday,108.34
+2023-05-26,2023-05,2023,Q2,Food,Supermarket,148.35,Expense,Bank Transfer,,False,May 2023,21,Friday,148.35
+2023-05-26,2023-05,2023,Q2,Travel,Flight Ticket,1742.33,Expense,Credit Card,,False,May 2023,21,Friday,1742.33
+2023-05-28,2023-05,2023,Q2,Housing,Mortgage Payment,698.67,Expense,Cash,,False,May 2023,21,Sunday,698.67
+2023-05-29,2023-05,2023,Q2,Shopping,Clothing Store,399.12,Expense,Credit Card,,False,May 2023,22,Monday,399.12
+2023-05-29,2023-05,2023,Q2,Transport,Public Transit,344.54,Expense,Bank Transfer,,False,May 2023,22,Monday,344.54
+2023-05-29,2023-05,2023,Q2,Utilities,Water Bill,190.92,Expense,Digital Wallet,,False,May 2023,22,Monday,190.92
+2023-05-29,2023-05,2023,Q2,Food,Food Delivery,1000.523497831584,Expense,Digital Wallet,,True,May 2023,22,Monday,1000.52
+2023-05-29,2023-05,2023,Q2,Travel,Travel Insurance,1273.23,Expense,Cash,,False,May 2023,22,Monday,1273.23
+2023-05-30,2023-05,2023,Q2,Food,Grocery Store,18.49,Expense,Cash,,False,May 2023,22,Tuesday,18.49
+2023-05-30,2023-05,2023,Q2,Other,Miscellaneous,63.6,Expense,Cash,,False,May 2023,22,Tuesday,63.6
+2023-05-31,2023-05,2023,Q2,Income,Monthly Salary,5368.361991915357,Income,Bank Transfer,,False,May 2023,22,Wednesday,5368.36
+2023-05-31,2023-05,2023,Q2,Utilities,Phone Bill,103.65,Expense,Credit Card,,False,May 2023,22,Wednesday,103.65
+2023-05-31,2023-05,2023,Q2,Food,Food Delivery,266.14,Expense,Cash,,False,May 2023,22,Wednesday,266.14
+2023-06-01,2023-06,2023,Q2,Healthcare,Doctor Visit,404.53,Expense,Cash,,False,June 2023,22,Thursday,404.53
+2023-06-02,2023-06,2023,Q2,Utilities,Phone Bill,33.21,Expense,Debit Card,,False,June 2023,22,Friday,33.21
+2023-06-02,2023-06,2023,Q2,Transport,Parking,118.98,Expense,Credit Card,,False,June 2023,22,Friday,118.98
+2023-06-03,2023-06,2023,Q2,Education,Workshop,529.14,Expense,Credit Card,,False,June 2023,22,Saturday,529.14
+2023-06-04,2023-06,2023,Q2,Housing,Monthly Rent,1761.4,Expense,Debit Card,,False,June 2023,22,Sunday,1761.4
+2023-06-04,2023-06,2023,Q2,Entertainment,Netflix,67.7,Expense,Bank Transfer,,False,June 2023,22,Sunday,67.7
+2023-06-05,2023-06,2023,Q2,Other,Subscription,397.23,Expense,Credit Card,,False,June 2023,23,Monday,397.23
+2023-06-07,2023-06,2023,Q2,Other,Subscription,483.84,Expense,Bank Transfer,,False,June 2023,23,Wednesday,483.84
+2023-06-07,2023-06,2023,Q2,Food,Supermarket,206.55,Expense,Cash,,False,June 2023,23,Wednesday,206.55
+2023-06-08,2023-06,2023,Q2,Education,Online Course,55.36,Expense,Debit Card,,False,June 2023,23,Thursday,55.36
+2023-06-09,2023-06,2023,Q2,Food,Grocery Store,78.66,Expense,Credit Card,,False,June 2023,23,Friday,78.66
+2023-06-10,2023-06,2023,Q2,Housing,Maintenance,925.29,Expense,Cash,,False,June 2023,23,Saturday,925.29
+2023-06-10,2023-06,2023,Q2,Income,Freelance Payment,311.42,Income,Bank Transfer,,False,June 2023,23,Saturday,311.42
+2023-06-11,2023-06,2023,Q2,Utilities,Phone Bill,121.85,Expense,Credit Card,,False,June 2023,23,Sunday,121.85
+2023-06-11,2023-06,2023,Q2,Entertainment,Netflix,75.15,Expense,Cash,,False,June 2023,23,Sunday,75.15
+2023-06-11,2023-06,2023,Q2,Shopping,Home Goods,3851.4943383438967,Expense,Bank Transfer,,True,June 2023,23,Sunday,3851.49
+2023-06-11,2023-06,2023,Q2,Utilities,Electricity Bill,200.69,Expense,Bank Transfer,,False,June 2023,23,Sunday,200.69
+2023-06-11,2023-06,2023,Q2,Housing,Home Insurance,1897.29,Expense,Digital Wallet,,False,June 2023,23,Sunday,1897.29
+2023-06-11,2023-06,2023,Q2,Entertainment,Games,31.81,Expense,Bank Transfer,,False,June 2023,23,Sunday,31.81
+2023-06-11,2023-06,2023,Q2,Shopping,Clothing Store,181.31,Expense,Cash,,False,June 2023,23,Sunday,181.31
+2023-06-12,2023-06,2023,Q2,Food,Food Delivery,229.55,Expense,Credit Card,,False,June 2023,24,Monday,229.55
+2023-06-12,2023-06,2023,Q2,Shopping,Home Goods,150.76,Expense,Bank Transfer,,False,June 2023,24,Monday,150.76
+2023-06-13,2023-06,2023,Q2,Entertainment,Spotify,152.66,Expense,Digital Wallet,,False,June 2023,24,Tuesday,152.66
+2023-06-13,2023-06,2023,Q2,Utilities,Phone Bill,262.5,Expense,Digital Wallet,,False,June 2023,24,Tuesday,262.5
+2023-06-13,2023-06,2023,Q2,Travel,Airbnb,1312.59,Expense,Digital Wallet,,False,June 2023,24,Tuesday,1312.59
+2023-06-13,2023-06,2023,Q2,Healthcare,Doctor Visit,618.14,Expense,Debit Card,,False,June 2023,24,Tuesday,618.14
+2023-06-14,2023-06,2023,Q2,Entertainment,Cinema,175.97,Expense,Digital Wallet,,False,June 2023,24,Wednesday,175.97
+2023-06-14,2023-06,2023,Q2,Transport,Uber/Grab,326.51,Expense,Debit Card,,False,June 2023,24,Wednesday,326.51
+2023-06-14,2023-06,2023,Q2,Entertainment,Cinema,43.98,Expense,Cash,,False,June 2023,24,Wednesday,43.98
+2023-06-14,2023-06,2023,Q2,Transport,Parking,233.4,Expense,Cash,,False,June 2023,24,Wednesday,233.4
+2023-06-14,2023-06,2023,Q2,Other,Miscellaneous,182.17,Expense,Digital Wallet,,False,June 2023,24,Wednesday,182.17
+2023-06-15,2023-06,2023,Q2,Healthcare,Health Insurance,393.48,Expense,Credit Card,,False,June 2023,24,Thursday,393.48
+2023-06-16,2023-06,2023,Q2,Healthcare,Lab Tests,468.71,Expense,Credit Card,,False,June 2023,24,Friday,468.71
+2023-06-16,2023-06,2023,Q2,Utilities,Water Bill,279.96,Expense,Bank Transfer,,False,June 2023,24,Friday,279.96
+2023-06-17,2023-06,2023,Q2,Food,Restaurant,119.3,Expense,Debit Card,,False,June 2023,24,Saturday,119.3
+2023-06-17,2023-06,2023,Q2,Housing,Property Tax,866.28,Expense,Bank Transfer,,False,June 2023,24,Saturday,866.28
+2023-06-17,2023-06,2023,Q2,Food,Grocery Store,209.06,Expense,Credit Card,,False,June 2023,24,Saturday,209.06
+2023-06-17,2023-06,2023,Q2,Housing,Property Tax,1915.8,Expense,Cash,,False,June 2023,24,Saturday,1915.8
+2023-06-18,2023-06,2023,Q2,Shopping,Home Goods,230.6,Expense,Debit Card,,False,June 2023,24,Sunday,230.6
+2023-06-18,2023-06,2023,Q2,Healthcare,Health Insurance,694.43,Expense,Credit Card,,False,June 2023,24,Sunday,694.43
+2023-06-19,2023-06,2023,Q2,Healthcare,Doctor Visit,386.05,Expense,Bank Transfer,,False,June 2023,25,Monday,386.05
+2023-06-20,2023-06,2023,Q2,Housing,Maintenance,996.46,Expense,Credit Card,,False,June 2023,25,Tuesday,996.46
+2023-06-20,2023-06,2023,Q2,Other,Subscription,463.55,Expense,Bank Transfer,,False,June 2023,25,Tuesday,463.55
+2023-06-20,2023-06,2023,Q2,Healthcare,Dental,630.73,Expense,Debit Card,,False,June 2023,25,Tuesday,630.73
+2023-06-21,2023-06,2023,Q2,Other,ATM Withdrawal,227.27,Expense,Debit Card,,False,June 2023,25,Wednesday,227.27
+2023-06-21,2023-06,2023,Q2,Other,Miscellaneous,312.26,Expense,Credit Card,,False,June 2023,25,Wednesday,312.26
+2023-06-21,2023-06,2023,Q2,Food,Coffee Shop,191.36,Expense,Bank Transfer,,False,June 2023,25,Wednesday,191.36
+2023-06-22,2023-06,2023,Q2,Housing,Maintenance,2236.35,Expense,Cash,,False,June 2023,25,Thursday,2236.35
+2023-06-22,2023-06,2023,Q2,Utilities,Water Bill,68.44,Expense,Digital Wallet,,False,June 2023,25,Thursday,68.44
+2023-06-22,2023-06,2023,Q2,Other,Miscellaneous,103.14,Expense,Bank Transfer,,False,June 2023,25,Thursday,103.14
+2023-06-22,2023-06,2023,Q2,Food,Grocery Store,41.62,Expense,Credit Card,,False,June 2023,25,Thursday,41.62
+2023-06-23,2023-06,2023,Q2,Transport,Gas Station,114.71,Expense,Cash,,False,June 2023,25,Friday,114.71
+2023-06-24,2023-06,2023,Q2,Utilities,Gas Bill,202.26,Expense,Digital Wallet,,False,June 2023,25,Saturday,202.26
+2023-06-24,2023-06,2023,Q2,Healthcare,Pharmacy,530.53,Expense,Cash,,False,June 2023,25,Saturday,530.53
+2023-06-27,2023-06,2023,Q2,Education,Books,807.52,Expense,Debit Card,,False,June 2023,26,Tuesday,807.52
+2023-06-27,2023-06,2023,Q2,Food,Supermarket,206.38,Expense,Credit Card,,False,June 2023,26,Tuesday,206.38
+2023-06-27,2023-06,2023,Q2,Transport,Car Insurance,223.24,Expense,Debit Card,,False,June 2023,26,Tuesday,223.24
+2023-06-28,2023-06,2023,Q2,Transport,Gas Station,33.99,Expense,Bank Transfer,,False,June 2023,26,Wednesday,33.99
+2023-06-28,2023-06,2023,Q2,Housing,Property Tax,1194.58,Expense,Credit Card,,False,June 2023,26,Wednesday,1194.58
+2023-06-28,2023-06,2023,Q2,Education,Training,300.15,Expense,Bank Transfer,,False,June 2023,26,Wednesday,300.15
+2023-06-29,2023-06,2023,Q2,Transport,Parking,159.68,Expense,Credit Card,,False,June 2023,26,Thursday,159.68
+2023-06-29,2023-06,2023,Q2,Entertainment,Games,121.51,Expense,Bank Transfer,,False,June 2023,26,Thursday,121.51
+2023-06-30,2023-06,2023,Q2,Entertainment,Spotify,193.87,Expense,Credit Card,,False,June 2023,26,Friday,193.87
+2023-06-30,2023-06,2023,Q2,Income,Monthly Salary,4624.681579148488,Income,Bank Transfer,,False,June 2023,26,Friday,4624.68
+2023-07-01,2023-07,2023,Q3,Income,Freelance Payment,961.34,Income,Bank Transfer,,False,July 2023,26,Saturday,961.34
+2023-07-01,2023-07,2023,Q3,Shopping,Home Goods,420.22,Expense,Cash,,False,July 2023,26,Saturday,420.22
+2023-07-02,2023-07,2023,Q3,Travel,Hotel,242.19,Expense,Cash,,False,July 2023,26,Sunday,242.19
+2023-07-03,2023-07,2023,Q3,Food,Supermarket,198.78,Expense,Digital Wallet,,False,July 2023,27,Monday,198.78
+2023-07-04,2023-07,2023,Q3,Travel,Flight Ticket,2961.28,Expense,Bank Transfer,,False,July 2023,27,Tuesday,2961.28
+2023-07-04,2023-07,2023,Q3,Entertainment,Gym Membership,20.39,Expense,Cash,,False,July 2023,27,Tuesday,20.39
+2023-07-04,2023-07,2023,Q3,Travel,Tour Package,525.91,Expense,Bank Transfer,,False,July 2023,27,Tuesday,525.91
+2023-07-06,2023-07,2023,Q3,Education,Workshop,620.8,Expense,Digital Wallet,,False,July 2023,27,Thursday,620.8
+2023-07-07,2023-07,2023,Q3,Travel,Flight Ticket,369.56,Expense,Bank Transfer,,False,July 2023,27,Friday,369.56
+2023-07-07,2023-07,2023,Q3,Food,Restaurant,69.48,Expense,Bank Transfer,,False,July 2023,27,Friday,69.48
+2023-07-08,2023-07,2023,Q3,Shopping,Online Shopping,286.94,Expense,Cash,,False,July 2023,27,Saturday,286.94
+2023-07-08,2023-07,2023,Q3,Utilities,Internet,79.89,Expense,Cash,,False,July 2023,27,Saturday,79.89
+2023-07-08,2023-07,2023,Q3,Entertainment,Games,153.59,Expense,Debit Card,,False,July 2023,27,Saturday,153.59
+2023-07-09,2023-07,2023,Q3,Education,Training,500.98,Expense,Credit Card,,False,July 2023,27,Sunday,500.98
+2023-07-09,2023-07,2023,Q3,Transport,Gas Station,390.2,Expense,Digital Wallet,,False,July 2023,27,Sunday,390.2
+2023-07-09,2023-07,2023,Q3,Housing,Mortgage Payment,1571.73,Expense,Debit Card,,False,July 2023,27,Sunday,1571.73
+2023-07-10,2023-07,2023,Q3,Transport,Uber/Grab,245.89,Expense,Debit Card,,False,July 2023,28,Monday,245.89
+2023-07-11,2023-07,2023,Q3,Housing,Mortgage Payment,1786.95,Expense,Cash,,False,July 2023,28,Tuesday,1786.95
+2023-07-11,2023-07,2023,Q3,Housing,Mortgage Payment,1878.05,Expense,Credit Card,,False,July 2023,28,Tuesday,1878.05
+2023-07-11,2023-07,2023,Q3,Food,Supermarket,10.49,Expense,Bank Transfer,,False,July 2023,28,Tuesday,10.49
+2023-07-12,2023-07,2023,Q3,Entertainment,Gym Membership,110.81,Expense,Cash,,False,July 2023,28,Wednesday,110.81
+2023-07-12,2023-07,2023,Q3,Shopping,Online Shopping,323.85,Expense,Debit Card,,False,July 2023,28,Wednesday,323.85
+2023-07-12,2023-07,2023,Q3,Other,Subscription,283.99,Expense,Digital Wallet,,False,July 2023,28,Wednesday,283.99
+2023-07-13,2023-07,2023,Q3,Transport,Gas Station,371.48,Expense,Credit Card,,False,July 2023,28,Thursday,371.48
+2023-07-15,2023-07,2023,Q3,Transport,Gas Station,316.77,Expense,Cash,,False,July 2023,28,Saturday,316.77
+2023-07-15,2023-07,2023,Q3,Utilities,Electricity Bill,53.66,Expense,Credit Card,,False,July 2023,28,Saturday,53.66
+2023-07-16,2023-07,2023,Q3,Other,ATM Withdrawal,174.16,Expense,Debit Card,,False,July 2023,28,Sunday,174.16
+2023-07-16,2023-07,2023,Q3,Entertainment,Games,9.06,Expense,Cash,,False,July 2023,28,Sunday,9.06
+2023-07-16,2023-07,2023,Q3,Housing,Home Insurance,6765.847015122821,Expense,Debit Card,,True,July 2023,28,Sunday,6765.85
+2023-07-18,2023-07,2023,Q3,Food,Restaurant,193.49,Expense,Credit Card,,False,July 2023,29,Tuesday,193.49
+2023-07-18,2023-07,2023,Q3,Travel,Flight Ticket,774.89,Expense,Credit Card,,False,July 2023,29,Tuesday,774.89
+2023-07-18,2023-07,2023,Q3,Utilities,Electricity Bill,208.02,Expense,Debit Card,,False,July 2023,29,Tuesday,208.02
+2023-07-18,2023-07,2023,Q3,Utilities,Internet,177.59,Expense,Bank Transfer,,False,July 2023,29,Tuesday,177.59
+2023-07-19,2023-07,2023,Q3,Travel,Travel Insurance,2860.34,Expense,Digital Wallet,,False,July 2023,29,Wednesday,2860.34
+2023-07-20,2023-07,2023,Q3,Shopping,Amazon,297.84,Expense,Digital Wallet,,False,July 2023,29,Thursday,297.84
+2023-07-20,2023-07,2023,Q3,Transport,Parking,486.21,Expense,Debit Card,,False,July 2023,29,Thursday,486.21
+2023-07-20,2023-07,2023,Q3,Healthcare,Doctor Visit,629.4,Expense,Credit Card,,False,July 2023,29,Thursday,629.4
+2023-07-21,2023-07,2023,Q3,Housing,Monthly Rent,1468.51,Expense,Credit Card,,False,July 2023,29,Friday,1468.51
+2023-07-22,2023-07,2023,Q3,Housing,Mortgage Payment,1949.98,Expense,Bank Transfer,,False,July 2023,29,Saturday,1949.98
+2023-07-23,2023-07,2023,Q3,Travel,Hotel,1143.74,Expense,Cash,,False,July 2023,29,Sunday,1143.74
+2023-07-23,2023-07,2023,Q3,Healthcare,Dental,217.58,Expense,Credit Card,,False,July 2023,29,Sunday,217.58
+2023-07-23,2023-07,2023,Q3,Shopping,Online Shopping,545.74,Expense,Digital Wallet,,False,July 2023,29,Sunday,545.74
+2023-07-24,2023-07,2023,Q3,Housing,Home Insurance,712.53,Expense,Digital Wallet,,False,July 2023,30,Monday,712.53
+2023-07-24,2023-07,2023,Q3,Transport,Car Insurance,57.09,Expense,Bank Transfer,,False,July 2023,30,Monday,57.09
+2023-07-25,2023-07,2023,Q3,Utilities,Water Bill,202.49,Expense,Cash,,False,July 2023,30,Tuesday,202.49
+2023-07-25,2023-07,2023,Q3,Entertainment,Spotify,187.42,Expense,Digital Wallet,,False,July 2023,30,Tuesday,187.42
+2023-07-26,2023-07,2023,Q3,Education,Online Course,173.29,Expense,Bank Transfer,,False,July 2023,30,Wednesday,173.29
+2023-07-26,2023-07,2023,Q3,Housing,Property Tax,1407.36,Expense,Credit Card,,False,July 2023,30,Wednesday,1407.36
+2023-07-27,2023-07,2023,Q3,Entertainment,Cinema,128.24,Expense,Debit Card,,False,July 2023,30,Thursday,128.24
+2023-07-27,2023-07,2023,Q3,Education,Books,772.43,Expense,Digital Wallet,,False,July 2023,30,Thursday,772.43
+2023-07-27,2023-07,2023,Q3,Shopping,Home Goods,373.22,Expense,Cash,,False,July 2023,30,Thursday,373.22
+2023-07-28,2023-07,2023,Q3,Housing,Maintenance,624.07,Expense,Credit Card,,False,July 2023,30,Friday,624.07
+2023-07-29,2023-07,2023,Q3,Food,Supermarket,210.64,Expense,Credit Card,,False,July 2023,30,Saturday,210.64
+2023-07-29,2023-07,2023,Q3,Housing,Mortgage Payment,847.35,Expense,Digital Wallet,,False,July 2023,30,Saturday,847.35
+2023-07-30,2023-07,2023,Q3,Income,Monthly Salary,4977.897118666726,Income,Bank Transfer,,False,July 2023,30,Sunday,4977.9
+2023-07-30,2023-07,2023,Q3,Food,Supermarket,221.2,Expense,Credit Card,,False,July 2023,30,Sunday,221.2
+2023-07-30,2023-07,2023,Q3,Travel,Tour Package,2130.86,Expense,Digital Wallet,,False,July 2023,30,Sunday,2130.86
+2023-07-30,2023-07,2023,Q3,Healthcare,Dental,425.41,Expense,Bank Transfer,,False,July 2023,30,Sunday,425.41
+2023-07-30,2023-07,2023,Q3,Travel,Hotel,555.6,Expense,Bank Transfer,,False,July 2023,30,Sunday,555.6
+2023-07-31,2023-07,2023,Q3,Food,Grocery Store,46.07,Expense,Digital Wallet,,False,July 2023,31,Monday,46.07
+2023-08-01,2023-08,2023,Q3,Housing,Maintenance,1750.92,Expense,Bank Transfer,,False,August 2023,31,Tuesday,1750.92
+2023-08-02,2023-08,2023,Q3,Utilities,Phone Bill,55.37,Expense,Bank Transfer,,False,August 2023,31,Wednesday,55.37
+2023-08-03,2023-08,2023,Q3,Utilities,Phone Bill,122.99,Expense,Cash,,False,August 2023,31,Thursday,122.99
+2023-08-04,2023-08,2023,Q3,Transport,Public Transit,278.29,Expense,Debit Card,,False,August 2023,31,Friday,278.29
+2023-08-04,2023-08,2023,Q3,Housing,Mortgage Payment,2145.42,Expense,Bank Transfer,,False,August 2023,31,Friday,2145.42
+2023-08-04,2023-08,2023,Q3,Entertainment,Gym Membership,199.77,Expense,Digital Wallet,,False,August 2023,31,Friday,199.77
+2023-08-04,2023-08,2023,Q3,Transport,Public Transit,395.83,Expense,Bank Transfer,,False,August 2023,31,Friday,395.83
+2023-08-04,2023-08,2023,Q3,Food,Food Delivery,200.37,Expense,Digital Wallet,,False,August 2023,31,Friday,200.37
+2023-08-05,2023-08,2023,Q3,Food,Restaurant,275.84,Expense,Credit Card,,False,August 2023,31,Saturday,275.84
+2023-08-06,2023-08,2023,Q3,Other,Donation,412.97,Expense,Credit Card,,False,August 2023,31,Sunday,412.97
+2023-08-06,2023-08,2023,Q3,Education,Online Course,599.96,Expense,Digital Wallet,,False,August 2023,31,Sunday,599.96
+2023-08-07,2023-08,2023,Q3,Shopping,Home Goods,134.36,Expense,Credit Card,,False,August 2023,32,Monday,134.36
+2023-08-07,2023-08,2023,Q3,Other,Donation,498.07,Expense,Cash,,False,August 2023,32,Monday,498.07
+2023-08-07,2023-08,2023,Q3,Shopping,Electronics,248.02,Expense,Cash,,False,August 2023,32,Monday,248.02
+2023-08-07,2023-08,2023,Q3,Shopping,Online Shopping,199.74,Expense,Digital Wallet,,False,August 2023,32,Monday,199.74
+2023-08-08,2023-08,2023,Q3,Housing,Mortgage Payment,599.3,Expense,Debit Card,,False,August 2023,32,Tuesday,599.3
+2023-08-08,2023-08,2023,Q3,Food,Supermarket,109.67,Expense,Debit Card,,False,August 2023,32,Tuesday,109.67
+2023-08-08,2023-08,2023,Q3,Housing,Mortgage Payment,1866.43,Expense,Cash,,False,August 2023,32,Tuesday,1866.43
+2023-08-09,2023-08,2023,Q3,Transport,Public Transit,221.34,Expense,Debit Card,,False,August 2023,32,Wednesday,221.34
+2023-08-09,2023-08,2023,Q3,Housing,Mortgage Payment,2288.51,Expense,Bank Transfer,,False,August 2023,32,Wednesday,2288.51
+2023-08-10,2023-08,2023,Q3,Entertainment,Netflix,34.93,Expense,Digital Wallet,,False,August 2023,32,Thursday,34.93
+2023-08-11,2023-08,2023,Q3,Housing,Maintenance,1688.28,Expense,Credit Card,,False,August 2023,32,Friday,1688.28
+2023-08-11,2023-08,2023,Q3,Utilities,Electricity Bill,138.61,Expense,Debit Card,,False,August 2023,32,Friday,138.61
+2023-08-11,2023-08,2023,Q3,Food,Food Delivery,275.31,Expense,Bank Transfer,,False,August 2023,32,Friday,275.31
+2023-08-12,2023-08,2023,Q3,Food,Restaurant,1130.353608460107,Expense,Cash,,True,August 2023,32,Saturday,1130.35
+2023-08-12,2023-08,2023,Q3,Travel,Travel Insurance,2569.6,Expense,Cash,,False,August 2023,32,Saturday,2569.6
+2023-08-13,2023-08,2023,Q3,Transport,Gas Station,396.7,Expense,Debit Card,,False,August 2023,32,Sunday,396.7
+2023-08-14,2023-08,2023,Q3,Utilities,Phone Bill,177.46,Expense,Debit Card,,False,August 2023,33,Monday,177.46
+2023-08-14,2023-08,2023,Q3,Food,Coffee Shop,171.79,Expense,Credit Card,,False,August 2023,33,Monday,171.79
+2023-08-15,2023-08,2023,Q3,Transport,Gas Station,468.76,Expense,Cash,,False,August 2023,33,Tuesday,468.76
+2023-08-15,2023-08,2023,Q3,Shopping,Amazon,358.28,Expense,Credit Card,,False,August 2023,33,Tuesday,358.28
+2023-08-16,2023-08,2023,Q3,Utilities,Water Bill,484.4671088127132,Expense,Debit Card,,True,August 2023,33,Wednesday,484.47
+2023-08-17,2023-08,2023,Q3,Other,Subscription,184.85,Expense,Cash,,False,August 2023,33,Thursday,184.85
+2023-08-17,2023-08,2023,Q3,Food,Grocery Store,163.49,Expense,Credit Card,,False,August 2023,33,Thursday,163.49
+2023-08-17,2023-08,2023,Q3,Shopping,Clothing Store,24.76,Expense,Credit Card,,False,August 2023,33,Thursday,24.76
+2023-08-18,2023-08,2023,Q3,Healthcare,Doctor Visit,423.46,Expense,Cash,,False,August 2023,33,Friday,423.46
+2023-08-20,2023-08,2023,Q3,Utilities,Phone Bill,156.45,Expense,Digital Wallet,,False,August 2023,33,Sunday,156.45
+2023-08-20,2023-08,2023,Q3,Housing,Property Tax,1643.64,Expense,Credit Card,,False,August 2023,33,Sunday,1643.64
+2023-08-20,2023-08,2023,Q3,Transport,Public Transit,139.02,Expense,Digital Wallet,,False,August 2023,33,Sunday,139.02
+2023-08-22,2023-08,2023,Q3,Food,Restaurant,275.94,Expense,Credit Card,,False,August 2023,34,Tuesday,275.94
+2023-08-22,2023-08,2023,Q3,Utilities,Internet,180.68,Expense,Bank Transfer,,False,August 2023,34,Tuesday,180.68
+2023-08-23,2023-08,2023,Q3,Entertainment,Netflix,169.36,Expense,Cash,,False,August 2023,34,Wednesday,169.36
+2023-08-23,2023-08,2023,Q3,Food,Grocery Store,25.94,Expense,Credit Card,,False,August 2023,34,Wednesday,25.94
+2023-08-24,2023-08,2023,Q3,Shopping,Electronics,596.58,Expense,Bank Transfer,,False,August 2023,34,Thursday,596.58
+2023-08-24,2023-08,2023,Q3,Utilities,Gas Bill,254.87,Expense,Cash,,False,August 2023,34,Thursday,254.87
+2023-08-25,2023-08,2023,Q3,Housing,Property Tax,2234.82,Expense,Digital Wallet,,False,August 2023,34,Friday,2234.82
+2023-08-25,2023-08,2023,Q3,Shopping,Online Shopping,371.29,Expense,Cash,,False,August 2023,34,Friday,371.29
+2023-08-26,2023-08,2023,Q3,Housing,Maintenance,1699.03,Expense,Debit Card,,False,August 2023,34,Saturday,1699.03
+2023-08-26,2023-08,2023,Q3,Utilities,Electricity Bill,123.38,Expense,Cash,,False,August 2023,34,Saturday,123.38
+2023-08-27,2023-08,2023,Q3,Housing,Monthly Rent,767.77,Expense,Cash,,False,August 2023,34,Sunday,767.77
+2023-08-27,2023-08,2023,Q3,Entertainment,Cinema,159.34,Expense,Digital Wallet,,False,August 2023,34,Sunday,159.34
+2023-08-27,2023-08,2023,Q3,Education,Tuition,576.5,Expense,Debit Card,,False,August 2023,34,Sunday,576.5
+2023-08-27,2023-08,2023,Q3,Food,Supermarket,149.68,Expense,Debit Card,,False,August 2023,34,Sunday,149.68
+2023-08-29,2023-08,2023,Q3,Income,Monthly Salary,4600.809142064352,Income,Bank Transfer,,False,August 2023,35,Tuesday,4600.81
+2023-08-29,2023-08,2023,Q3,Healthcare,Dental,513.69,Expense,Debit Card,,False,August 2023,35,Tuesday,513.69
+2023-08-30,2023-08,2023,Q3,Transport,Gas Station,421.51,Expense,Digital Wallet,,False,August 2023,35,Wednesday,421.51
+2023-08-30,2023-08,2023,Q3,Food,Supermarket,108.81,Expense,Cash,,False,August 2023,35,Wednesday,108.81
+2023-08-30,2023-08,2023,Q3,Transport,Parking,1363.8219289455303,Expense,Digital Wallet,,True,August 2023,35,Wednesday,1363.82
+2023-08-30,2023-08,2023,Q3,Entertainment,Cinema,90.44,Expense,Cash,,False,August 2023,35,Wednesday,90.44
+2023-08-31,2023-08,2023,Q3,Food,Supermarket,715.5041696580132,Expense,Cash,,True,August 2023,35,Thursday,715.5
+2023-08-31,2023-08,2023,Q3,Housing,Property Tax,979.25,Expense,Digital Wallet,,False,August 2023,35,Thursday,979.25
+2023-09-02,2023-09,2023,Q3,Housing,Mortgage Payment,1041.9,Expense,Digital Wallet,,False,September 2023,35,Saturday,1041.9
+2023-09-02,2023-09,2023,Q3,Shopping,Electronics,406.54,Expense,Credit Card,,False,September 2023,35,Saturday,406.54
+2023-09-02,2023-09,2023,Q3,Utilities,Internet,241.63,Expense,Bank Transfer,,False,September 2023,35,Saturday,241.63
+2023-09-02,2023-09,2023,Q3,Other,Donation,435.45,Expense,Bank Transfer,,False,September 2023,35,Saturday,435.45
+2023-09-03,2023-09,2023,Q3,Shopping,Clothing Store,166.14,Expense,Digital Wallet,,False,September 2023,35,Sunday,166.14
+2023-09-06,2023-09,2023,Q3,Housing,Monthly Rent,1731.35,Expense,Digital Wallet,,False,September 2023,36,Wednesday,1731.35
+2023-09-07,2023-09,2023,Q3,Shopping,Amazon,409.51,Expense,Debit Card,,False,September 2023,36,Thursday,409.51
+2023-09-07,2023-09,2023,Q3,Housing,Mortgage Payment,2418.6,Expense,Cash,,False,September 2023,36,Thursday,2418.6
+2023-09-08,2023-09,2023,Q3,Housing,Home Insurance,1198.02,Expense,Cash,,False,September 2023,36,Friday,1198.02
+2023-09-09,2023-09,2023,Q3,Transport,Parking,415.23,Expense,Digital Wallet,,False,September 2023,36,Saturday,415.23
+2023-09-09,2023-09,2023,Q3,Transport,Public Transit,65.64,Expense,Bank Transfer,,False,September 2023,36,Saturday,65.64
+2023-09-10,2023-09,2023,Q3,Healthcare,Pharmacy,1958.3446262695895,Expense,Cash,,True,September 2023,36,Sunday,1958.34
+2023-09-10,2023-09,2023,Q3,Food,Supermarket,289.23,Expense,Debit Card,,False,September 2023,36,Sunday,289.23
+2023-09-10,2023-09,2023,Q3,Healthcare,Health Insurance,80.0,Expense,Digital Wallet,,False,September 2023,36,Sunday,80.0
+2023-09-11,2023-09,2023,Q3,Utilities,Water Bill,205.97,Expense,Credit Card,,False,September 2023,37,Monday,205.97
+2023-09-12,2023-09,2023,Q3,Food,Restaurant,204.64,Expense,Cash,,False,September 2023,37,Tuesday,204.64
+2023-09-12,2023-09,2023,Q3,Transport,Uber/Grab,176.26,Expense,Debit Card,,False,September 2023,37,Tuesday,176.26
+2023-09-12,2023-09,2023,Q3,Other,Bank Fee,1866.6279515006904,Expense,Credit Card,,True,September 2023,37,Tuesday,1866.63
+2023-09-13,2023-09,2023,Q3,Food,Restaurant,265.24,Expense,Bank Transfer,,False,September 2023,37,Wednesday,265.24
+2023-09-15,2023-09,2023,Q3,Housing,Home Insurance,1228.39,Expense,Digital Wallet,,False,September 2023,37,Friday,1228.39
+2023-09-16,2023-09,2023,Q3,Utilities,Water Bill,118.02,Expense,Digital Wallet,,False,September 2023,37,Saturday,118.02
+2023-09-16,2023-09,2023,Q3,Other,Donation,348.03,Expense,Bank Transfer,,False,September 2023,37,Saturday,348.03
+2023-09-16,2023-09,2023,Q3,Entertainment,Spotify,32.14,Expense,Bank Transfer,,False,September 2023,37,Saturday,32.14
+2023-09-17,2023-09,2023,Q3,Transport,Public Transit,85.84,Expense,Digital Wallet,,False,September 2023,37,Sunday,85.84
+2023-09-18,2023-09,2023,Q3,Housing,Property Tax,826.68,Expense,Credit Card,,False,September 2023,38,Monday,826.68
+2023-09-18,2023-09,2023,Q3,Travel,Travel Insurance,515.04,Expense,Cash,,False,September 2023,38,Monday,515.04
+2023-09-18,2023-09,2023,Q3,Food,Restaurant,139.36,Expense,Digital Wallet,,False,September 2023,38,Monday,139.36
+2023-09-18,2023-09,2023,Q3,Education,Workshop,755.39,Expense,Debit Card,,False,September 2023,38,Monday,755.39
+2023-09-18,2023-09,2023,Q3,Entertainment,Netflix,65.09,Expense,Debit Card,,False,September 2023,38,Monday,65.09
+2023-09-19,2023-09,2023,Q3,Other,Bank Fee,85.37,Expense,Digital Wallet,,False,September 2023,38,Tuesday,85.37
+2023-09-19,2023-09,2023,Q3,Entertainment,Cinema,65.95,Expense,Debit Card,,False,September 2023,38,Tuesday,65.95
+2023-09-19,2023-09,2023,Q3,Food,Coffee Shop,283.87,Expense,Cash,,False,September 2023,38,Tuesday,283.87
+2023-09-19,2023-09,2023,Q3,Transport,Uber/Grab,453.96,Expense,Credit Card,,False,September 2023,38,Tuesday,453.96
+2023-09-20,2023-09,2023,Q3,Transport,Uber/Grab,12.57,Expense,Debit Card,,False,September 2023,38,Wednesday,12.57
+2023-09-20,2023-09,2023,Q3,Entertainment,Netflix,143.15,Expense,Credit Card,,False,September 2023,38,Wednesday,143.15
+2023-09-22,2023-09,2023,Q3,Travel,Flight Ticket,2599.87,Expense,Bank Transfer,,False,September 2023,38,Friday,2599.87
+2023-09-22,2023-09,2023,Q3,Housing,Property Tax,784.92,Expense,Credit Card,,False,September 2023,38,Friday,784.92
+2023-09-22,2023-09,2023,Q3,Other,Bank Fee,76.14,Expense,Bank Transfer,,False,September 2023,38,Friday,76.14
+2023-09-23,2023-09,2023,Q3,Shopping,Clothing Store,202.01,Expense,Digital Wallet,,False,September 2023,38,Saturday,202.01
+2023-09-23,2023-09,2023,Q3,Income,Freelance Payment,1441.78,Income,Bank Transfer,,False,September 2023,38,Saturday,1441.78
+2023-09-24,2023-09,2023,Q3,Healthcare,Health Insurance,732.56,Expense,Debit Card,,False,September 2023,38,Sunday,732.56
+2023-09-24,2023-09,2023,Q3,Other,ATM Withdrawal,281.98,Expense,Digital Wallet,,False,September 2023,38,Sunday,281.98
+2023-09-26,2023-09,2023,Q3,Housing,Mortgage Payment,1167.11,Expense,Bank Transfer,,False,September 2023,39,Tuesday,1167.11
+2023-09-26,2023-09,2023,Q3,Food,Food Delivery,101.17,Expense,Digital Wallet,,False,September 2023,39,Tuesday,101.17
+2023-09-27,2023-09,2023,Q3,Housing,Maintenance,810.05,Expense,Cash,,False,September 2023,39,Wednesday,810.05
+2023-09-27,2023-09,2023,Q3,Utilities,Gas Bill,280.08,Expense,Cash,,False,September 2023,39,Wednesday,280.08
+2023-09-28,2023-09,2023,Q3,Food,Supermarket,106.15,Expense,Bank Transfer,,False,September 2023,39,Thursday,106.15
+2023-09-28,2023-09,2023,Q3,Transport,Gas Station,185.9,Expense,Bank Transfer,,False,September 2023,39,Thursday,185.9
+2023-09-28,2023-09,2023,Q3,Income,Monthly Salary,5165.322278309207,Income,Bank Transfer,,False,September 2023,39,Thursday,5165.32
+2023-09-28,2023-09,2023,Q3,Shopping,Online Shopping,506.68,Expense,Credit Card,,False,September 2023,39,Thursday,506.68
+2023-09-29,2023-09,2023,Q3,Food,Restaurant,22.72,Expense,Bank Transfer,,False,September 2023,39,Friday,22.72
+2023-09-29,2023-09,2023,Q3,Entertainment,Cinema,145.8,Expense,Cash,,False,September 2023,39,Friday,145.8
+2023-09-29,2023-09,2023,Q3,Housing,Monthly Rent,2440.8,Expense,Credit Card,,False,September 2023,39,Friday,2440.8
+2023-09-29,2023-09,2023,Q3,Utilities,Water Bill,93.41,Expense,Debit Card,,False,September 2023,39,Friday,93.41
+2023-09-29,2023-09,2023,Q3,Housing,Mortgage Payment,2397.09,Expense,Digital Wallet,,False,September 2023,39,Friday,2397.09
+2023-09-30,2023-09,2023,Q3,Other,Subscription,264.5,Expense,Cash,,False,September 2023,39,Saturday,264.5
+2023-09-30,2023-09,2023,Q3,Food,Coffee Shop,64.93,Expense,Bank Transfer,,False,September 2023,39,Saturday,64.93
+2023-09-30,2023-09,2023,Q3,Housing,Mortgage Payment,949.62,Expense,Credit Card,,False,September 2023,39,Saturday,949.62
+2023-10-01,2023-10,2023,Q4,Housing,Monthly Rent,2358.17,Expense,Debit Card,,False,October 2023,39,Sunday,2358.17
+2023-10-02,2023-10,2023,Q4,Housing,Property Tax,1949.17,Expense,Digital Wallet,,False,October 2023,40,Monday,1949.17
+2023-10-03,2023-10,2023,Q4,Education,Workshop,676.56,Expense,Credit Card,,False,October 2023,40,Tuesday,676.56
+2023-10-05,2023-10,2023,Q4,Utilities,Gas Bill,87.78,Expense,Cash,,False,October 2023,40,Thursday,87.78
+2023-10-06,2023-10,2023,Q4,Food,Coffee Shop,27.86,Expense,Cash,,False,October 2023,40,Friday,27.86
+2023-10-06,2023-10,2023,Q4,Housing,Home Insurance,714.07,Expense,Digital Wallet,,False,October 2023,40,Friday,714.07
+2023-10-06,2023-10,2023,Q4,Housing,Maintenance,1877.36,Expense,Digital Wallet,,False,October 2023,40,Friday,1877.36
+2023-10-07,2023-10,2023,Q4,Entertainment,Spotify,99.7,Expense,Digital Wallet,,False,October 2023,40,Saturday,99.7
+2023-10-07,2023-10,2023,Q4,Transport,Car Insurance,190.08,Expense,Credit Card,,False,October 2023,40,Saturday,190.08
+2023-10-08,2023-10,2023,Q4,Other,ATM Withdrawal,428.46,Expense,Credit Card,,False,October 2023,40,Sunday,428.46
+2023-10-08,2023-10,2023,Q4,Transport,Public Transit,459.84,Expense,Bank Transfer,,False,October 2023,40,Sunday,459.84
+2023-10-08,2023-10,2023,Q4,Food,Coffee Shop,107.9,Expense,Credit Card,,False,October 2023,40,Sunday,107.9
+2023-10-09,2023-10,2023,Q4,Food,Restaurant,224.84,Expense,Digital Wallet,,False,October 2023,41,Monday,224.84
+2023-10-10,2023-10,2023,Q4,Food,Food Delivery,48.05,Expense,Cash,,False,October 2023,41,Tuesday,48.05
+2023-10-10,2023-10,2023,Q4,Education,Books,285.14,Expense,Credit Card,,False,October 2023,41,Tuesday,285.14
+2023-10-10,2023-10,2023,Q4,Travel,Hotel,1970.0,Expense,Credit Card,,False,October 2023,41,Tuesday,1970.0
+2023-10-11,2023-10,2023,Q4,Other,Miscellaneous,160.68,Expense,Debit Card,,False,October 2023,41,Wednesday,160.68
+2023-10-11,2023-10,2023,Q4,Transport,Car Insurance,468.73,Expense,Cash,,False,October 2023,41,Wednesday,468.73
+2023-10-11,2023-10,2023,Q4,Other,ATM Withdrawal,393.92,Expense,Debit Card,,False,October 2023,41,Wednesday,393.92
+2023-10-11,2023-10,2023,Q4,Education,Books,537.15,Expense,Credit Card,,False,October 2023,41,Wednesday,537.15
+2023-10-11,2023-10,2023,Q4,Travel,Hotel,1109.48,Expense,Digital Wallet,,False,October 2023,41,Wednesday,1109.48
+2023-10-12,2023-10,2023,Q4,Healthcare,Dental,118.92,Expense,Debit Card,,False,October 2023,41,Thursday,118.92
+2023-10-12,2023-10,2023,Q4,Shopping,Amazon,13.88,Expense,Digital Wallet,,False,October 2023,41,Thursday,13.88
+2023-10-12,2023-10,2023,Q4,Food,Supermarket,13.6,Expense,Debit Card,,False,October 2023,41,Thursday,13.6
+2023-10-13,2023-10,2023,Q4,Transport,Parking,234.8,Expense,Cash,,False,October 2023,41,Friday,234.8
+2023-10-13,2023-10,2023,Q4,Transport,Parking,282.57,Expense,Debit Card,,False,October 2023,41,Friday,282.57
+2023-10-14,2023-10,2023,Q4,Utilities,Phone Bill,172.13,Expense,Digital Wallet,,False,October 2023,41,Saturday,172.13
+2023-10-14,2023-10,2023,Q4,Housing,Maintenance,1508.51,Expense,Digital Wallet,,False,October 2023,41,Saturday,1508.51
+2023-10-14,2023-10,2023,Q4,Entertainment,Gym Membership,66.17,Expense,Digital Wallet,,False,October 2023,41,Saturday,66.17
+2023-10-15,2023-10,2023,Q4,Food,Supermarket,277.63,Expense,Digital Wallet,,False,October 2023,41,Sunday,277.63
+2023-10-15,2023-10,2023,Q4,Housing,Property Tax,2134.77,Expense,Credit Card,,False,October 2023,41,Sunday,2134.77
+2023-10-15,2023-10,2023,Q4,Food,Grocery Store,99.07,Expense,Bank Transfer,,False,October 2023,41,Sunday,99.07
+2023-10-15,2023-10,2023,Q4,Food,Food Delivery,150.67,Expense,Digital Wallet,,False,October 2023,41,Sunday,150.67
+2023-10-16,2023-10,2023,Q4,Education,Online Course,252.12,Expense,Debit Card,,False,October 2023,42,Monday,252.12
+2023-10-16,2023-10,2023,Q4,Food,Restaurant,179.94,Expense,Credit Card,,False,October 2023,42,Monday,179.94
+2023-10-17,2023-10,2023,Q4,Housing,Home Insurance,2226.56,Expense,Credit Card,,False,October 2023,42,Tuesday,2226.56
+2023-10-19,2023-10,2023,Q4,Shopping,Electronics,393.42,Expense,Cash,,False,October 2023,42,Thursday,393.42
+2023-10-19,2023-10,2023,Q4,Transport,Parking,338.93,Expense,Credit Card,,False,October 2023,42,Thursday,338.93
+2023-10-20,2023-10,2023,Q4,Food,Food Delivery,122.42,Expense,Debit Card,,False,October 2023,42,Friday,122.42
+2023-10-20,2023-10,2023,Q4,Shopping,Amazon,507.28,Expense,Credit Card,,False,October 2023,42,Friday,507.28
+2023-10-22,2023-10,2023,Q4,Entertainment,Unknown,180.29,Expense,Debit Card,,False,October 2023,42,Sunday,180.29
+2023-10-23,2023-10,2023,Q4,Utilities,Electricity Bill,91.23,Expense,Debit Card,,False,October 2023,43,Monday,91.23
+2023-10-24,2023-10,2023,Q4,Food,Grocery Store,225.96,Expense,Credit Card,,False,October 2023,43,Tuesday,225.96
+2023-10-25,2023-10,2023,Q4,Transport,Public Transit,210.18,Expense,Debit Card,,False,October 2023,43,Wednesday,210.18
+2023-10-25,2023-10,2023,Q4,Transport,Uber/Grab,446.8,Expense,Bank Transfer,,False,October 2023,43,Wednesday,446.8
+2023-10-26,2023-10,2023,Q4,Travel,Tour Package,1219.09,Expense,Credit Card,,False,October 2023,43,Thursday,1219.09
+2023-10-26,2023-10,2023,Q4,Food,Grocery Store,12.59,Expense,Bank Transfer,,False,October 2023,43,Thursday,12.59
+2023-10-26,2023-10,2023,Q4,Shopping,Amazon,100.84,Expense,Cash,,False,October 2023,43,Thursday,100.84
+2023-10-27,2023-10,2023,Q4,Entertainment,Games,137.27,Expense,Digital Wallet,,False,October 2023,43,Friday,137.27
+2023-10-28,2023-10,2023,Q4,Income,Monthly Salary,4541.8593443694845,Income,Bank Transfer,,False,October 2023,43,Saturday,4541.86
+2023-10-28,2023-10,2023,Q4,Education,Training,729.44,Expense,Bank Transfer,,False,October 2023,43,Saturday,729.44
+2023-10-28,2023-10,2023,Q4,Housing,Mortgage Payment,2052.38,Expense,Credit Card,,False,October 2023,43,Saturday,2052.38
+2023-10-29,2023-10,2023,Q4,Utilities,Water Bill,188.58,Expense,Cash,,False,October 2023,43,Sunday,188.58
+2023-10-29,2023-10,2023,Q4,Other,Miscellaneous,205.08,Expense,Cash,,False,October 2023,43,Sunday,205.08
+2023-10-29,2023-10,2023,Q4,Transport,Public Transit,62.17,Expense,Credit Card,,False,October 2023,43,Sunday,62.17
+2023-10-30,2023-10,2023,Q4,Transport,Parking,382.57,Expense,Debit Card,,False,October 2023,44,Monday,382.57
+2023-10-30,2023-10,2023,Q4,Entertainment,Cinema,145.65,Expense,Bank Transfer,,False,October 2023,44,Monday,145.65
+2023-10-30,2023-10,2023,Q4,Shopping,Clothing Store,354.58,Expense,Debit Card,,False,October 2023,44,Monday,354.58
+2023-10-30,2023-10,2023,Q4,Food,Food Delivery,299.32,Expense,Credit Card,,False,October 2023,44,Monday,299.32
+2023-11-01,2023-11,2023,Q4,Housing,Monthly Rent,2160.14,Expense,Bank Transfer,,False,November 2023,44,Wednesday,2160.14
+2023-11-02,2023-11,2023,Q4,Healthcare,Health Insurance,696.65,Expense,Credit Card,,False,November 2023,44,Thursday,696.65
+2023-11-03,2023-11,2023,Q4,Education,Training,555.72,Expense,Credit Card,,False,November 2023,44,Friday,555.72
+2023-11-03,2023-11,2023,Q4,Utilities,Internet,127.25,Expense,Cash,,False,November 2023,44,Friday,127.25
+2023-11-03,2023-11,2023,Q4,Education,Tuition,684.02,Expense,Bank Transfer,,False,November 2023,44,Friday,684.02
+2023-11-03,2023-11,2023,Q4,Housing,Property Tax,2390.47,Expense,Cash,,False,November 2023,44,Friday,2390.47
+2023-11-04,2023-11,2023,Q4,Housing,Maintenance,1262.84,Expense,Digital Wallet,,False,November 2023,44,Saturday,1262.84
+2023-11-04,2023-11,2023,Q4,Utilities,Phone Bill,205.91,Expense,Digital Wallet,,False,November 2023,44,Saturday,205.91
+2023-11-05,2023-11,2023,Q4,Entertainment,Gym Membership,127.31,Expense,Credit Card,,False,November 2023,44,Sunday,127.31
+2023-11-06,2023-11,2023,Q4,Education,Workshop,324.99,Expense,Cash,,False,November 2023,45,Monday,324.99
+2023-11-06,2023-11,2023,Q4,Shopping,Clothing Store,406.79,Expense,Digital Wallet,,False,November 2023,45,Monday,406.79
+2023-11-07,2023-11,2023,Q4,Food,Coffee Shop,25.14,Expense,Digital Wallet,,False,November 2023,45,Tuesday,25.14
+2023-11-07,2023-11,2023,Q4,Shopping,Home Goods,595.04,Expense,Credit Card,,False,November 2023,45,Tuesday,595.04
+2023-11-07,2023-11,2023,Q4,Shopping,Amazon,335.0,Expense,Digital Wallet,,False,November 2023,45,Tuesday,335.0
+2023-11-08,2023-11,2023,Q4,Food,Grocery Store,16.99,Expense,Debit Card,,False,November 2023,45,Wednesday,16.99
+2023-11-09,2023-11,2023,Q4,Housing,Monthly Rent,777.9,Expense,Bank Transfer,,False,November 2023,45,Thursday,777.9
+2023-11-10,2023-11,2023,Q4,Housing,Maintenance,943.19,Expense,Cash,,False,November 2023,45,Friday,943.19
+2023-11-10,2023-11,2023,Q4,Food,Restaurant,35.3,Expense,Credit Card,,False,November 2023,45,Friday,35.3
+2023-11-10,2023-11,2023,Q4,Food,Food Delivery,28.62,Expense,Digital Wallet,,False,November 2023,45,Friday,28.62
+2023-11-11,2023-11,2023,Q4,Other,Miscellaneous,5.72,Expense,Debit Card,,False,November 2023,45,Saturday,5.72
+2023-11-11,2023-11,2023,Q4,Food,Restaurant,10.75,Expense,Credit Card,,False,November 2023,45,Saturday,10.75
+2023-11-11,2023-11,2023,Q4,Entertainment,Games,48.34,Expense,Cash,,False,November 2023,45,Saturday,48.34
+2023-11-12,2023-11,2023,Q4,Shopping,Electronics,239.84,Expense,Credit Card,,False,November 2023,45,Sunday,239.84
+2023-11-14,2023-11,2023,Q4,Utilities,Gas Bill,269.16,Expense,Bank Transfer,,False,November 2023,46,Tuesday,269.16
+2023-11-14,2023-11,2023,Q4,Food,Supermarket,241.32,Expense,Debit Card,,False,November 2023,46,Tuesday,241.32
+2023-11-14,2023-11,2023,Q4,Food,Coffee Shop,147.62,Expense,Debit Card,,False,November 2023,46,Tuesday,147.62
+2023-11-16,2023-11,2023,Q4,Housing,Home Insurance,2381.35,Expense,Bank Transfer,,False,November 2023,46,Thursday,2381.35
+2023-11-16,2023-11,2023,Q4,Travel,Flight Ticket,399.0,Expense,Digital Wallet,,False,November 2023,46,Thursday,399.0
+2023-11-17,2023-11,2023,Q4,Healthcare,Dental,90.39,Expense,Digital Wallet,,False,November 2023,46,Friday,90.39
+2023-11-17,2023-11,2023,Q4,Healthcare,Lab Tests,548.62,Expense,Credit Card,,False,November 2023,46,Friday,548.62
+2023-11-17,2023-11,2023,Q4,Travel,Tour Package,1693.662254574986,Expense,Bank Transfer,,False,November 2023,46,Friday,1693.66
+2023-11-19,2023-11,2023,Q4,Other,Subscription,424.77,Expense,Digital Wallet,,False,November 2023,46,Sunday,424.77
+2023-11-20,2023-11,2023,Q4,Shopping,Electronics,108.61,Expense,Cash,,False,November 2023,47,Monday,108.61
+2023-11-20,2023-11,2023,Q4,Food,Supermarket,240.21,Expense,Credit Card,,False,November 2023,47,Monday,240.21
+2023-11-21,2023-11,2023,Q4,Utilities,Electricity Bill,252.3,Expense,Bank Transfer,,False,November 2023,47,Tuesday,252.3
+2023-11-22,2023-11,2023,Q4,Food,Food Delivery,192.43,Expense,Credit Card,,False,November 2023,47,Wednesday,192.43
+2023-11-23,2023-11,2023,Q4,Housing,Mortgage Payment,1241.08,Expense,Bank Transfer,,False,November 2023,47,Thursday,1241.08
+2023-11-23,2023-11,2023,Q4,Income,Freelance Payment,209.44,Income,Bank Transfer,,False,November 2023,47,Thursday,209.44
+2023-11-23,2023-11,2023,Q4,Food,Coffee Shop,183.96,Expense,Bank Transfer,,False,November 2023,47,Thursday,183.96
+2023-11-24,2023-11,2023,Q4,Transport,Uber/Grab,403.38,Expense,Cash,,False,November 2023,47,Friday,403.38
+2023-11-24,2023-11,2023,Q4,Food,Coffee Shop,78.24,Expense,Credit Card,,False,November 2023,47,Friday,78.24
+2023-11-25,2023-11,2023,Q4,Healthcare,Dental,175.58,Expense,Credit Card,,False,November 2023,47,Saturday,175.58
+2023-11-25,2023-11,2023,Q4,Other,Miscellaneous,237.66,Expense,Debit Card,,False,November 2023,47,Saturday,237.66
+2023-11-25,2023-11,2023,Q4,Travel,Travel Insurance,807.1,Expense,Credit Card,,False,November 2023,47,Saturday,807.1
+2023-11-26,2023-11,2023,Q4,Entertainment,Cinema,82.34,Expense,Bank Transfer,,False,November 2023,47,Sunday,82.34
+2023-11-26,2023-11,2023,Q4,Food,Food Delivery,236.8,Expense,Bank Transfer,,False,November 2023,47,Sunday,236.8
+2023-11-26,2023-11,2023,Q4,Utilities,Unknown,122.89,Expense,Cash,,False,November 2023,47,Sunday,122.89
+2023-11-27,2023-11,2023,Q4,Housing,Maintenance,1133.03,Expense,Credit Card,,False,November 2023,48,Monday,1133.03
+2023-11-27,2023-11,2023,Q4,Income,Monthly Salary,5102.984871864871,Income,Bank Transfer,,False,November 2023,48,Monday,5102.98
+2023-11-27,2023-11,2023,Q4,Housing,Maintenance,1525.0,Expense,Debit Card,,False,November 2023,48,Monday,1525.0
+2023-11-27,2023-11,2023,Q4,Transport,Uber/Grab,414.61,Expense,Credit Card,,False,November 2023,48,Monday,414.61
+2023-11-28,2023-11,2023,Q4,Food,Grocery Store,57.35,Expense,Credit Card,,False,November 2023,48,Tuesday,57.35
+2023-11-28,2023-11,2023,Q4,Transport,Public Transit,147.73,Expense,Cash,,False,November 2023,48,Tuesday,147.73
+2023-11-29,2023-11,2023,Q4,Food,Grocery Store,93.34,Expense,Cash,,False,November 2023,48,Wednesday,93.34
+2023-11-29,2023-11,2023,Q4,Education,Online Course,983.08,Expense,Digital Wallet,,False,November 2023,48,Wednesday,983.08
+2023-11-29,2023-11,2023,Q4,Food,Food Delivery,275.59,Expense,Bank Transfer,,False,November 2023,48,Wednesday,275.59
+2023-11-30,2023-11,2023,Q4,Housing,Property Tax,1827.1,Expense,Bank Transfer,,False,November 2023,48,Thursday,1827.1
+2023-11-30,2023-11,2023,Q4,Education,Workshop,158.61,Expense,Credit Card,,False,November 2023,48,Thursday,158.61
+2023-12-01,2023-12,2023,Q4,Shopping,Online Shopping,372.18,Expense,Cash,,False,December 2023,48,Friday,372.18
+2023-12-01,2023-12,2023,Q4,Transport,Car Insurance,74.39,Expense,Debit Card,,False,December 2023,48,Friday,74.39
+2023-12-02,2023-12,2023,Q4,Entertainment,Games,121.3,Expense,Credit Card,,False,December 2023,48,Saturday,121.3
+2023-12-03,2023-12,2023,Q4,Travel,Hotel,1834.42,Expense,Cash,,False,December 2023,48,Sunday,1834.42
+2023-12-03,2023-12,2023,Q4,Shopping,Clothing Store,208.04,Expense,Credit Card,,False,December 2023,48,Sunday,208.04
+2023-12-03,2023-12,2023,Q4,Housing,Maintenance,1272.87,Expense,Bank Transfer,,False,December 2023,48,Sunday,1272.87
+2023-12-04,2023-12,2023,Q4,Healthcare,Lab Tests,115.18,Expense,Bank Transfer,,False,December 2023,49,Monday,115.18
+2023-12-04,2023-12,2023,Q4,Housing,Monthly Rent,1761.77,Expense,Digital Wallet,,False,December 2023,49,Monday,1761.77
+2023-12-05,2023-12,2023,Q4,Shopping,Electronics,27.18,Expense,Bank Transfer,,False,December 2023,49,Tuesday,27.18
+2023-12-05,2023-12,2023,Q4,Healthcare,Pharmacy,182.0,Expense,Credit Card,,False,December 2023,49,Tuesday,182.0
+2023-12-05,2023-12,2023,Q4,Food,Food Delivery,73.69,Expense,Credit Card,,False,December 2023,49,Tuesday,73.69
+2023-12-05,2023-12,2023,Q4,Utilities,Gas Bill,278.98,Expense,Digital Wallet,,False,December 2023,49,Tuesday,278.98
+2023-12-05,2023-12,2023,Q4,Other,Miscellaneous,234.52,Expense,Debit Card,,False,December 2023,49,Tuesday,234.52
+2023-12-06,2023-12,2023,Q4,Utilities,Electricity Bill,54.83,Expense,Credit Card,,False,December 2023,49,Wednesday,54.83
+2023-12-06,2023-12,2023,Q4,Shopping,Home Goods,390.57,Expense,Credit Card,,False,December 2023,49,Wednesday,390.57
+2023-12-06,2023-12,2023,Q4,Transport,Car Insurance,261.2,Expense,Cash,,False,December 2023,49,Wednesday,261.2
+2023-12-06,2023-12,2023,Q4,Transport,Public Transit,392.61,Expense,Credit Card,,False,December 2023,49,Wednesday,392.61
+2023-12-06,2023-12,2023,Q4,Housing,Maintenance,2190.66,Expense,Credit Card,,False,December 2023,49,Wednesday,2190.66
+2023-12-07,2023-12,2023,Q4,Travel,Tour Package,305.03,Expense,Credit Card,,False,December 2023,49,Thursday,305.03
+2023-12-08,2023-12,2023,Q4,Transport,Uber/Grab,162.03,Expense,Credit Card,,False,December 2023,49,Friday,162.03
+2023-12-08,2023-12,2023,Q4,Housing,Mortgage Payment,1220.47,Expense,Cash,,False,December 2023,49,Friday,1220.47
+2023-12-08,2023-12,2023,Q4,Food,Restaurant,170.83,Expense,Bank Transfer,,False,December 2023,49,Friday,170.83
+2023-12-09,2023-12,2023,Q4,Shopping,Clothing Store,466.41,Expense,Digital Wallet,,False,December 2023,49,Saturday,466.41
+2023-12-10,2023-12,2023,Q4,Food,Coffee Shop,182.82,Expense,Bank Transfer,,False,December 2023,49,Sunday,182.82
+2023-12-10,2023-12,2023,Q4,Utilities,Electricity Bill,242.68,Expense,Digital Wallet,,False,December 2023,49,Sunday,242.68
+2023-12-11,2023-12,2023,Q4,Food,Coffee Shop,206.9,Expense,Cash,,False,December 2023,50,Monday,206.9
+2023-12-11,2023-12,2023,Q4,Utilities,Phone Bill,57.02,Expense,Digital Wallet,,False,December 2023,50,Monday,57.02
+2023-12-11,2023-12,2023,Q4,Food,Grocery Store,50.87,Expense,Credit Card,,False,December 2023,50,Monday,50.87
+2023-12-12,2023-12,2023,Q4,Other,Miscellaneous,13.13,Expense,Bank Transfer,,False,December 2023,50,Tuesday,13.13
+2023-12-13,2023-12,2023,Q4,Food,Supermarket,26.02,Expense,Bank Transfer,,False,December 2023,50,Wednesday,26.02
+2023-12-14,2023-12,2023,Q4,Food,Supermarket,266.19,Expense,Debit Card,,False,December 2023,50,Thursday,266.19
+2023-12-14,2023-12,2023,Q4,Utilities,Electricity Bill,267.58,Expense,Bank Transfer,,False,December 2023,50,Thursday,267.58
+2023-12-14,2023-12,2023,Q4,Housing,Maintenance,2450.17,Expense,Cash,,False,December 2023,50,Thursday,2450.17
+2023-12-14,2023-12,2023,Q4,Other,Subscription,283.77,Expense,Bank Transfer,,False,December 2023,50,Thursday,283.77
+2023-12-16,2023-12,2023,Q4,Utilities,Water Bill,88.09,Expense,Cash,,False,December 2023,50,Saturday,88.09
+2023-12-16,2023-12,2023,Q4,Healthcare,Health Insurance,1752.979930662398,Expense,Digital Wallet,,True,December 2023,50,Saturday,1752.98
+2023-12-16,2023-12,2023,Q4,Housing,Home Insurance,2018.64,Expense,Cash,,False,December 2023,50,Saturday,2018.64
+2023-12-17,2023-12,2023,Q4,Other,Bank Fee,162.56,Expense,Bank Transfer,,False,December 2023,50,Sunday,162.56
+2023-12-17,2023-12,2023,Q4,Travel,Travel Insurance,537.26,Expense,Digital Wallet,,False,December 2023,50,Sunday,537.26
+2023-12-17,2023-12,2023,Q4,Food,Food Delivery,266.95,Expense,Cash,,False,December 2023,50,Sunday,266.95
+2023-12-17,2023-12,2023,Q4,Housing,Mortgage Payment,1022.26,Expense,Bank Transfer,,False,December 2023,50,Sunday,1022.26
+2023-12-17,2023-12,2023,Q4,Travel,Hotel,1833.18,Expense,Cash,,False,December 2023,50,Sunday,1833.18
+2023-12-18,2023-12,2023,Q4,Utilities,Gas Bill,114.37,Expense,Credit Card,,False,December 2023,51,Monday,114.37
+2023-12-18,2023-12,2023,Q4,Food,Coffee Shop,84.48,Expense,Debit Card,,False,December 2023,51,Monday,84.48
+2023-12-19,2023-12,2023,Q4,Utilities,Phone Bill,242.15,Expense,Cash,,False,December 2023,51,Tuesday,242.15
+2023-12-20,2023-12,2023,Q4,Other,Subscription,115.34,Expense,Bank Transfer,,False,December 2023,51,Wednesday,115.34
+2023-12-21,2023-12,2023,Q4,Food,Food Delivery,89.85,Expense,Cash,,False,December 2023,51,Thursday,89.85
+2023-12-21,2023-12,2023,Q4,Housing,Property Tax,1823.43,Expense,Debit Card,,False,December 2023,51,Thursday,1823.43
+2023-12-22,2023-12,2023,Q4,Healthcare,Health Insurance,518.83,Expense,Digital Wallet,,False,December 2023,51,Friday,518.83
+2023-12-23,2023-12,2023,Q4,Education,Tuition,944.75,Expense,Debit Card,,False,December 2023,51,Saturday,944.75
+2023-12-24,2023-12,2023,Q4,Other,Miscellaneous,114.91,Expense,Bank Transfer,,False,December 2023,51,Sunday,114.91
+2023-12-24,2023-12,2023,Q4,Healthcare,Dental,108.94,Expense,Debit Card,,False,December 2023,51,Sunday,108.94
+2023-12-25,2023-12,2023,Q4,Food,Coffee Shop,176.91,Expense,Bank Transfer,,False,December 2023,52,Monday,176.91
+2023-12-25,2023-12,2023,Q4,Housing,Home Insurance,919.37,Expense,Credit Card,,False,December 2023,52,Monday,919.37
+2023-12-25,2023-12,2023,Q4,Healthcare,Pharmacy,604.24,Expense,Credit Card,,False,December 2023,52,Monday,604.24
+2023-12-25,2023-12,2023,Q4,Other,Donation,243.65,Expense,Digital Wallet,,False,December 2023,52,Monday,243.65
+2023-12-26,2023-12,2023,Q4,Housing,Monthly Rent,1190.29,Expense,Debit Card,,False,December 2023,52,Tuesday,1190.29
+2023-12-26,2023-12,2023,Q4,Food,Grocery Store,229.91,Expense,Debit Card,,False,December 2023,52,Tuesday,229.91
+2023-12-27,2023-12,2023,Q4,Income,Monthly Salary,5261.363970233767,Income,Bank Transfer,,False,December 2023,52,Wednesday,5261.36
+2023-12-27,2023-12,2023,Q4,Entertainment,Cinema,109.11,Expense,Digital Wallet,,False,December 2023,52,Wednesday,109.11
+2023-12-27,2023-12,2023,Q4,Shopping,Unknown,385.76,Expense,Bank Transfer,,False,December 2023,52,Wednesday,385.76
+2023-12-29,2023-12,2023,Q4,Shopping,Online Shopping,205.71,Expense,Debit Card,,False,December 2023,52,Friday,205.71
+2023-12-29,2023-12,2023,Q4,Food,Coffee Shop,187.84,Expense,Bank Transfer,,False,December 2023,52,Friday,187.84
+2023-12-29,2023-12,2023,Q4,Entertainment,Netflix,102.55,Expense,Bank Transfer,,False,December 2023,52,Friday,102.55
+2023-12-30,2023-12,2023,Q4,Transport,Uber/Grab,418.71,Expense,Cash,,False,December 2023,52,Saturday,418.71
+2023-12-31,2023-12,2023,Q4,Food,Grocery Store,128.76,Expense,Cash,,False,December 2023,52,Sunday,128.76
+2024-01-01,2024-01,2024,Q1,Housing,Mortgage Payment,1422.09,Expense,Credit Card,,False,January 2024,1,Monday,1422.09
+2024-01-02,2024-01,2024,Q1,Transport,Car Insurance,61.7,Expense,Bank Transfer,,False,January 2024,1,Tuesday,61.7
+2024-01-03,2024-01,2024,Q1,Utilities,Phone Bill,297.14,Expense,Digital Wallet,,False,January 2024,1,Wednesday,297.14
+2024-01-03,2024-01,2024,Q1,Food,Grocery Store,73.97,Expense,Cash,,False,January 2024,1,Wednesday,73.97
+2024-01-03,2024-01,2024,Q1,Travel,Flight Ticket,16860.51778432816,Expense,Cash,,True,January 2024,1,Wednesday,16860.52
+2024-01-03,2024-01,2024,Q1,Food,Coffee Shop,169.27,Expense,Cash,,False,January 2024,1,Wednesday,169.27
+2024-01-04,2024-01,2024,Q1,Travel,Travel Insurance,1495.4,Expense,Bank Transfer,,False,January 2024,1,Thursday,1495.4
+2024-01-04,2024-01,2024,Q1,Food,Coffee Shop,165.4409169530767,Expense,Credit Card,,False,January 2024,1,Thursday,165.44
+2024-01-04,2024-01,2024,Q1,Transport,Parking,327.87,Expense,Bank Transfer,,False,January 2024,1,Thursday,327.87
+2024-01-05,2024-01,2024,Q1,Other,ATM Withdrawal,417.15,Expense,Cash,,False,January 2024,1,Friday,417.15
+2024-01-06,2024-01,2024,Q1,Healthcare,Lab Tests,777.09,Expense,Bank Transfer,,False,January 2024,1,Saturday,777.09
+2024-01-06,2024-01,2024,Q1,Housing,Mortgage Payment,1759.85,Expense,Cash,,False,January 2024,1,Saturday,1759.85
+2024-01-06,2024-01,2024,Q1,Utilities,Electricity Bill,95.44,Expense,Debit Card,,False,January 2024,1,Saturday,95.44
+2024-01-07,2024-01,2024,Q1,Travel,Hotel,1490.6,Expense,Bank Transfer,,False,January 2024,1,Sunday,1490.6
+2024-01-07,2024-01,2024,Q1,Housing,Maintenance,602.32,Expense,Cash,,False,January 2024,1,Sunday,602.32
+2024-01-07,2024-01,2024,Q1,Shopping,Electronics,259.81,Expense,Debit Card,,False,January 2024,1,Sunday,259.81
+2024-01-07,2024-01,2024,Q1,Food,Grocery Store,59.35,Expense,Credit Card,,False,January 2024,1,Sunday,59.35
+2024-01-07,2024-01,2024,Q1,Shopping,Amazon,170.04,Expense,Digital Wallet,,False,January 2024,1,Sunday,170.04
+2024-01-10,2024-01,2024,Q1,Food,Supermarket,237.02,Expense,Digital Wallet,,False,January 2024,2,Wednesday,237.02
+2024-01-10,2024-01,2024,Q1,Education,Training,459.38,Expense,Cash,,False,January 2024,2,Wednesday,459.38
+2024-01-10,2024-01,2024,Q1,Housing,Maintenance,2221.63,Expense,Debit Card,,False,January 2024,2,Wednesday,2221.63
+2024-01-12,2024-01,2024,Q1,Travel,Hotel,2427.07,Expense,Credit Card,,False,January 2024,2,Friday,2427.07
+2024-01-12,2024-01,2024,Q1,Shopping,Clothing Store,364.23,Expense,Digital Wallet,,False,January 2024,2,Friday,364.23
+2024-01-12,2024-01,2024,Q1,Entertainment,Gym Membership,129.55,Expense,Debit Card,,False,January 2024,2,Friday,129.55
+2024-01-13,2024-01,2024,Q1,Transport,Gas Station,374.3,Expense,Digital Wallet,,False,January 2024,2,Saturday,374.3
+2024-01-14,2024-01,2024,Q1,Travel,Hotel,2243.0,Expense,Cash,,False,January 2024,2,Sunday,2243.0
+2024-01-14,2024-01,2024,Q1,Food,Restaurant,148.85,Expense,Credit Card,,False,January 2024,2,Sunday,148.85
+2024-01-15,2024-01,2024,Q1,Utilities,Phone Bill,266.03,Expense,Credit Card,,False,January 2024,3,Monday,266.03
+2024-01-15,2024-01,2024,Q1,Food,Supermarket,163.58,Expense,Bank Transfer,,False,January 2024,3,Monday,163.58
+2024-01-15,2024-01,2024,Q1,Transport,Parking,394.06,Expense,Digital Wallet,,False,January 2024,3,Monday,394.06
+2024-01-16,2024-01,2024,Q1,Shopping,Electronics,33.77,Expense,Cash,,False,January 2024,3,Tuesday,33.77
+2024-01-16,2024-01,2024,Q1,Food,Food Delivery,30.61,Expense,Cash,,False,January 2024,3,Tuesday,30.61
+2024-01-17,2024-01,2024,Q1,Healthcare,Dental,184.22,Expense,Bank Transfer,,False,January 2024,3,Wednesday,184.22
+2024-01-17,2024-01,2024,Q1,Housing,Monthly Rent,2207.61,Expense,Cash,,False,January 2024,3,Wednesday,2207.61
+2024-01-18,2024-01,2024,Q1,Transport,Public Transit,240.37,Expense,Credit Card,,False,January 2024,3,Thursday,240.37
+2024-01-18,2024-01,2024,Q1,Travel,Travel Insurance,2826.83,Expense,Bank Transfer,,False,January 2024,3,Thursday,2826.83
+2024-01-18,2024-01,2024,Q1,Food,Restaurant,184.78,Expense,Bank Transfer,,False,January 2024,3,Thursday,184.78
+2024-01-19,2024-01,2024,Q1,Transport,Public Transit,194.77,Expense,Digital Wallet,,False,January 2024,3,Friday,194.77
+2024-01-19,2024-01,2024,Q1,Food,Food Delivery,2011.6759516511347,Expense,Bank Transfer,,True,January 2024,3,Friday,2011.68
+2024-01-20,2024-01,2024,Q1,Housing,Property Tax,1764.8,Expense,Credit Card,,False,January 2024,3,Saturday,1764.8
+2024-01-21,2024-01,2024,Q1,Food,Restaurant,127.82,Expense,Digital Wallet,,False,January 2024,3,Sunday,127.82
+2024-01-22,2024-01,2024,Q1,Other,Subscription,194.33,Expense,Credit Card,,False,January 2024,4,Monday,194.33
+2024-01-22,2024-01,2024,Q1,Shopping,Home Goods,343.8,Expense,Digital Wallet,,False,January 2024,4,Monday,343.8
+2024-01-22,2024-01,2024,Q1,Healthcare,Lab Tests,325.28,Expense,Cash,,False,January 2024,4,Monday,325.28
+2024-01-25,2024-01,2024,Q1,Education,Unknown,859.72,Expense,Bank Transfer,,False,January 2024,4,Thursday,859.72
+2024-01-26,2024-01,2024,Q1,Income,Monthly Salary,4973.231783188221,Income,Bank Transfer,,False,January 2024,4,Friday,4973.23
+2024-01-26,2024-01,2024,Q1,Travel,Hotel,4680.084248059226,Expense,Credit Card,,False,January 2024,4,Friday,4680.08
+2024-01-26,2024-01,2024,Q1,Shopping,Electronics,238.64,Expense,Debit Card,,False,January 2024,4,Friday,238.64
+2024-01-26,2024-01,2024,Q1,Travel,Hotel,1764.25,Expense,Bank Transfer,,False,January 2024,4,Friday,1764.25
+2024-01-26,2024-01,2024,Q1,Entertainment,Spotify,161.8,Expense,Debit Card,,False,January 2024,4,Friday,161.8
+2024-01-27,2024-01,2024,Q1,Food,Supermarket,184.52,Expense,Debit Card,,False,January 2024,4,Saturday,184.52
+2024-01-27,2024-01,2024,Q1,Food,Coffee Shop,12.1,Expense,Credit Card,,False,January 2024,4,Saturday,12.1
+2024-01-28,2024-01,2024,Q1,Travel,Hotel,333.68,Expense,Debit Card,,False,January 2024,4,Sunday,333.68
+2024-01-31,2024-01,2024,Q1,Utilities,Electricity Bill,244.32,Expense,Debit Card,,False,January 2024,5,Wednesday,244.32
+2024-02-02,2024-02,2024,Q1,Entertainment,Games,105.99,Expense,Bank Transfer,,False,February 2024,5,Friday,105.99
+2024-02-02,2024-02,2024,Q1,Food,Food Delivery,14.39,Expense,Digital Wallet,,False,February 2024,5,Friday,14.39
+2024-02-04,2024-02,2024,Q1,Shopping,Electronics,59.74,Expense,Debit Card,,False,February 2024,5,Sunday,59.74
+2024-02-04,2024-02,2024,Q1,Travel,Hotel,344.41,Expense,Digital Wallet,,False,February 2024,5,Sunday,344.41
+2024-02-04,2024-02,2024,Q1,Transport,Car Insurance,12.89,Expense,Digital Wallet,,False,February 2024,5,Sunday,12.89
+2024-02-06,2024-02,2024,Q1,Food,Grocery Store,91.98,Expense,Cash,,False,February 2024,6,Tuesday,91.98
+2024-02-06,2024-02,2024,Q1,Travel,Hotel,1643.99,Expense,Cash,,False,February 2024,6,Tuesday,1643.99
+2024-02-06,2024-02,2024,Q1,Other,Donation,160.14,Expense,Credit Card,,False,February 2024,6,Tuesday,160.14
+2024-02-06,2024-02,2024,Q1,Food,Coffee Shop,184.04,Expense,Credit Card,,False,February 2024,6,Tuesday,184.04
+2024-02-07,2024-02,2024,Q1,Travel,Airbnb,2587.18,Expense,Cash,,False,February 2024,6,Wednesday,2587.18
+2024-02-07,2024-02,2024,Q1,Food,Restaurant,161.18,Expense,Credit Card,,False,February 2024,6,Wednesday,161.18
+2024-02-07,2024-02,2024,Q1,Healthcare,Health Insurance,192.22,Expense,Digital Wallet,,False,February 2024,6,Wednesday,192.22
+2024-02-07,2024-02,2024,Q1,Travel,Tour Package,1542.37,Expense,Bank Transfer,,False,February 2024,6,Wednesday,1542.37
+2024-02-07,2024-02,2024,Q1,Housing,Mortgage Payment,2458.84,Expense,Bank Transfer,,False,February 2024,6,Wednesday,2458.84
+2024-02-08,2024-02,2024,Q1,Shopping,Amazon,496.35,Expense,Digital Wallet,,False,February 2024,6,Thursday,496.35
+2024-02-08,2024-02,2024,Q1,Travel,Airbnb,782.2,Expense,Bank Transfer,,False,February 2024,6,Thursday,782.2
+2024-02-08,2024-02,2024,Q1,Shopping,Clothing Store,63.15,Expense,Debit Card,,False,February 2024,6,Thursday,63.15
+2024-02-08,2024-02,2024,Q1,Housing,Home Insurance,1862.62,Expense,Digital Wallet,,False,February 2024,6,Thursday,1862.62
+2024-02-09,2024-02,2024,Q1,Utilities,Electricity Bill,182.03,Expense,Debit Card,,False,February 2024,6,Friday,182.03
+2024-02-09,2024-02,2024,Q1,Income,Freelance Payment,637.52,Income,Bank Transfer,,False,February 2024,6,Friday,637.52
+2024-02-09,2024-02,2024,Q1,Shopping,Electronics,330.48,Expense,Debit Card,,False,February 2024,6,Friday,330.48
+2024-02-09,2024-02,2024,Q1,Entertainment,Cinema,83.54,Expense,Digital Wallet,,False,February 2024,6,Friday,83.54
+2024-02-09,2024-02,2024,Q1,Housing,Monthly Rent,2030.55,Expense,Unknown,,False,February 2024,6,Friday,2030.55
+2024-02-10,2024-02,2024,Q1,Food,Grocery Store,62.85,Expense,Cash,,False,February 2024,6,Saturday,62.85
+2024-02-10,2024-02,2024,Q1,Other,Donation,189.93,Expense,Credit Card,,False,February 2024,6,Saturday,189.93
+2024-02-10,2024-02,2024,Q1,Shopping,Online Shopping,119.97,Expense,Digital Wallet,,False,February 2024,6,Saturday,119.97
+2024-02-10,2024-02,2024,Q1,Food,Restaurant,64.89,Expense,Cash,,False,February 2024,6,Saturday,64.89
+2024-02-10,2024-02,2024,Q1,Food,Restaurant,216.28,Expense,Cash,,False,February 2024,6,Saturday,216.28
+2024-02-10,2024-02,2024,Q1,Housing,Mortgage Payment,2088.78,Expense,Credit Card,,False,February 2024,6,Saturday,2088.78
+2024-02-12,2024-02,2024,Q1,Housing,Maintenance,931.49,Expense,Cash,,False,February 2024,7,Monday,931.49
+2024-02-13,2024-02,2024,Q1,Food,Supermarket,297.37,Expense,Debit Card,,False,February 2024,7,Tuesday,297.37
+2024-02-14,2024-02,2024,Q1,Food,Coffee Shop,237.9,Expense,Bank Transfer,,False,February 2024,7,Wednesday,237.9
+2024-02-15,2024-02,2024,Q1,Food,Supermarket,209.63,Expense,Credit Card,,False,February 2024,7,Thursday,209.63
+2024-02-15,2024-02,2024,Q1,Transport,Parking,61.87,Expense,Credit Card,,False,February 2024,7,Thursday,61.87
+2024-02-15,2024-02,2024,Q1,Other,Subscription,241.48,Expense,Credit Card,,False,February 2024,7,Thursday,241.48
+2024-02-16,2024-02,2024,Q1,Shopping,Home Goods,28.38,Expense,Credit Card,,False,February 2024,7,Friday,28.38
+2024-02-16,2024-02,2024,Q1,Food,Restaurant,19.02,Expense,Digital Wallet,,False,February 2024,7,Friday,19.02
+2024-02-16,2024-02,2024,Q1,Food,Coffee Shop,110.19,Expense,Credit Card,,False,February 2024,7,Friday,110.19
+2024-02-16,2024-02,2024,Q1,Travel,Tour Package,583.75,Expense,Cash,,False,February 2024,7,Friday,583.75
+2024-02-16,2024-02,2024,Q1,Housing,Maintenance,1601.92,Expense,Debit Card,,False,February 2024,7,Friday,1601.92
+2024-02-16,2024-02,2024,Q1,Transport,Gas Station,312.94,Expense,Bank Transfer,,False,February 2024,7,Friday,312.94
+2024-02-18,2024-02,2024,Q1,Transport,Parking,164.11,Expense,Credit Card,,False,February 2024,7,Sunday,164.11
+2024-02-18,2024-02,2024,Q1,Utilities,Phone Bill,106.1,Expense,Digital Wallet,,False,February 2024,7,Sunday,106.1
+2024-02-18,2024-02,2024,Q1,Utilities,Electricity Bill,74.52,Expense,Debit Card,,False,February 2024,7,Sunday,74.52
+2024-02-18,2024-02,2024,Q1,Transport,Gas Station,107.55,Expense,Debit Card,,False,February 2024,7,Sunday,107.55
+2024-02-18,2024-02,2024,Q1,Entertainment,Netflix,155.34,Expense,Digital Wallet,,False,February 2024,7,Sunday,155.34
+2024-02-21,2024-02,2024,Q1,Food,Coffee Shop,92.9,Expense,Credit Card,,False,February 2024,8,Wednesday,92.9
+2024-02-21,2024-02,2024,Q1,Food,Grocery Store,53.49,Expense,Digital Wallet,,False,February 2024,8,Wednesday,53.49
+2024-02-21,2024-02,2024,Q1,Shopping,Online Shopping,528.89,Expense,Cash,,False,February 2024,8,Wednesday,528.89
+2024-02-21,2024-02,2024,Q1,Housing,Property Tax,2396.13,Expense,Digital Wallet,,False,February 2024,8,Wednesday,2396.13
+2024-02-23,2024-02,2024,Q1,Housing,Home Insurance,928.22,Expense,Digital Wallet,,False,February 2024,8,Friday,928.22
+2024-02-23,2024-02,2024,Q1,Food,Coffee Shop,114.99,Expense,Digital Wallet,,False,February 2024,8,Friday,114.99
+2024-02-23,2024-02,2024,Q1,Entertainment,Cinema,63.56,Expense,Bank Transfer,,False,February 2024,8,Friday,63.56
+2024-02-24,2024-02,2024,Q1,Healthcare,Pharmacy,376.4,Expense,Credit Card,,False,February 2024,8,Saturday,376.4
+2024-02-24,2024-02,2024,Q1,Food,Food Delivery,178.71,Expense,Credit Card,,False,February 2024,8,Saturday,178.71
+2024-02-25,2024-02,2024,Q1,Other,Bank Fee,283.03,Expense,Bank Transfer,,False,February 2024,8,Sunday,283.03
+2024-02-25,2024-02,2024,Q1,Income,Monthly Salary,5181.859999076666,Income,Bank Transfer,,False,February 2024,8,Sunday,5181.86
+2024-02-25,2024-02,2024,Q1,Transport,Car Insurance,883.3991374822932,Expense,Debit Card,,False,February 2024,8,Sunday,883.4
+2024-02-26,2024-02,2024,Q1,Entertainment,Netflix,8.07,Expense,Credit Card,,False,February 2024,9,Monday,8.07
+2024-02-26,2024-02,2024,Q1,Housing,Mortgage Payment,1973.13,Expense,Cash,,False,February 2024,9,Monday,1973.13
+2024-02-26,2024-02,2024,Q1,Transport,Gas Station,81.81,Expense,Credit Card,,False,February 2024,9,Monday,81.81
+2024-02-26,2024-02,2024,Q1,Transport,Parking,221.04,Expense,Debit Card,,False,February 2024,9,Monday,221.04
+2024-02-27,2024-02,2024,Q1,Food,Coffee Shop,31.42,Expense,Debit Card,,False,February 2024,9,Tuesday,31.42
+2024-02-27,2024-02,2024,Q1,Housing,Mortgage Payment,8825.064481826566,Expense,Debit Card,,True,February 2024,9,Tuesday,8825.06
+2024-02-27,2024-02,2024,Q1,Utilities,Water Bill,118.06,Expense,Bank Transfer,,False,February 2024,9,Tuesday,118.06
+2024-02-28,2024-02,2024,Q1,Travel,Flight Ticket,1657.21,Expense,Digital Wallet,,False,February 2024,9,Wednesday,1657.21
+2024-02-28,2024-02,2024,Q1,Entertainment,Games,117.32,Expense,Cash,,False,February 2024,9,Wednesday,117.32
+2024-02-28,2024-02,2024,Q1,Other,Bank Fee,349.58,Expense,Bank Transfer,,False,February 2024,9,Wednesday,349.58
+2024-02-29,2024-02,2024,Q1,Utilities,Water Bill,292.0,Expense,Digital Wallet,,False,February 2024,9,Thursday,292.0
+2024-02-29,2024-02,2024,Q1,Shopping,Electronics,492.0,Expense,Credit Card,,False,February 2024,9,Thursday,492.0
+2024-02-29,2024-02,2024,Q1,Food,Coffee Shop,237.16,Expense,Credit Card,,False,February 2024,9,Thursday,237.16
+2024-03-01,2024-03,2024,Q1,Transport,Uber/Grab,413.48,Expense,Debit Card,,False,March 2024,9,Friday,413.48
+2024-03-01,2024-03,2024,Q1,Food,Restaurant,23.65,Expense,Cash,,False,March 2024,9,Friday,23.65
+2024-03-01,2024-03,2024,Q1,Healthcare,Health Insurance,406.08,Expense,Bank Transfer,,False,March 2024,9,Friday,406.08
+2024-03-01,2024-03,2024,Q1,Housing,Property Tax,1760.82,Expense,Digital Wallet,,False,March 2024,9,Friday,1760.82
+2024-03-01,2024-03,2024,Q1,Food,Food Delivery,183.7,Expense,Cash,,False,March 2024,9,Friday,183.7
+2024-03-01,2024-03,2024,Q1,Transport,Car Insurance,347.42,Expense,Bank Transfer,,False,March 2024,9,Friday,347.42
+2024-03-01,2024-03,2024,Q1,Housing,Monthly Rent,1315.2,Expense,Debit Card,,False,March 2024,9,Friday,1315.2
+2024-03-03,2024-03,2024,Q1,Food,Unknown,118.46,Expense,Cash,,False,March 2024,9,Sunday,118.46
+2024-03-04,2024-03,2024,Q1,Shopping,Amazon,554.86,Expense,Credit Card,,False,March 2024,10,Monday,554.86
+2024-03-04,2024-03,2024,Q1,Utilities,Water Bill,240.09,Expense,Debit Card,,False,March 2024,10,Monday,240.09
+2024-03-04,2024-03,2024,Q1,Food,Supermarket,209.56,Expense,Debit Card,,False,March 2024,10,Monday,209.56
+2024-03-05,2024-03,2024,Q1,Utilities,Electricity Bill,198.23,Expense,Bank Transfer,,False,March 2024,10,Tuesday,198.23
+2024-03-05,2024-03,2024,Q1,Entertainment,Spotify,14.39,Expense,Bank Transfer,,False,March 2024,10,Tuesday,14.39
+2024-03-05,2024-03,2024,Q1,Education,Training,842.58,Expense,Bank Transfer,,False,March 2024,10,Tuesday,842.58
+2024-03-06,2024-03,2024,Q1,Housing,Home Insurance,529.45,Expense,Bank Transfer,,False,March 2024,10,Wednesday,529.45
+2024-03-07,2024-03,2024,Q1,Utilities,Internet,132.36,Expense,Credit Card,,False,March 2024,10,Thursday,132.36
+2024-03-07,2024-03,2024,Q1,Income,Freelance Payment,1261.9,Income,Bank Transfer,,False,March 2024,10,Thursday,1261.9
+2024-03-08,2024-03,2024,Q1,Entertainment,Netflix,178.98,Expense,Credit Card,,False,March 2024,10,Friday,178.98
+2024-03-08,2024-03,2024,Q1,Housing,Mortgage Payment,1187.15,Expense,Bank Transfer,,False,March 2024,10,Friday,1187.15
+2024-03-09,2024-03,2024,Q1,Utilities,Water Bill,247.58,Expense,Debit Card,,False,March 2024,10,Saturday,247.58
+2024-03-09,2024-03,2024,Q1,Travel,Flight Ticket,1481.68,Expense,Bank Transfer,,False,March 2024,10,Saturday,1481.68
+2024-03-09,2024-03,2024,Q1,Food,Coffee Shop,269.89,Expense,Credit Card,,False,March 2024,10,Saturday,269.89
+2024-03-09,2024-03,2024,Q1,Food,Food Delivery,175.12,Expense,Digital Wallet,,False,March 2024,10,Saturday,175.12
+2024-03-10,2024-03,2024,Q1,Other,Donation,234.19,Expense,Bank Transfer,,False,March 2024,10,Sunday,234.19
+2024-03-11,2024-03,2024,Q1,Food,Grocery Store,66.9,Expense,Credit Card,,False,March 2024,11,Monday,66.9
+2024-03-12,2024-03,2024,Q1,Education,Online Course,633.17,Expense,Credit Card,,False,March 2024,11,Tuesday,633.17
+2024-03-12,2024-03,2024,Q1,Shopping,Home Goods,284.5,Expense,Bank Transfer,,False,March 2024,11,Tuesday,284.5
+2024-03-13,2024-03,2024,Q1,Food,Restaurant,172.1,Expense,Cash,,False,March 2024,11,Wednesday,172.1
+2024-03-13,2024-03,2024,Q1,Entertainment,Games,174.02,Expense,Credit Card,,False,March 2024,11,Wednesday,174.02
+2024-03-13,2024-03,2024,Q1,Shopping,Amazon,386.85,Expense,Cash,,False,March 2024,11,Wednesday,386.85
+2024-03-14,2024-03,2024,Q1,Food,Restaurant,172.22,Expense,Credit Card,,False,March 2024,11,Thursday,172.22
+2024-03-14,2024-03,2024,Q1,Shopping,Clothing Store,401.17,Expense,Bank Transfer,,False,March 2024,11,Thursday,401.17
+2024-03-14,2024-03,2024,Q1,Food,Restaurant,125.15,Expense,Credit Card,,False,March 2024,11,Thursday,125.15
+2024-03-14,2024-03,2024,Q1,Shopping,Online Shopping,561.25,Expense,Debit Card,,False,March 2024,11,Thursday,561.25
+2024-03-15,2024-03,2024,Q1,Education,Books,805.89,Expense,Bank Transfer,,False,March 2024,11,Friday,805.89
+2024-03-15,2024-03,2024,Q1,Shopping,Clothing Store,419.67,Expense,Credit Card,,False,March 2024,11,Friday,419.67
+2024-03-15,2024-03,2024,Q1,Housing,Property Tax,1367.42,Expense,Bank Transfer,,False,March 2024,11,Friday,1367.42
+2024-03-16,2024-03,2024,Q1,Housing,Mortgage Payment,1238.43,Expense,Credit Card,,False,March 2024,11,Saturday,1238.43
+2024-03-16,2024-03,2024,Q1,Shopping,Online Shopping,572.02,Expense,Bank Transfer,,False,March 2024,11,Saturday,572.02
+2024-03-17,2024-03,2024,Q1,Other,ATM Withdrawal,447.15,Expense,Digital Wallet,,False,March 2024,11,Sunday,447.15
+2024-03-17,2024-03,2024,Q1,Housing,Property Tax,916.48,Expense,Digital Wallet,,False,March 2024,11,Sunday,916.48
+2024-03-18,2024-03,2024,Q1,Housing,Maintenance,1562.59,Expense,Cash,,False,March 2024,12,Monday,1562.59
+2024-03-18,2024-03,2024,Q1,Healthcare,Dental,82.74,Expense,Digital Wallet,,False,March 2024,12,Monday,82.74
+2024-03-19,2024-03,2024,Q1,Food,Restaurant,135.21,Expense,Bank Transfer,,False,March 2024,12,Tuesday,135.21
+2024-03-19,2024-03,2024,Q1,Housing,Maintenance,1972.43,Expense,Bank Transfer,,False,March 2024,12,Tuesday,1972.43
+2024-03-19,2024-03,2024,Q1,Other,Subscription,30.07,Expense,Bank Transfer,,False,March 2024,12,Tuesday,30.07
+2024-03-20,2024-03,2024,Q1,Utilities,Phone Bill,278.91,Expense,Credit Card,,False,March 2024,12,Wednesday,278.91
+2024-03-20,2024-03,2024,Q1,Food,Grocery Store,123.49,Expense,Bank Transfer,,False,March 2024,12,Wednesday,123.49
+2024-03-21,2024-03,2024,Q1,Housing,Mortgage Payment,1346.75,Expense,Debit Card,,False,March 2024,12,Thursday,1346.75
+2024-03-21,2024-03,2024,Q1,Food,Grocery Store,249.48,Expense,Debit Card,,False,March 2024,12,Thursday,249.48
+2024-03-22,2024-03,2024,Q1,Utilities,Gas Bill,46.33,Expense,Cash,,False,March 2024,12,Friday,46.33
+2024-03-22,2024-03,2024,Q1,Shopping,Amazon,213.96,Expense,Digital Wallet,,False,March 2024,12,Friday,213.96
+2024-03-23,2024-03,2024,Q1,Food,Food Delivery,100.17,Expense,Cash,,False,March 2024,12,Saturday,100.17
+2024-03-24,2024-03,2024,Q1,Other,Miscellaneous,144.65,Expense,Debit Card,,False,March 2024,12,Sunday,144.65
+2024-03-24,2024-03,2024,Q1,Housing,Mortgage Payment,1596.86,Expense,Bank Transfer,,False,March 2024,12,Sunday,1596.86
+2024-03-24,2024-03,2024,Q1,Entertainment,Gym Membership,38.25,Expense,Cash,,False,March 2024,12,Sunday,38.25
+2024-03-24,2024-03,2024,Q1,Other,Donation,248.37,Expense,Credit Card,,False,March 2024,12,Sunday,248.37
+2024-03-25,2024-03,2024,Q1,Utilities,Water Bill,234.31,Expense,Credit Card,,False,March 2024,13,Monday,234.31
+2024-03-25,2024-03,2024,Q1,Utilities,Gas Bill,47.86,Expense,Bank Transfer,,False,March 2024,13,Monday,47.86
+2024-03-25,2024-03,2024,Q1,Food,Food Delivery,45.64,Expense,Credit Card,,False,March 2024,13,Monday,45.64
+2024-03-25,2024-03,2024,Q1,Transport,Car Insurance,471.55,Expense,Digital Wallet,,False,March 2024,13,Monday,471.55
+2024-03-26,2024-03,2024,Q1,Shopping,Electronics,15.0,Expense,Debit Card,,False,March 2024,13,Tuesday,15.0
+2024-03-26,2024-03,2024,Q1,Income,Monthly Salary,5440.991046735723,Income,Bank Transfer,,False,March 2024,13,Tuesday,5440.99
+2024-03-26,2024-03,2024,Q1,Utilities,Phone Bill,147.98,Expense,Cash,,False,March 2024,13,Tuesday,147.98
+2024-03-26,2024-03,2024,Q1,Travel,Hotel,119.13,Expense,Debit Card,,False,March 2024,13,Tuesday,119.13
+2024-03-26,2024-03,2024,Q1,Transport,Uber/Grab,281.8,Expense,Digital Wallet,,False,March 2024,13,Tuesday,281.8
+2024-03-26,2024-03,2024,Q1,Education,Tuition,410.9,Expense,Bank Transfer,,False,March 2024,13,Tuesday,410.9
+2024-03-27,2024-03,2024,Q1,Travel,Flight Ticket,1974.39,Expense,Digital Wallet,,False,March 2024,13,Wednesday,1974.39
+2024-03-28,2024-03,2024,Q1,Housing,Home Insurance,2290.35,Expense,Digital Wallet,,False,March 2024,13,Thursday,2290.35
+2024-03-28,2024-03,2024,Q1,Other,Donation,310.03,Expense,Debit Card,,False,March 2024,13,Thursday,310.03
+2024-03-28,2024-03,2024,Q1,Entertainment,Spotify,122.97,Expense,Bank Transfer,,False,March 2024,13,Thursday,122.97
+2024-03-29,2024-03,2024,Q1,Other,Bank Fee,117.84,Expense,Cash,,False,March 2024,13,Friday,117.84
+2024-03-29,2024-03,2024,Q1,Food,Coffee Shop,159.16,Expense,Digital Wallet,,False,March 2024,13,Friday,159.16
+2024-03-29,2024-03,2024,Q1,Entertainment,Cinema,91.62,Expense,Debit Card,,False,March 2024,13,Friday,91.62
+2024-03-29,2024-03,2024,Q1,Housing,Mortgage Payment,1987.34,Expense,Cash,,False,March 2024,13,Friday,1987.34
+2024-03-29,2024-03,2024,Q1,Travel,Airbnb,1300.72,Expense,Debit Card,,False,March 2024,13,Friday,1300.72
+2024-03-30,2024-03,2024,Q1,Food,Grocery Store,213.16,Expense,Digital Wallet,,False,March 2024,13,Saturday,213.16
+2024-03-30,2024-03,2024,Q1,Housing,Maintenance,1228.6,Expense,Cash,,False,March 2024,13,Saturday,1228.6
+2024-03-31,2024-03,2024,Q1,Other,ATM Withdrawal,272.59,Expense,Digital Wallet,,False,March 2024,13,Sunday,272.59
+2024-04-01,2024-04,2024,Q2,Transport,Public Transit,161.66,Expense,Debit Card,,False,April 2024,14,Monday,161.66
+2024-04-01,2024-04,2024,Q2,Housing,Monthly Rent,2277.02,Expense,Cash,,False,April 2024,14,Monday,2277.02
+2024-04-01,2024-04,2024,Q2,Education,Books,6230.995453239637,Expense,Digital Wallet,,True,April 2024,14,Monday,6231.0
+2024-04-02,2024-04,2024,Q2,Entertainment,Netflix,37.5,Expense,Cash,,False,April 2024,14,Tuesday,37.5
+2024-04-02,2024-04,2024,Q2,Other,Bank Fee,8.38,Expense,Cash,,False,April 2024,14,Tuesday,8.38
+2024-04-02,2024-04,2024,Q2,Education,Books,676.32,Expense,Credit Card,,False,April 2024,14,Tuesday,676.32
+2024-04-04,2024-04,2024,Q2,Food,Restaurant,78.45,Expense,Cash,,False,April 2024,14,Thursday,78.45
+2024-04-05,2024-04,2024,Q2,Shopping,Home Goods,278.09,Expense,Cash,,False,April 2024,14,Friday,278.09
+2024-04-05,2024-04,2024,Q2,Food,Supermarket,218.61,Expense,Cash,,False,April 2024,14,Friday,218.61
+2024-04-05,2024-04,2024,Q2,Housing,Property Tax,777.04,Expense,Debit Card,,False,April 2024,14,Friday,777.04
+2024-04-06,2024-04,2024,Q2,Food,Supermarket,90.21,Expense,Credit Card,,False,April 2024,14,Saturday,90.21
+2024-04-07,2024-04,2024,Q2,Housing,Monthly Rent,1514.67,Expense,Credit Card,,False,April 2024,14,Sunday,1514.67
+2024-04-08,2024-04,2024,Q2,Food,Coffee Shop,17.93,Expense,Digital Wallet,,False,April 2024,15,Monday,17.93
+2024-04-08,2024-04,2024,Q2,Housing,Home Insurance,720.71,Expense,Digital Wallet,,False,April 2024,15,Monday,720.71
+2024-04-09,2024-04,2024,Q2,Transport,Car Insurance,445.16,Expense,Bank Transfer,,False,April 2024,15,Tuesday,445.16
+2024-04-09,2024-04,2024,Q2,Housing,Property Tax,1937.17,Expense,Credit Card,,False,April 2024,15,Tuesday,1937.17
+2024-04-09,2024-04,2024,Q2,Housing,Monthly Rent,1076.21,Expense,Debit Card,,False,April 2024,15,Tuesday,1076.21
+2024-04-09,2024-04,2024,Q2,Food,Supermarket,218.64,Expense,Digital Wallet,,False,April 2024,15,Tuesday,218.64
+2024-04-09,2024-04,2024,Q2,Travel,Travel Insurance,2383.68,Expense,Bank Transfer,,False,April 2024,15,Tuesday,2383.68
+2024-04-10,2024-04,2024,Q2,Transport,Public Transit,2258.539662376861,Expense,Cash,,True,April 2024,15,Wednesday,2258.54
+2024-04-10,2024-04,2024,Q2,Other,Bank Fee,136.28,Expense,Bank Transfer,,False,April 2024,15,Wednesday,136.28
+2024-04-10,2024-04,2024,Q2,Food,Coffee Shop,81.75,Expense,Cash,,False,April 2024,15,Wednesday,81.75
+2024-04-12,2024-04,2024,Q2,Housing,Home Insurance,682.21,Expense,Cash,,False,April 2024,15,Friday,682.21
+2024-04-12,2024-04,2024,Q2,Utilities,Electricity Bill,113.89,Expense,Cash,,False,April 2024,15,Friday,113.89
+2024-04-12,2024-04,2024,Q2,Transport,Parking,246.42,Expense,Debit Card,,False,April 2024,15,Friday,246.42
+2024-04-13,2024-04,2024,Q2,Food,Supermarket,163.59,Expense,Bank Transfer,,False,April 2024,15,Saturday,163.59
+2024-04-13,2024-04,2024,Q2,Food,Restaurant,279.41,Expense,Cash,,False,April 2024,15,Saturday,279.41
+2024-04-14,2024-04,2024,Q2,Food,Coffee Shop,243.6,Expense,Debit Card,,False,April 2024,15,Sunday,243.6
+2024-04-14,2024-04,2024,Q2,Housing,Maintenance,2114.21,Expense,Debit Card,,False,April 2024,15,Sunday,2114.21
+2024-04-14,2024-04,2024,Q2,Entertainment,Unknown,82.15,Expense,Cash,,False,April 2024,15,Sunday,82.15
+2024-04-15,2024-04,2024,Q2,Shopping,Home Goods,247.93,Expense,Digital Wallet,,False,April 2024,16,Monday,247.93
+2024-04-16,2024-04,2024,Q2,Other,Bank Fee,90.08,Expense,Credit Card,,False,April 2024,16,Tuesday,90.08
+2024-04-16,2024-04,2024,Q2,Housing,Property Tax,8099.099998532183,Expense,Digital Wallet,,True,April 2024,16,Tuesday,8099.1
+2024-04-16,2024-04,2024,Q2,Healthcare,Health Insurance,730.04,Expense,Digital Wallet,,False,April 2024,16,Tuesday,730.04
+2024-04-17,2024-04,2024,Q2,Housing,Mortgage Payment,1450.67,Expense,Cash,,False,April 2024,16,Wednesday,1450.67
+2024-04-17,2024-04,2024,Q2,Education,Workshop,935.75,Expense,Credit Card,,False,April 2024,16,Wednesday,935.75
+2024-04-18,2024-04,2024,Q2,Shopping,Clothing Store,205.28,Expense,Bank Transfer,,False,April 2024,16,Thursday,205.28
+2024-04-18,2024-04,2024,Q2,Shopping,Clothing Store,92.71,Expense,Credit Card,,False,April 2024,16,Thursday,92.71
+2024-04-19,2024-04,2024,Q2,Food,Coffee Shop,219.36,Expense,Bank Transfer,,False,April 2024,16,Friday,219.36
+2024-04-19,2024-04,2024,Q2,Transport,Public Transit,387.47,Expense,Credit Card,,False,April 2024,16,Friday,387.47
+2024-04-19,2024-04,2024,Q2,Entertainment,Gym Membership,48.1,Expense,Digital Wallet,,False,April 2024,16,Friday,48.1
+2024-04-20,2024-04,2024,Q2,Travel,Tour Package,451.94,Expense,Digital Wallet,,False,April 2024,16,Saturday,451.94
+2024-04-20,2024-04,2024,Q2,Housing,Property Tax,2334.27,Expense,Bank Transfer,,False,April 2024,16,Saturday,2334.27
+2024-04-21,2024-04,2024,Q2,Housing,Property Tax,1120.78,Expense,Debit Card,,False,April 2024,16,Sunday,1120.78
+2024-04-22,2024-04,2024,Q2,Transport,Unknown,383.09,Expense,Digital Wallet,,False,April 2024,17,Monday,383.09
+2024-04-23,2024-04,2024,Q2,Food,Coffee Shop,288.82,Expense,Digital Wallet,,False,April 2024,17,Tuesday,288.82
+2024-04-24,2024-04,2024,Q2,Healthcare,Health Insurance,524.84,Expense,Credit Card,,False,April 2024,17,Wednesday,524.84
+2024-04-25,2024-04,2024,Q2,Income,Monthly Salary,4878.435698232122,Income,Bank Transfer,,False,April 2024,17,Thursday,4878.44
+2024-04-26,2024-04,2024,Q2,Travel,Tour Package,706.79,Expense,Credit Card,,False,April 2024,17,Friday,706.79
+2024-04-26,2024-04,2024,Q2,Housing,Mortgage Payment,2051.31,Expense,Debit Card,,False,April 2024,17,Friday,2051.31
+2024-04-27,2024-04,2024,Q2,Shopping,Electronics,40.75,Expense,Digital Wallet,,False,April 2024,17,Saturday,40.75
+2024-04-27,2024-04,2024,Q2,Travel,Travel Insurance,2487.27,Expense,Cash,,False,April 2024,17,Saturday,2487.27
+2024-04-28,2024-04,2024,Q2,Education,Books,689.45,Expense,Digital Wallet,,False,April 2024,17,Sunday,689.45
+2024-04-28,2024-04,2024,Q2,Housing,Monthly Rent,2279.83,Expense,Digital Wallet,,False,April 2024,17,Sunday,2279.83
+2024-04-29,2024-04,2024,Q2,Food,Food Delivery,233.79,Expense,Bank Transfer,,False,April 2024,18,Monday,233.79
+2024-04-29,2024-04,2024,Q2,Entertainment,Gym Membership,114.92,Expense,Debit Card,,False,April 2024,18,Monday,114.92
+2024-04-29,2024-04,2024,Q2,Transport,Parking,56.82,Expense,Credit Card,,False,April 2024,18,Monday,56.82
+2024-04-30,2024-04,2024,Q2,Healthcare,Lab Tests,367.96,Expense,Digital Wallet,,False,April 2024,18,Tuesday,367.96
+2024-05-01,2024-05,2024,Q2,Utilities,Gas Bill,69.79,Expense,Credit Card,,False,May 2024,18,Wednesday,69.79
+2024-05-01,2024-05,2024,Q2,Transport,Parking,272.4,Expense,Debit Card,,False,May 2024,18,Wednesday,272.4
+2024-05-01,2024-05,2024,Q2,Education,Training,570.48,Expense,Cash,,False,May 2024,18,Wednesday,570.48
+2024-05-01,2024-05,2024,Q2,Travel,Airbnb,1061.33,Expense,Cash,,False,May 2024,18,Wednesday,1061.33
+2024-05-02,2024-05,2024,Q2,Entertainment,Cinema,48.36,Expense,Digital Wallet,,False,May 2024,18,Thursday,48.36
+2024-05-02,2024-05,2024,Q2,Entertainment,Gym Membership,138.65,Expense,Debit Card,,False,May 2024,18,Thursday,138.65
+2024-05-02,2024-05,2024,Q2,Utilities,Gas Bill,288.47,Expense,Credit Card,,False,May 2024,18,Thursday,288.47
+2024-05-02,2024-05,2024,Q2,Shopping,Online Shopping,522.32,Expense,Cash,,False,May 2024,18,Thursday,522.32
+2024-05-03,2024-05,2024,Q2,Transport,Public Transit,14.08,Expense,Credit Card,,False,May 2024,18,Friday,14.08
+2024-05-04,2024-05,2024,Q2,Entertainment,Spotify,159.57,Expense,Cash,,False,May 2024,18,Saturday,159.57
+2024-05-05,2024-05,2024,Q2,Education,Books,700.45,Expense,Debit Card,,False,May 2024,18,Sunday,700.45
+2024-05-05,2024-05,2024,Q2,Travel,Tour Package,290.67,Expense,Bank Transfer,,False,May 2024,18,Sunday,290.67
+2024-05-05,2024-05,2024,Q2,Shopping,Online Shopping,304.35,Expense,Credit Card,,False,May 2024,18,Sunday,304.35
+2024-05-05,2024-05,2024,Q2,Utilities,Gas Bill,49.97,Expense,Bank Transfer,,False,May 2024,18,Sunday,49.97
+2024-05-05,2024-05,2024,Q2,Other,ATM Withdrawal,63.07,Expense,Digital Wallet,,False,May 2024,18,Sunday,63.07
+2024-05-06,2024-05,2024,Q2,Food,Coffee Shop,196.05,Expense,Debit Card,,False,May 2024,19,Monday,196.05
+2024-05-06,2024-05,2024,Q2,Education,Training,177.59,Expense,Bank Transfer,,False,May 2024,19,Monday,177.59
+2024-05-07,2024-05,2024,Q2,Entertainment,Spotify,41.7,Expense,Debit Card,,False,May 2024,19,Tuesday,41.7
+2024-05-07,2024-05,2024,Q2,Entertainment,Cinema,95.97,Expense,Bank Transfer,,False,May 2024,19,Tuesday,95.97
+2024-05-07,2024-05,2024,Q2,Income,Freelance Payment,1335.0,Income,Bank Transfer,,False,May 2024,19,Tuesday,1335.0
+2024-05-08,2024-05,2024,Q2,Housing,Mortgage Payment,1514.83,Expense,Credit Card,,False,May 2024,19,Wednesday,1514.83
+2024-05-08,2024-05,2024,Q2,Travel,Hotel,2412.04,Expense,Bank Transfer,,False,May 2024,19,Wednesday,2412.04
+2024-05-08,2024-05,2024,Q2,Travel,Airbnb,2508.37,Expense,Cash,,False,May 2024,19,Wednesday,2508.37
+2024-05-08,2024-05,2024,Q2,Food,Grocery Store,118.41,Expense,Digital Wallet,,False,May 2024,19,Wednesday,118.41
+2024-05-08,2024-05,2024,Q2,Food,Restaurant,183.93,Expense,Debit Card,,False,May 2024,19,Wednesday,183.93
+2024-05-09,2024-05,2024,Q2,Transport,Gas Station,158.04,Expense,Debit Card,,False,May 2024,19,Thursday,158.04
+2024-05-09,2024-05,2024,Q2,Food,Restaurant,208.76,Expense,Debit Card,,False,May 2024,19,Thursday,208.76
+2024-05-10,2024-05,2024,Q2,Other,Bank Fee,331.41,Expense,Credit Card,,False,May 2024,19,Friday,331.41
+2024-05-11,2024-05,2024,Q2,Housing,Property Tax,1536.34,Expense,Cash,,False,May 2024,19,Saturday,1536.34
+2024-05-12,2024-05,2024,Q2,Shopping,Amazon,396.9,Expense,Digital Wallet,,False,May 2024,19,Sunday,396.9
+2024-05-12,2024-05,2024,Q2,Food,Grocery Store,172.37,Expense,Digital Wallet,,False,May 2024,19,Sunday,172.37
+2024-05-14,2024-05,2024,Q2,Healthcare,Pharmacy,585.2,Expense,Credit Card,,False,May 2024,20,Tuesday,585.2
+2024-05-14,2024-05,2024,Q2,Shopping,Home Goods,337.04,Expense,Bank Transfer,,False,May 2024,20,Tuesday,337.04
+2024-05-14,2024-05,2024,Q2,Food,Restaurant,150.82,Expense,Cash,,False,May 2024,20,Tuesday,150.82
+2024-05-15,2024-05,2024,Q2,Education,Books,132.15,Expense,Digital Wallet,,False,May 2024,20,Wednesday,132.15
+2024-05-15,2024-05,2024,Q2,Education,Tuition,342.94,Expense,Credit Card,,False,May 2024,20,Wednesday,342.94
+2024-05-16,2024-05,2024,Q2,Healthcare,Health Insurance,350.27,Expense,Debit Card,,False,May 2024,20,Thursday,350.27
+2024-05-16,2024-05,2024,Q2,Housing,Monthly Rent,9155.48622548878,Expense,Bank Transfer,,True,May 2024,20,Thursday,9155.49
+2024-05-17,2024-05,2024,Q2,Food,Restaurant,19.64,Expense,Credit Card,,False,May 2024,20,Friday,19.64
+2024-05-17,2024-05,2024,Q2,Entertainment,Netflix,29.62,Expense,Credit Card,,False,May 2024,20,Friday,29.62
+2024-05-17,2024-05,2024,Q2,Other,ATM Withdrawal,146.36,Expense,Credit Card,,False,May 2024,20,Friday,146.36
+2024-05-17,2024-05,2024,Q2,Utilities,Phone Bill,216.46,Expense,Credit Card,,False,May 2024,20,Friday,216.46
+2024-05-18,2024-05,2024,Q2,Healthcare,Pharmacy,359.9,Expense,Digital Wallet,,False,May 2024,20,Saturday,359.9
+2024-05-19,2024-05,2024,Q2,Utilities,Phone Bill,208.49,Expense,Debit Card,,False,May 2024,20,Sunday,208.49
+2024-05-19,2024-05,2024,Q2,Housing,Monthly Rent,2392.52,Expense,Credit Card,,False,May 2024,20,Sunday,2392.52
+2024-05-24,2024-05,2024,Q2,Utilities,Water Bill,59.17,Expense,Debit Card,,False,May 2024,21,Friday,59.17
+2024-05-24,2024-05,2024,Q2,Shopping,Home Goods,302.87,Expense,Debit Card,,False,May 2024,21,Friday,302.87
+2024-05-25,2024-05,2024,Q2,Food,Grocery Store,276.52,Expense,Cash,,False,May 2024,21,Saturday,276.52
+2024-05-25,2024-05,2024,Q2,Housing,Monthly Rent,1975.6,Expense,Debit Card,,False,May 2024,21,Saturday,1975.6
+2024-05-25,2024-05,2024,Q2,Income,Monthly Salary,5306.270205230842,Income,Bank Transfer,,False,May 2024,21,Saturday,5306.27
+2024-05-26,2024-05,2024,Q2,Food,Supermarket,117.05,Expense,Cash,,False,May 2024,21,Sunday,117.05
+2024-05-26,2024-05,2024,Q2,Transport,Parking,398.44,Expense,Bank Transfer,,False,May 2024,21,Sunday,398.44
+2024-05-27,2024-05,2024,Q2,Other,ATM Withdrawal,438.55,Expense,Digital Wallet,,False,May 2024,22,Monday,438.55
+2024-05-27,2024-05,2024,Q2,Utilities,Electricity Bill,83.75,Expense,Credit Card,,False,May 2024,22,Monday,83.75
+2024-05-27,2024-05,2024,Q2,Transport,Uber/Grab,22.22,Expense,Debit Card,,False,May 2024,22,Monday,22.22
+2024-05-27,2024-05,2024,Q2,Food,Supermarket,130.93,Expense,Bank Transfer,,False,May 2024,22,Monday,130.93
+2024-05-29,2024-05,2024,Q2,Shopping,Home Goods,564.1,Expense,Cash,,False,May 2024,22,Wednesday,564.1
+2024-05-30,2024-05,2024,Q2,Utilities,Water Bill,168.57,Expense,Digital Wallet,,False,May 2024,22,Thursday,168.57
+2024-05-30,2024-05,2024,Q2,Travel,Hotel,572.78,Expense,Debit Card,,False,May 2024,22,Thursday,572.78
+2024-05-30,2024-05,2024,Q2,Entertainment,Netflix,39.07,Expense,Credit Card,,False,May 2024,22,Thursday,39.07
+2024-05-31,2024-05,2024,Q2,Transport,Gas Station,31.67,Expense,Bank Transfer,,False,May 2024,22,Friday,31.67
+2024-05-31,2024-05,2024,Q2,Utilities,Water Bill,151.64,Expense,Bank Transfer,,False,May 2024,22,Friday,151.64
+2024-06-01,2024-06,2024,Q2,Transport,Uber/Grab,376.47,Expense,Bank Transfer,,False,June 2024,22,Saturday,376.47
+2024-06-01,2024-06,2024,Q2,Food,Restaurant,59.24,Expense,Bank Transfer,,False,June 2024,22,Saturday,59.24
+2024-06-01,2024-06,2024,Q2,Transport,Parking,302.72,Expense,Bank Transfer,,False,June 2024,22,Saturday,302.72
+2024-06-01,2024-06,2024,Q2,Food,Grocery Store,233.38,Expense,Credit Card,,False,June 2024,22,Saturday,233.38
+2024-06-01,2024-06,2024,Q2,Food,Restaurant,243.7,Expense,Credit Card,,False,June 2024,22,Saturday,243.7
+2024-06-01,2024-06,2024,Q2,Education,Workshop,791.76,Expense,Credit Card,,False,June 2024,22,Saturday,791.76
+2024-06-03,2024-06,2024,Q2,Utilities,Internet,260.69,Expense,Credit Card,,False,June 2024,23,Monday,260.69
+2024-06-03,2024-06,2024,Q2,Food,Restaurant,102.61,Expense,Digital Wallet,,False,June 2024,23,Monday,102.61
+2024-06-03,2024-06,2024,Q2,Other,Donation,274.32,Expense,Credit Card,,False,June 2024,23,Monday,274.32
+2024-06-03,2024-06,2024,Q2,Food,Supermarket,92.26,Expense,Digital Wallet,,False,June 2024,23,Monday,92.26
+2024-06-03,2024-06,2024,Q2,Food,Coffee Shop,291.19,Expense,Cash,,False,June 2024,23,Monday,291.19
+2024-06-03,2024-06,2024,Q2,Shopping,Clothing Store,519.01,Expense,Bank Transfer,,False,June 2024,23,Monday,519.01
+2024-06-05,2024-06,2024,Q2,Transport,Car Insurance,117.47,Expense,Credit Card,,False,June 2024,23,Wednesday,117.47
+2024-06-05,2024-06,2024,Q2,Food,Coffee Shop,119.49,Expense,Bank Transfer,,False,June 2024,23,Wednesday,119.49
+2024-06-06,2024-06,2024,Q2,Entertainment,Games,144.8,Expense,Credit Card,,False,June 2024,23,Thursday,144.8
+2024-06-07,2024-06,2024,Q2,Travel,Airbnb,1523.34,Expense,Bank Transfer,,False,June 2024,23,Friday,1523.34
+2024-06-07,2024-06,2024,Q2,Entertainment,Cinema,190.28,Expense,Debit Card,,False,June 2024,23,Friday,190.28
+2024-06-11,2024-06,2024,Q2,Entertainment,Games,42.02,Expense,Bank Transfer,,False,June 2024,24,Tuesday,42.02
+2024-06-11,2024-06,2024,Q2,Food,Food Delivery,127.22,Expense,Digital Wallet,,False,June 2024,24,Tuesday,127.22
+2024-06-11,2024-06,2024,Q2,Shopping,Electronics,529.27,Expense,Cash,,False,June 2024,24,Tuesday,529.27
+2024-06-12,2024-06,2024,Q2,Travel,Airbnb,2704.39,Expense,Credit Card,,False,June 2024,24,Wednesday,2704.39
+2024-06-12,2024-06,2024,Q2,Utilities,Water Bill,56.53,Expense,Debit Card,,False,June 2024,24,Wednesday,56.53
+2024-06-12,2024-06,2024,Q2,Transport,Gas Station,370.23,Expense,Debit Card,,False,June 2024,24,Wednesday,370.23
+2024-06-12,2024-06,2024,Q2,Food,Supermarket,226.0,Expense,Digital Wallet,,False,June 2024,24,Wednesday,226.0
+2024-06-13,2024-06,2024,Q2,Healthcare,Lab Tests,796.54,Expense,Cash,,False,June 2024,24,Thursday,796.54
+2024-06-13,2024-06,2024,Q2,Transport,Public Transit,330.13,Expense,Bank Transfer,,False,June 2024,24,Thursday,330.13
+2024-06-13,2024-06,2024,Q2,Transport,Car Insurance,339.13,Expense,Credit Card,,False,June 2024,24,Thursday,339.13
+2024-06-13,2024-06,2024,Q2,Transport,Uber/Grab,310.44,Expense,Bank Transfer,,False,June 2024,24,Thursday,310.44
+2024-06-13,2024-06,2024,Q2,Transport,Public Transit,274.72,Expense,Digital Wallet,,False,June 2024,24,Thursday,274.72
+2024-06-13,2024-06,2024,Q2,Transport,Gas Station,387.37,Expense,Credit Card,,False,June 2024,24,Thursday,387.37
+2024-06-14,2024-06,2024,Q2,Transport,Uber/Grab,297.22,Expense,Bank Transfer,,False,June 2024,24,Friday,297.22
+2024-06-14,2024-06,2024,Q2,Shopping,Amazon,181.73,Expense,Debit Card,,False,June 2024,24,Friday,181.73
+2024-06-14,2024-06,2024,Q2,Housing,Home Insurance,2201.14,Expense,Debit Card,,False,June 2024,24,Friday,2201.14
+2024-06-15,2024-06,2024,Q2,Housing,Maintenance,1017.48,Expense,Digital Wallet,,False,June 2024,24,Saturday,1017.48
+2024-06-15,2024-06,2024,Q2,Other,Bank Fee,250.62,Expense,Credit Card,,False,June 2024,24,Saturday,250.62
+2024-06-15,2024-06,2024,Q2,Food,Supermarket,286.95,Expense,Digital Wallet,,False,June 2024,24,Saturday,286.95
+2024-06-15,2024-06,2024,Q2,Housing,Home Insurance,2003.25,Expense,Debit Card,,False,June 2024,24,Saturday,2003.25
+2024-06-15,2024-06,2024,Q2,Food,Food Delivery,27.99,Expense,Credit Card,,False,June 2024,24,Saturday,27.99
+2024-06-15,2024-06,2024,Q2,Housing,Property Tax,1927.18,Expense,Debit Card,,False,June 2024,24,Saturday,1927.18
+2024-06-16,2024-06,2024,Q2,Education,Workshop,333.29,Expense,Digital Wallet,,False,June 2024,24,Sunday,333.29
+2024-06-16,2024-06,2024,Q2,Food,Food Delivery,163.31,Expense,Credit Card,,False,June 2024,24,Sunday,163.31
+2024-06-16,2024-06,2024,Q2,Housing,Property Tax,2342.55,Expense,Cash,,False,June 2024,24,Sunday,2342.55
+2024-06-16,2024-06,2024,Q2,Shopping,Home Goods,335.71,Expense,Credit Card,,False,June 2024,24,Sunday,335.71
+2024-06-17,2024-06,2024,Q2,Housing,Home Insurance,2066.45,Expense,Bank Transfer,,False,June 2024,25,Monday,2066.45
+2024-06-17,2024-06,2024,Q2,Utilities,Phone Bill,256.76,Expense,Debit Card,,False,June 2024,25,Monday,256.76
+2024-06-18,2024-06,2024,Q2,Entertainment,Netflix,94.58,Expense,Credit Card,,False,June 2024,25,Tuesday,94.58
+2024-06-19,2024-06,2024,Q2,Shopping,Electronics,257.34,Expense,Cash,,False,June 2024,25,Wednesday,257.34
+2024-06-19,2024-06,2024,Q2,Food,Grocery Store,194.07,Expense,Credit Card,,False,June 2024,25,Wednesday,194.07
+2024-06-19,2024-06,2024,Q2,Food,Grocery Store,210.54,Expense,Bank Transfer,,False,June 2024,25,Wednesday,210.54
+2024-06-20,2024-06,2024,Q2,Housing,Maintenance,1915.24,Expense,Digital Wallet,,False,June 2024,25,Thursday,1915.24
+2024-06-20,2024-06,2024,Q2,Shopping,Electronics,120.52,Expense,Credit Card,,False,June 2024,25,Thursday,120.52
+2024-06-20,2024-06,2024,Q2,Housing,Property Tax,1398.8,Expense,Digital Wallet,,False,June 2024,25,Thursday,1398.8
+2024-06-20,2024-06,2024,Q2,Housing,Maintenance,1919.14,Expense,Credit Card,,False,June 2024,25,Thursday,1919.14
+2024-06-21,2024-06,2024,Q2,Entertainment,Gym Membership,7.41,Expense,Digital Wallet,,False,June 2024,25,Friday,7.41
+2024-06-21,2024-06,2024,Q2,Utilities,Gas Bill,104.65,Expense,Cash,,False,June 2024,25,Friday,104.65
+2024-06-21,2024-06,2024,Q2,Shopping,Electronics,94.75,Expense,Credit Card,,False,June 2024,25,Friday,94.75
+2024-06-22,2024-06,2024,Q2,Food,Restaurant,45.48,Expense,Digital Wallet,,False,June 2024,25,Saturday,45.48
+2024-06-22,2024-06,2024,Q2,Utilities,Gas Bill,180.84,Expense,Digital Wallet,,False,June 2024,25,Saturday,180.84
+2024-06-22,2024-06,2024,Q2,Income,Freelance Payment,1107.8,Income,Bank Transfer,,False,June 2024,25,Saturday,1107.8
+2024-06-22,2024-06,2024,Q2,Food,Food Delivery,100.89,Expense,Cash,,False,June 2024,25,Saturday,100.89
+2024-06-22,2024-06,2024,Q2,Healthcare,Health Insurance,159.62,Expense,Bank Transfer,,False,June 2024,25,Saturday,159.62
+2024-06-22,2024-06,2024,Q2,Entertainment,Games,121.18,Expense,Digital Wallet,,False,June 2024,25,Saturday,121.18
+2024-06-23,2024-06,2024,Q2,Food,Supermarket,243.8,Expense,Bank Transfer,,False,June 2024,25,Sunday,243.8
+2024-06-23,2024-06,2024,Q2,Housing,Monthly Rent,1190.45,Expense,Bank Transfer,,False,June 2024,25,Sunday,1190.45
+2024-06-24,2024-06,2024,Q2,Income,Monthly Salary,5225.220187272289,Income,Bank Transfer,,False,June 2024,26,Monday,5225.22
+2024-06-24,2024-06,2024,Q2,Utilities,Electricity Bill,93.77,Expense,Cash,,False,June 2024,26,Monday,93.77
+2024-06-25,2024-06,2024,Q2,Housing,Home Insurance,1263.24,Expense,Digital Wallet,,False,June 2024,26,Tuesday,1263.24
+2024-06-26,2024-06,2024,Q2,Transport,Public Transit,383.91,Expense,Bank Transfer,,False,June 2024,26,Wednesday,383.91
+2024-06-26,2024-06,2024,Q2,Healthcare,Health Insurance,308.89,Expense,Debit Card,,False,June 2024,26,Wednesday,308.89
+2024-06-27,2024-06,2024,Q2,Housing,Mortgage Payment,1668.36,Expense,Credit Card,,False,June 2024,26,Thursday,1668.36
+2024-06-27,2024-06,2024,Q2,Food,Grocery Store,115.3,Expense,Digital Wallet,,False,June 2024,26,Thursday,115.3
+2024-06-27,2024-06,2024,Q2,Entertainment,Games,81.06,Expense,Credit Card,,False,June 2024,26,Thursday,81.06
+2024-06-27,2024-06,2024,Q2,Transport,Car Insurance,117.04,Expense,Digital Wallet,,False,June 2024,26,Thursday,117.04
+2024-06-28,2024-06,2024,Q2,Other,Subscription,53.07,Expense,Debit Card,,False,June 2024,26,Friday,53.07
+2024-06-28,2024-06,2024,Q2,Food,Supermarket,270.97,Expense,Credit Card,,False,June 2024,26,Friday,270.97
+2024-06-29,2024-06,2024,Q2,Food,Food Delivery,196.59,Expense,Bank Transfer,,False,June 2024,26,Saturday,196.59
+2024-06-29,2024-06,2024,Q2,Food,Restaurant,122.63,Expense,Bank Transfer,,False,June 2024,26,Saturday,122.63
+2024-06-29,2024-06,2024,Q2,Utilities,Phone Bill,182.8,Expense,Cash,,False,June 2024,26,Saturday,182.8
+2024-06-30,2024-06,2024,Q2,Housing,Home Insurance,1396.86,Expense,Credit Card,,False,June 2024,26,Sunday,1396.86
+2024-06-30,2024-06,2024,Q2,Education,Online Course,923.56,Expense,Bank Transfer,,False,June 2024,26,Sunday,923.56
+2024-07-01,2024-07,2024,Q3,Healthcare,Doctor Visit,270.1,Expense,Debit Card,,False,July 2024,27,Monday,270.1
+2024-07-01,2024-07,2024,Q3,Shopping,Electronics,575.71,Expense,Credit Card,,False,July 2024,27,Monday,575.71
+2024-07-01,2024-07,2024,Q3,Travel,Flight Ticket,359.44,Expense,Debit Card,,False,July 2024,27,Monday,359.44
+2024-07-02,2024-07,2024,Q3,Food,Grocery Store,218.86,Expense,Debit Card,,False,July 2024,27,Tuesday,218.86
+2024-07-03,2024-07,2024,Q3,Utilities,Gas Bill,127.07,Expense,Credit Card,,False,July 2024,27,Wednesday,127.07
+2024-07-03,2024-07,2024,Q3,Healthcare,Dental,178.49,Expense,Bank Transfer,,False,July 2024,27,Wednesday,178.49
+2024-07-03,2024-07,2024,Q3,Shopping,Electronics,245.81,Expense,Credit Card,,False,July 2024,27,Wednesday,245.81
+2024-07-04,2024-07,2024,Q3,Food,Restaurant,144.0,Expense,Debit Card,,False,July 2024,27,Thursday,144.0
+2024-07-04,2024-07,2024,Q3,Shopping,Clothing Store,259.59,Expense,Digital Wallet,,False,July 2024,27,Thursday,259.59
+2024-07-04,2024-07,2024,Q3,Healthcare,Lab Tests,759.61,Expense,Credit Card,,False,July 2024,27,Thursday,759.61
+2024-07-05,2024-07,2024,Q3,Education,Books,865.78,Expense,Cash,,False,July 2024,27,Friday,865.78
+2024-07-06,2024-07,2024,Q3,Food,Supermarket,192.53,Expense,Cash,,False,July 2024,27,Saturday,192.53
+2024-07-06,2024-07,2024,Q3,Healthcare,Pharmacy,493.14,Expense,Cash,,False,July 2024,27,Saturday,493.14
+2024-07-06,2024-07,2024,Q3,Housing,Monthly Rent,1818.79,Expense,Bank Transfer,,False,July 2024,27,Saturday,1818.79
+2024-07-08,2024-07,2024,Q3,Food,Coffee Shop,280.06,Expense,Credit Card,,False,July 2024,28,Monday,280.06
+2024-07-08,2024-07,2024,Q3,Shopping,Clothing Store,131.99,Expense,Debit Card,,False,July 2024,28,Monday,131.99
+2024-07-09,2024-07,2024,Q3,Food,Grocery Store,69.22,Expense,Cash,,False,July 2024,28,Tuesday,69.22
+2024-07-09,2024-07,2024,Q3,Food,Coffee Shop,151.88,Expense,Digital Wallet,,False,July 2024,28,Tuesday,151.88
+2024-07-10,2024-07,2024,Q3,Other,Bank Fee,499.21,Expense,Credit Card,,False,July 2024,28,Wednesday,499.21
+2024-07-10,2024-07,2024,Q3,Transport,Car Insurance,247.33,Expense,Bank Transfer,,False,July 2024,28,Wednesday,247.33
+2024-07-10,2024-07,2024,Q3,Shopping,Electronics,76.79,Expense,Digital Wallet,,False,July 2024,28,Wednesday,76.79
+2024-07-12,2024-07,2024,Q3,Food,Coffee Shop,69.86,Expense,Debit Card,,False,July 2024,28,Friday,69.86
+2024-07-13,2024-07,2024,Q3,Food,Food Delivery,239.52,Expense,Debit Card,,False,July 2024,28,Saturday,239.52
+2024-07-13,2024-07,2024,Q3,Utilities,Internet,119.78,Expense,Debit Card,,False,July 2024,28,Saturday,119.78
+2024-07-13,2024-07,2024,Q3,Education,Books,89.53,Expense,Bank Transfer,,False,July 2024,28,Saturday,89.53
+2024-07-13,2024-07,2024,Q3,Other,Bank Fee,232.53,Expense,Cash,,False,July 2024,28,Saturday,232.53
+2024-07-14,2024-07,2024,Q3,Housing,Home Insurance,1341.74,Expense,Bank Transfer,,False,July 2024,28,Sunday,1341.74
+2024-07-15,2024-07,2024,Q3,Food,Food Delivery,145.38,Expense,Cash,,False,July 2024,29,Monday,145.38
+2024-07-16,2024-07,2024,Q3,Housing,Home Insurance,1907.24,Expense,Digital Wallet,,False,July 2024,29,Tuesday,1907.24
+2024-07-16,2024-07,2024,Q3,Utilities,Water Bill,64.67,Expense,Cash,,False,July 2024,29,Tuesday,64.67
+2024-07-17,2024-07,2024,Q3,Healthcare,Dental,434.12,Expense,Cash,,False,July 2024,29,Wednesday,434.12
+2024-07-17,2024-07,2024,Q3,Shopping,Online Shopping,331.92,Expense,Bank Transfer,,False,July 2024,29,Wednesday,331.92
+2024-07-17,2024-07,2024,Q3,Food,Supermarket,123.17,Expense,Credit Card,,False,July 2024,29,Wednesday,123.17
+2024-07-17,2024-07,2024,Q3,Travel,Flight Ticket,2478.77,Expense,Cash,,False,July 2024,29,Wednesday,2478.77
+2024-07-17,2024-07,2024,Q3,Shopping,Electronics,342.26,Expense,Cash,,False,July 2024,29,Wednesday,342.26
+2024-07-18,2024-07,2024,Q3,Transport,Parking,263.51,Expense,Debit Card,,False,July 2024,29,Thursday,263.51
+2024-07-18,2024-07,2024,Q3,Housing,Mortgage Payment,1608.04,Expense,Digital Wallet,,False,July 2024,29,Thursday,1608.04
+2024-07-19,2024-07,2024,Q3,Other,Bank Fee,145.54,Expense,Digital Wallet,,False,July 2024,29,Friday,145.54
+2024-07-19,2024-07,2024,Q3,Entertainment,Games,158.82,Expense,Cash,,False,July 2024,29,Friday,158.82
+2024-07-19,2024-07,2024,Q3,Shopping,Electronics,584.14,Expense,Digital Wallet,,False,July 2024,29,Friday,584.14
+2024-07-20,2024-07,2024,Q3,Utilities,Phone Bill,151.65,Expense,Bank Transfer,,False,July 2024,29,Saturday,151.65
+2024-07-21,2024-07,2024,Q3,Transport,Uber/Grab,376.91,Expense,Bank Transfer,,False,July 2024,29,Sunday,376.91
+2024-07-21,2024-07,2024,Q3,Food,Restaurant,23.89,Expense,Digital Wallet,,False,July 2024,29,Sunday,23.89
+2024-07-22,2024-07,2024,Q3,Housing,Maintenance,874.78,Expense,Bank Transfer,,False,July 2024,30,Monday,874.78
+2024-07-23,2024-07,2024,Q3,Housing,Monthly Rent,1977.59,Expense,Digital Wallet,,False,July 2024,30,Tuesday,1977.59
+2024-07-23,2024-07,2024,Q3,Housing,Property Tax,519.16,Expense,Bank Transfer,,False,July 2024,30,Tuesday,519.16
+2024-07-24,2024-07,2024,Q3,Housing,Monthly Rent,2024.55,Expense,Credit Card,,False,July 2024,30,Wednesday,2024.55
+2024-07-24,2024-07,2024,Q3,Income,Monthly Salary,4638.863027287129,Income,Bank Transfer,,False,July 2024,30,Wednesday,4638.86
+2024-07-24,2024-07,2024,Q3,Travel,Tour Package,1730.92,Expense,Debit Card,,False,July 2024,30,Wednesday,1730.92
+2024-07-25,2024-07,2024,Q3,Shopping,Electronics,123.44,Expense,Debit Card,,False,July 2024,30,Thursday,123.44
+2024-07-25,2024-07,2024,Q3,Food,Restaurant,55.15,Expense,Cash,,False,July 2024,30,Thursday,55.15
+2024-07-26,2024-07,2024,Q3,Housing,Property Tax,1917.67,Expense,Cash,,False,July 2024,30,Friday,1917.67
+2024-07-26,2024-07,2024,Q3,Housing,Mortgage Payment,755.89,Expense,Cash,,False,July 2024,30,Friday,755.89
+2024-07-27,2024-07,2024,Q3,Food,Supermarket,38.77,Expense,Credit Card,,False,July 2024,30,Saturday,38.77
+2024-07-27,2024-07,2024,Q3,Transport,Parking,173.98,Expense,Cash,,False,July 2024,30,Saturday,173.98
+2024-07-27,2024-07,2024,Q3,Entertainment,Games,135.05,Expense,Digital Wallet,,False,July 2024,30,Saturday,135.05
+2024-07-28,2024-07,2024,Q3,Other,Donation,483.41,Expense,Digital Wallet,,False,July 2024,30,Sunday,483.41
+2024-07-28,2024-07,2024,Q3,Housing,Mortgage Payment,965.32,Expense,Digital Wallet,,False,July 2024,30,Sunday,965.32
+2024-07-28,2024-07,2024,Q3,Food,Grocery Store,95.89,Expense,Debit Card,,False,July 2024,30,Sunday,95.89
+2024-07-29,2024-07,2024,Q3,Shopping,Online Shopping,516.45,Expense,Digital Wallet,,False,July 2024,31,Monday,516.45
+2024-07-29,2024-07,2024,Q3,Other,ATM Withdrawal,320.58,Expense,Bank Transfer,,False,July 2024,31,Monday,320.58
+2024-07-29,2024-07,2024,Q3,Food,Restaurant,38.62,Expense,Bank Transfer,,False,July 2024,31,Monday,38.62
+2024-07-29,2024-07,2024,Q3,Shopping,Clothing Store,417.99,Expense,Bank Transfer,,False,July 2024,31,Monday,417.99
+2024-07-30,2024-07,2024,Q3,Shopping,Electronics,415.01,Expense,Credit Card,,False,July 2024,31,Tuesday,415.01
+2024-07-31,2024-07,2024,Q3,Entertainment,Netflix,145.52,Expense,Credit Card,,False,July 2024,31,Wednesday,145.52
+2024-07-31,2024-07,2024,Q3,Food,Supermarket,232.99,Expense,Bank Transfer,,False,July 2024,31,Wednesday,232.99
+2024-08-01,2024-08,2024,Q3,Housing,Mortgage Payment,1548.77,Expense,Cash,,False,August 2024,31,Thursday,1548.77
+2024-08-01,2024-08,2024,Q3,Housing,Mortgage Payment,1167.02,Expense,Credit Card,,False,August 2024,31,Thursday,1167.02
+2024-08-02,2024-08,2024,Q3,Other,Miscellaneous,330.82,Expense,Digital Wallet,,False,August 2024,31,Friday,330.82
+2024-08-02,2024-08,2024,Q3,Utilities,Electricity Bill,260.25,Expense,Digital Wallet,,False,August 2024,31,Friday,260.25
+2024-08-03,2024-08,2024,Q3,Healthcare,Pharmacy,418.41,Expense,Cash,,False,August 2024,31,Saturday,418.41
+2024-08-03,2024-08,2024,Q3,Transport,Public Transit,42.43,Expense,Debit Card,,False,August 2024,31,Saturday,42.43
+2024-08-03,2024-08,2024,Q3,Shopping,Clothing Store,330.21,Expense,Digital Wallet,,False,August 2024,31,Saturday,330.21
+2024-08-04,2024-08,2024,Q3,Utilities,Electricity Bill,111.01,Expense,Bank Transfer,,False,August 2024,31,Sunday,111.01
+2024-08-05,2024-08,2024,Q3,Food,Restaurant,93.59,Expense,Credit Card,,False,August 2024,32,Monday,93.59
+2024-08-05,2024-08,2024,Q3,Housing,Home Insurance,2085.26,Expense,Bank Transfer,,False,August 2024,32,Monday,2085.26
+2024-08-05,2024-08,2024,Q3,Housing,Property Tax,2322.45,Expense,Debit Card,,False,August 2024,32,Monday,2322.45
+2024-08-05,2024-08,2024,Q3,Entertainment,Spotify,159.3,Expense,Cash,,False,August 2024,32,Monday,159.3
+2024-08-06,2024-08,2024,Q3,Food,Coffee Shop,206.05,Expense,Bank Transfer,,False,August 2024,32,Tuesday,206.05
+2024-08-06,2024-08,2024,Q3,Food,Supermarket,137.99,Expense,Bank Transfer,,False,August 2024,32,Tuesday,137.99
+2024-08-07,2024-08,2024,Q3,Travel,Travel Insurance,662.65,Expense,Bank Transfer,,False,August 2024,32,Wednesday,662.65
+2024-08-07,2024-08,2024,Q3,Transport,Uber/Grab,99.13,Expense,Credit Card,,False,August 2024,32,Wednesday,99.13
+2024-08-08,2024-08,2024,Q3,Entertainment,Cinema,25.14,Expense,Bank Transfer,,False,August 2024,32,Thursday,25.14
+2024-08-08,2024-08,2024,Q3,Transport,Uber/Grab,371.0,Expense,Cash,,False,August 2024,32,Thursday,371.0
+2024-08-08,2024-08,2024,Q3,Shopping,Electronics,520.91,Expense,Digital Wallet,,False,August 2024,32,Thursday,520.91
+2024-08-09,2024-08,2024,Q3,Food,Restaurant,201.74,Expense,Bank Transfer,,False,August 2024,32,Friday,201.74
+2024-08-09,2024-08,2024,Q3,Food,Food Delivery,5.53,Expense,Digital Wallet,,False,August 2024,32,Friday,5.53
+2024-08-10,2024-08,2024,Q3,Healthcare,Pharmacy,246.07,Expense,Digital Wallet,,False,August 2024,32,Saturday,246.07
+2024-08-10,2024-08,2024,Q3,Housing,Property Tax,678.01,Expense,Debit Card,,False,August 2024,32,Saturday,678.01
+2024-08-11,2024-08,2024,Q3,Food,Grocery Store,211.52,Expense,Digital Wallet,,False,August 2024,32,Sunday,211.52
+2024-08-11,2024-08,2024,Q3,Utilities,Electricity Bill,208.25,Expense,Digital Wallet,,False,August 2024,32,Sunday,208.25
+2024-08-11,2024-08,2024,Q3,Utilities,Internet,288.31,Expense,Bank Transfer,,False,August 2024,32,Sunday,288.31
+2024-08-12,2024-08,2024,Q3,Healthcare,Dental,245.63,Expense,Digital Wallet,,False,August 2024,33,Monday,245.63
+2024-08-12,2024-08,2024,Q3,Food,Supermarket,31.94,Expense,Credit Card,,False,August 2024,33,Monday,31.94
+2024-08-12,2024-08,2024,Q3,Food,Restaurant,210.01,Expense,Unknown,,False,August 2024,33,Monday,210.01
+2024-08-12,2024-08,2024,Q3,Food,Restaurant,58.07,Expense,Credit Card,,False,August 2024,33,Monday,58.07
+2024-08-12,2024-08,2024,Q3,Housing,Monthly Rent,900.15,Expense,Unknown,,False,August 2024,33,Monday,900.15
+2024-08-13,2024-08,2024,Q3,Shopping,Home Goods,436.78,Expense,Debit Card,,False,August 2024,33,Tuesday,436.78
+2024-08-13,2024-08,2024,Q3,Shopping,Home Goods,187.23,Expense,Credit Card,,False,August 2024,33,Tuesday,187.23
+2024-08-14,2024-08,2024,Q3,Food,Restaurant,249.36,Expense,Digital Wallet,,False,August 2024,33,Wednesday,249.36
+2024-08-14,2024-08,2024,Q3,Food,Grocery Store,212.61,Expense,Digital Wallet,,False,August 2024,33,Wednesday,212.61
+2024-08-15,2024-08,2024,Q3,Transport,Parking,471.38,Expense,Credit Card,,False,August 2024,33,Thursday,471.38
+2024-08-15,2024-08,2024,Q3,Utilities,Electricity Bill,74.22,Expense,Cash,,False,August 2024,33,Thursday,74.22
+2024-08-15,2024-08,2024,Q3,Shopping,Amazon,166.66,Expense,Debit Card,,False,August 2024,33,Thursday,166.66
+2024-08-16,2024-08,2024,Q3,Entertainment,Cinema,139.23,Expense,Debit Card,,False,August 2024,33,Friday,139.23
+2024-08-17,2024-08,2024,Q3,Utilities,Gas Bill,281.89,Expense,Cash,,False,August 2024,33,Saturday,281.89
+2024-08-17,2024-08,2024,Q3,Housing,Mortgage Payment,1781.97,Expense,Unknown,,False,August 2024,33,Saturday,1781.97
+2024-08-17,2024-08,2024,Q3,Housing,Mortgage Payment,1456.99,Expense,Debit Card,,False,August 2024,33,Saturday,1456.99
+2024-08-17,2024-08,2024,Q3,Food,Food Delivery,24.87,Expense,Cash,,False,August 2024,33,Saturday,24.87
+2024-08-19,2024-08,2024,Q3,Entertainment,Netflix,183.45,Expense,Digital Wallet,,False,August 2024,34,Monday,183.45
+2024-08-19,2024-08,2024,Q3,Healthcare,Pharmacy,213.15,Expense,Cash,,False,August 2024,34,Monday,213.15
+2024-08-19,2024-08,2024,Q3,Transport,Uber/Grab,77.82,Expense,Debit Card,,False,August 2024,34,Monday,77.82
+2024-08-20,2024-08,2024,Q3,Transport,Public Transit,340.17,Expense,Credit Card,,False,August 2024,34,Tuesday,340.17
+2024-08-20,2024-08,2024,Q3,Healthcare,Doctor Visit,473.33,Expense,Debit Card,,False,August 2024,34,Tuesday,473.33
+2024-08-21,2024-08,2024,Q3,Housing,Property Tax,1989.98,Expense,Digital Wallet,,False,August 2024,34,Wednesday,1989.98
+2024-08-22,2024-08,2024,Q3,Shopping,Online Shopping,388.44,Expense,Credit Card,,False,August 2024,34,Thursday,388.44
+2024-08-22,2024-08,2024,Q3,Housing,Maintenance,752.38,Expense,Cash,,False,August 2024,34,Thursday,752.38
+2024-08-22,2024-08,2024,Q3,Healthcare,Health Insurance,364.94,Expense,Bank Transfer,,False,August 2024,34,Thursday,364.94
+2024-08-23,2024-08,2024,Q3,Utilities,Water Bill,125.34,Expense,Digital Wallet,,False,August 2024,34,Friday,125.34
+2024-08-23,2024-08,2024,Q3,Income,Monthly Salary,5369.005281706373,Income,Bank Transfer,,False,August 2024,34,Friday,5369.01
+2024-08-24,2024-08,2024,Q3,Utilities,Electricity Bill,216.44,Expense,Digital Wallet,,False,August 2024,34,Saturday,216.44
+2024-08-24,2024-08,2024,Q3,Shopping,Amazon,525.44,Expense,Debit Card,,False,August 2024,34,Saturday,525.44
+2024-08-26,2024-08,2024,Q3,Housing,Property Tax,700.93,Expense,Cash,,False,August 2024,35,Monday,700.93
+2024-08-27,2024-08,2024,Q3,Utilities,Electricity Bill,106.8,Expense,Debit Card,,False,August 2024,35,Tuesday,106.8
+2024-08-28,2024-08,2024,Q3,Shopping,Online Shopping,485.66,Expense,Cash,,False,August 2024,35,Wednesday,485.66
+2024-08-28,2024-08,2024,Q3,Food,Restaurant,93.65,Expense,Bank Transfer,,False,August 2024,35,Wednesday,93.65
+2024-08-30,2024-08,2024,Q3,Transport,Public Transit,312.09,Expense,Digital Wallet,,False,August 2024,35,Friday,312.09
+2024-08-30,2024-08,2024,Q3,Housing,Mortgage Payment,886.19,Expense,Bank Transfer,,False,August 2024,35,Friday,886.19
+2024-08-31,2024-08,2024,Q3,Housing,Property Tax,505.35,Expense,Cash,,False,August 2024,35,Saturday,505.35
+2024-09-01,2024-09,2024,Q3,Other,Miscellaneous,44.66,Expense,Debit Card,,False,September 2024,35,Sunday,44.66
+2024-09-01,2024-09,2024,Q3,Entertainment,Spotify,187.82,Expense,Cash,,False,September 2024,35,Sunday,187.82
+2024-09-02,2024-09,2024,Q3,Food,Grocery Store,100.69,Expense,Credit Card,,False,September 2024,36,Monday,100.69
+2024-09-02,2024-09,2024,Q3,Housing,Maintenance,1352.93,Expense,Bank Transfer,,False,September 2024,36,Monday,1352.93
+2024-09-03,2024-09,2024,Q3,Housing,Maintenance,679.24,Expense,Cash,,False,September 2024,36,Tuesday,679.24
+2024-09-03,2024-09,2024,Q3,Other,Donation,54.3,Expense,Credit Card,,False,September 2024,36,Tuesday,54.3
+2024-09-05,2024-09,2024,Q3,Food,Supermarket,221.06,Expense,Debit Card,,False,September 2024,36,Thursday,221.06
+2024-09-05,2024-09,2024,Q3,Housing,Property Tax,2270.92,Expense,Credit Card,,False,September 2024,36,Thursday,2270.92
+2024-09-05,2024-09,2024,Q3,Healthcare,Doctor Visit,260.57,Expense,Credit Card,,False,September 2024,36,Thursday,260.57
+2024-09-06,2024-09,2024,Q3,Food,Coffee Shop,39.14,Expense,Bank Transfer,,False,September 2024,36,Friday,39.14
+2024-09-06,2024-09,2024,Q3,Travel,Airbnb,2191.08,Expense,Cash,,False,September 2024,36,Friday,2191.08
+2024-09-06,2024-09,2024,Q3,Housing,Property Tax,2030.95,Expense,Cash,,False,September 2024,36,Friday,2030.95
+2024-09-06,2024-09,2024,Q3,Entertainment,Cinema,140.48,Expense,Digital Wallet,,False,September 2024,36,Friday,140.48
+2024-09-06,2024-09,2024,Q3,Utilities,Gas Bill,64.66,Expense,Cash,,False,September 2024,36,Friday,64.66
+2024-09-08,2024-09,2024,Q3,Travel,Flight Ticket,757.48,Expense,Bank Transfer,,False,September 2024,36,Sunday,757.48
+2024-09-08,2024-09,2024,Q3,Food,Restaurant,48.2,Expense,Credit Card,,False,September 2024,36,Sunday,48.2
+2024-09-09,2024-09,2024,Q3,Housing,Home Insurance,564.86,Expense,Cash,,False,September 2024,37,Monday,564.86
+2024-09-10,2024-09,2024,Q3,Travel,Flight Ticket,2574.88,Expense,Credit Card,,False,September 2024,37,Tuesday,2574.88
+2024-09-11,2024-09,2024,Q3,Food,Coffee Shop,50.06,Expense,Bank Transfer,,False,September 2024,37,Wednesday,50.06
+2024-09-11,2024-09,2024,Q3,Housing,Property Tax,2059.65,Expense,Cash,,False,September 2024,37,Wednesday,2059.65
+2024-09-12,2024-09,2024,Q3,Other,Donation,63.63,Expense,Digital Wallet,,False,September 2024,37,Thursday,63.63
+2024-09-12,2024-09,2024,Q3,Entertainment,Netflix,165.17,Expense,Credit Card,,False,September 2024,37,Thursday,165.17
+2024-09-12,2024-09,2024,Q3,Food,Coffee Shop,44.4,Expense,Bank Transfer,,False,September 2024,37,Thursday,44.4
+2024-09-12,2024-09,2024,Q3,Transport,Parking,135.56,Expense,Credit Card,,False,September 2024,37,Thursday,135.56
+2024-09-15,2024-09,2024,Q3,Income,Freelance Payment,1176.87,Income,Bank Transfer,,False,September 2024,37,Sunday,1176.87
+2024-09-16,2024-09,2024,Q3,Housing,Mortgage Payment,2268.47,Expense,Credit Card,,False,September 2024,38,Monday,2268.47
+2024-09-16,2024-09,2024,Q3,Other,Miscellaneous,156.16,Expense,Debit Card,,False,September 2024,38,Monday,156.16
+2024-09-18,2024-09,2024,Q3,Entertainment,Netflix,121.27,Expense,Cash,,False,September 2024,38,Wednesday,121.27
+2024-09-18,2024-09,2024,Q3,Utilities,Gas Bill,58.83,Expense,Cash,,False,September 2024,38,Wednesday,58.83
+2024-09-18,2024-09,2024,Q3,Food,Supermarket,250.95,Expense,Credit Card,,False,September 2024,38,Wednesday,250.95
+2024-09-18,2024-09,2024,Q3,Housing,Mortgage Payment,1704.78,Expense,Digital Wallet,,False,September 2024,38,Wednesday,1704.78
+2024-09-19,2024-09,2024,Q3,Shopping,Electronics,314.15,Expense,Debit Card,,False,September 2024,38,Thursday,314.15
+2024-09-19,2024-09,2024,Q3,Shopping,Amazon,570.52,Expense,Bank Transfer,,False,September 2024,38,Thursday,570.52
+2024-09-19,2024-09,2024,Q3,Food,Supermarket,227.1,Expense,Digital Wallet,,False,September 2024,38,Thursday,227.1
+2024-09-20,2024-09,2024,Q3,Food,Coffee Shop,290.78,Expense,Debit Card,,False,September 2024,38,Friday,290.78
+2024-09-20,2024-09,2024,Q3,Entertainment,Cinema,143.29,Expense,Debit Card,,False,September 2024,38,Friday,143.29
+2024-09-20,2024-09,2024,Q3,Housing,Monthly Rent,1581.26,Expense,Bank Transfer,,False,September 2024,38,Friday,1581.26
+2024-09-20,2024-09,2024,Q3,Travel,Flight Ticket,2059.86,Expense,Digital Wallet,,False,September 2024,38,Friday,2059.86
+2024-09-20,2024-09,2024,Q3,Housing,Mortgage Payment,1455.98,Expense,Debit Card,,False,September 2024,38,Friday,1455.98
+2024-09-21,2024-09,2024,Q3,Food,Coffee Shop,47.36,Expense,Debit Card,,False,September 2024,38,Saturday,47.36
+2024-09-22,2024-09,2024,Q3,Entertainment,Gym Membership,93.33,Expense,Bank Transfer,,False,September 2024,38,Sunday,93.33
+2024-09-22,2024-09,2024,Q3,Income,Monthly Salary,4748.537640038356,Income,Bank Transfer,,False,September 2024,38,Sunday,4748.54
+2024-09-22,2024-09,2024,Q3,Food,Supermarket,158.92,Expense,Bank Transfer,,False,September 2024,38,Sunday,158.92
+2024-09-23,2024-09,2024,Q3,Travel,Airbnb,1021.58,Expense,Digital Wallet,,False,September 2024,39,Monday,1021.58
+2024-09-23,2024-09,2024,Q3,Entertainment,Cinema,64.05,Expense,Bank Transfer,,False,September 2024,39,Monday,64.05
+2024-09-24,2024-09,2024,Q3,Housing,Property Tax,2199.86,Expense,Debit Card,,False,September 2024,39,Tuesday,2199.86
+2024-09-24,2024-09,2024,Q3,Transport,Gas Station,450.32,Expense,Cash,,False,September 2024,39,Tuesday,450.32
+2024-09-25,2024-09,2024,Q3,Shopping,Amazon,389.91,Expense,Digital Wallet,,False,September 2024,39,Wednesday,389.91
+2024-09-25,2024-09,2024,Q3,Food,Coffee Shop,177.83,Expense,Debit Card,,False,September 2024,39,Wednesday,177.83
+2024-09-26,2024-09,2024,Q3,Food,Restaurant,28.3,Expense,Bank Transfer,,False,September 2024,39,Thursday,28.3
+2024-09-26,2024-09,2024,Q3,Food,Supermarket,265.61,Expense,Debit Card,,False,September 2024,39,Thursday,265.61
+2024-09-26,2024-09,2024,Q3,Utilities,Phone Bill,284.76,Expense,Credit Card,,False,September 2024,39,Thursday,284.76
+2024-09-27,2024-09,2024,Q3,Travel,Hotel,2421.31,Expense,Credit Card,,False,September 2024,39,Friday,2421.31
+2024-09-28,2024-09,2024,Q3,Utilities,Gas Bill,258.19,Expense,Digital Wallet,,False,September 2024,39,Saturday,258.19
+2024-09-28,2024-09,2024,Q3,Transport,Parking,342.81,Expense,Credit Card,,False,September 2024,39,Saturday,342.81
+2024-09-29,2024-09,2024,Q3,Shopping,Clothing Store,452.71,Expense,Credit Card,,False,September 2024,39,Sunday,452.71
+2024-09-29,2024-09,2024,Q3,Food,Restaurant,171.32,Expense,Bank Transfer,,False,September 2024,39,Sunday,171.32
+2024-09-29,2024-09,2024,Q3,Transport,Parking,59.48,Expense,Debit Card,,False,September 2024,39,Sunday,59.48
+2024-09-29,2024-09,2024,Q3,Housing,Home Insurance,763.14,Expense,Credit Card,,False,September 2024,39,Sunday,763.14
+2024-09-29,2024-09,2024,Q3,Food,Food Delivery,19.09,Expense,Credit Card,,False,September 2024,39,Sunday,19.09
+2024-09-30,2024-09,2024,Q3,Shopping,Electronics,196.73,Expense,Debit Card,,False,September 2024,40,Monday,196.73
+2024-09-30,2024-09,2024,Q3,Transport,Public Transit,474.95,Expense,Credit Card,,False,September 2024,40,Monday,474.95
+2024-10-01,2024-10,2024,Q4,Entertainment,Cinema,177.0,Expense,Cash,,False,October 2024,40,Tuesday,177.0
+2024-10-01,2024-10,2024,Q4,Shopping,Online Shopping,397.23,Expense,Cash,,False,October 2024,40,Tuesday,397.23
+2024-10-01,2024-10,2024,Q4,Food,Restaurant,58.35,Expense,Bank Transfer,,False,October 2024,40,Tuesday,58.35
+2024-10-02,2024-10,2024,Q4,Travel,Tour Package,1830.95,Expense,Cash,,False,October 2024,40,Wednesday,1830.95
+2024-10-02,2024-10,2024,Q4,Education,Books,259.56,Expense,Digital Wallet,,False,October 2024,40,Wednesday,259.56
+2024-10-03,2024-10,2024,Q4,Healthcare,Dental,650.29,Expense,Cash,,False,October 2024,40,Thursday,650.29
+2024-10-03,2024-10,2024,Q4,Food,Supermarket,14.2,Expense,Debit Card,,False,October 2024,40,Thursday,14.2
+2024-10-03,2024-10,2024,Q4,Other,ATM Withdrawal,461.94,Expense,Credit Card,,False,October 2024,40,Thursday,461.94
+2024-10-04,2024-10,2024,Q4,Transport,Parking,323.11,Expense,Cash,,False,October 2024,40,Friday,323.11
+2024-10-06,2024-10,2024,Q4,Entertainment,Gym Membership,118.79,Expense,Bank Transfer,,False,October 2024,40,Sunday,118.79
+2024-10-06,2024-10,2024,Q4,Food,Restaurant,215.98,Expense,Debit Card,,False,October 2024,40,Sunday,215.98
+2024-10-06,2024-10,2024,Q4,Entertainment,Netflix,65.86,Expense,Digital Wallet,,False,October 2024,40,Sunday,65.86
+2024-10-06,2024-10,2024,Q4,Travel,Unknown,1612.27,Expense,Credit Card,,False,October 2024,40,Sunday,1612.27
+2024-10-07,2024-10,2024,Q4,Healthcare,Doctor Visit,139.44,Expense,Cash,,False,October 2024,41,Monday,139.44
+2024-10-08,2024-10,2024,Q4,Travel,Airbnb,204.11,Expense,Debit Card,,False,October 2024,41,Tuesday,204.11
+2024-10-09,2024-10,2024,Q4,Shopping,Home Goods,221.96,Expense,Debit Card,,False,October 2024,41,Wednesday,221.96
+2024-10-10,2024-10,2024,Q4,Shopping,Clothing Store,48.62,Expense,Credit Card,,False,October 2024,41,Thursday,48.62
+2024-10-10,2024-10,2024,Q4,Travel,Travel Insurance,731.59,Expense,Cash,,False,October 2024,41,Thursday,731.59
+2024-10-10,2024-10,2024,Q4,Other,Subscription,165.7,Expense,Cash,,False,October 2024,41,Thursday,165.7
+2024-10-10,2024-10,2024,Q4,Utilities,Electricity Bill,147.17,Expense,Bank Transfer,,False,October 2024,41,Thursday,147.17
+2024-10-11,2024-10,2024,Q4,Transport,Uber/Grab,431.49,Expense,Bank Transfer,,False,October 2024,41,Friday,431.49
+2024-10-11,2024-10,2024,Q4,Food,Food Delivery,272.91,Expense,Cash,,False,October 2024,41,Friday,272.91
+2024-10-11,2024-10,2024,Q4,Travel,Hotel,302.96,Expense,Debit Card,,False,October 2024,41,Friday,302.96
+2024-10-12,2024-10,2024,Q4,Entertainment,Spotify,138.29,Expense,Digital Wallet,,False,October 2024,41,Saturday,138.29
+2024-10-13,2024-10,2024,Q4,Housing,Monthly Rent,2134.07,Expense,Debit Card,,False,October 2024,41,Sunday,2134.07
+2024-10-13,2024-10,2024,Q4,Food,Supermarket,181.29,Expense,Bank Transfer,,False,October 2024,41,Sunday,181.29
+2024-10-13,2024-10,2024,Q4,Food,Supermarket,124.99,Expense,Debit Card,,False,October 2024,41,Sunday,124.99
+2024-10-14,2024-10,2024,Q4,Utilities,Water Bill,94.25,Expense,Debit Card,,False,October 2024,42,Monday,94.25
+2024-10-14,2024-10,2024,Q4,Transport,Uber/Grab,173.56,Expense,Credit Card,,False,October 2024,42,Monday,173.56
+2024-10-14,2024-10,2024,Q4,Transport,Gas Station,194.81,Expense,Debit Card,,False,October 2024,42,Monday,194.81
+2024-10-16,2024-10,2024,Q4,Travel,Tour Package,2624.5,Expense,Digital Wallet,,False,October 2024,42,Wednesday,2624.5
+2024-10-17,2024-10,2024,Q4,Entertainment,Gym Membership,36.86,Expense,Debit Card,,False,October 2024,42,Thursday,36.86
+2024-10-18,2024-10,2024,Q4,Transport,Uber/Grab,55.32,Expense,Digital Wallet,,False,October 2024,42,Friday,55.32
+2024-10-18,2024-10,2024,Q4,Food,Food Delivery,236.77,Expense,Cash,,False,October 2024,42,Friday,236.77
+2024-10-18,2024-10,2024,Q4,Utilities,Phone Bill,67.37,Expense,Cash,,False,October 2024,42,Friday,67.37
+2024-10-19,2024-10,2024,Q4,Food,Food Delivery,247.37,Expense,Bank Transfer,,False,October 2024,42,Saturday,247.37
+2024-10-19,2024-10,2024,Q4,Healthcare,Doctor Visit,177.57,Expense,Debit Card,,False,October 2024,42,Saturday,177.57
+2024-10-20,2024-10,2024,Q4,Shopping,Online Shopping,460.3,Expense,Cash,,False,October 2024,42,Sunday,460.3
+2024-10-20,2024-10,2024,Q4,Shopping,Home Goods,37.66,Expense,Digital Wallet,,False,October 2024,42,Sunday,37.66
+2024-10-22,2024-10,2024,Q4,Travel,Airbnb,773.75,Expense,Bank Transfer,,False,October 2024,43,Tuesday,773.75
+2024-10-22,2024-10,2024,Q4,Education,Online Course,403.63,Expense,Digital Wallet,,False,October 2024,43,Tuesday,403.63
+2024-10-22,2024-10,2024,Q4,Income,Monthly Salary,5186.184895477266,Income,Bank Transfer,,False,October 2024,43,Tuesday,5186.18
+2024-10-23,2024-10,2024,Q4,Food,Food Delivery,44.95,Expense,Cash,,False,October 2024,43,Wednesday,44.95
+2024-10-23,2024-10,2024,Q4,Travel,Airbnb,439.13,Expense,Bank Transfer,,False,October 2024,43,Wednesday,439.13
+2024-10-24,2024-10,2024,Q4,Other,ATM Withdrawal,273.8,Expense,Cash,,False,October 2024,43,Thursday,273.8
+2024-10-25,2024-10,2024,Q4,Healthcare,Pharmacy,779.15,Expense,Bank Transfer,,False,October 2024,43,Friday,779.15
+2024-10-25,2024-10,2024,Q4,Transport,Parking,30.03,Expense,Credit Card,,False,October 2024,43,Friday,30.03
+2024-10-25,2024-10,2024,Q4,Food,Coffee Shop,266.66,Expense,Credit Card,,False,October 2024,43,Friday,266.66
+2024-10-26,2024-10,2024,Q4,Food,Restaurant,157.33,Expense,Unknown,,False,October 2024,43,Saturday,157.33
+2024-10-26,2024-10,2024,Q4,Shopping,Home Goods,283.92,Expense,Credit Card,,False,October 2024,43,Saturday,283.92
+2024-10-26,2024-10,2024,Q4,Utilities,Phone Bill,206.05,Expense,Debit Card,,False,October 2024,43,Saturday,206.05
+2024-10-27,2024-10,2024,Q4,Housing,Monthly Rent,1354.23,Expense,Cash,,False,October 2024,43,Sunday,1354.23
+2024-10-27,2024-10,2024,Q4,Entertainment,Netflix,170.33,Expense,Credit Card,,False,October 2024,43,Sunday,170.33
+2024-10-27,2024-10,2024,Q4,Housing,Home Insurance,2361.65,Expense,Debit Card,,False,October 2024,43,Sunday,2361.65
+2024-10-28,2024-10,2024,Q4,Housing,Maintenance,1903.56,Expense,Debit Card,,False,October 2024,44,Monday,1903.56
+2024-10-29,2024-10,2024,Q4,Travel,Airbnb,857.33,Expense,Debit Card,,False,October 2024,44,Tuesday,857.33
+2024-10-29,2024-10,2024,Q4,Utilities,Water Bill,150.3,Expense,Cash,,False,October 2024,44,Tuesday,150.3
+2024-10-31,2024-10,2024,Q4,Food,Restaurant,268.73,Expense,Cash,,False,October 2024,44,Thursday,268.73
+2024-10-31,2024-10,2024,Q4,Entertainment,Cinema,134.05,Expense,Credit Card,,False,October 2024,44,Thursday,134.05
+2024-10-31,2024-10,2024,Q4,Food,Restaurant,234.95,Expense,Credit Card,,False,October 2024,44,Thursday,234.95
+2024-11-01,2024-11,2024,Q4,Food,Supermarket,83.79,Expense,Bank Transfer,,False,November 2024,44,Friday,83.79
+2024-11-01,2024-11,2024,Q4,Shopping,Online Shopping,438.69,Expense,Bank Transfer,,False,November 2024,44,Friday,438.69
+2024-11-01,2024-11,2024,Q4,Food,Coffee Shop,280.15,Expense,Cash,,False,November 2024,44,Friday,280.15
+2024-11-02,2024-11,2024,Q4,Entertainment,Gym Membership,186.48,Expense,Cash,,False,November 2024,44,Saturday,186.48
+2024-11-03,2024-11,2024,Q4,Shopping,Electronics,375.66,Expense,Bank Transfer,,False,November 2024,44,Sunday,375.66
+2024-11-03,2024-11,2024,Q4,Entertainment,Gym Membership,60.41,Expense,Debit Card,,False,November 2024,44,Sunday,60.41
+2024-11-03,2024-11,2024,Q4,Transport,Gas Station,43.1,Expense,Digital Wallet,,False,November 2024,44,Sunday,43.1
+2024-11-05,2024-11,2024,Q4,Travel,Hotel,2226.41,Expense,Digital Wallet,,False,November 2024,45,Tuesday,2226.41
+2024-11-06,2024-11,2024,Q4,Shopping,Amazon,301.47,Expense,Digital Wallet,,False,November 2024,45,Wednesday,301.47
+2024-11-06,2024-11,2024,Q4,Housing,Home Insurance,1820.75,Expense,Credit Card,,False,November 2024,45,Wednesday,1820.75
+2024-11-06,2024-11,2024,Q4,Food,Food Delivery,93.07,Expense,Debit Card,,False,November 2024,45,Wednesday,93.07
+2024-11-06,2024-11,2024,Q4,Food,Restaurant,61.09,Expense,Credit Card,,False,November 2024,45,Wednesday,61.09
+2024-11-07,2024-11,2024,Q4,Housing,Maintenance,1349.83,Expense,Cash,,False,November 2024,45,Thursday,1349.83
+2024-11-08,2024-11,2024,Q4,Entertainment,Games,147.45,Expense,Debit Card,,False,November 2024,45,Friday,147.45
+2024-11-08,2024-11,2024,Q4,Travel,Hotel,2384.7,Expense,Bank Transfer,,False,November 2024,45,Friday,2384.7
+2024-11-08,2024-11,2024,Q4,Transport,Parking,219.53,Expense,Bank Transfer,,False,November 2024,45,Friday,219.53
+2024-11-08,2024-11,2024,Q4,Shopping,Electronics,2259.922682495677,Expense,Credit Card,,True,November 2024,45,Friday,2259.92
+2024-11-09,2024-11,2024,Q4,Utilities,Electricity Bill,177.02,Expense,Digital Wallet,,False,November 2024,45,Saturday,177.02
+2024-11-11,2024-11,2024,Q4,Travel,Tour Package,1043.13,Expense,Bank Transfer,,False,November 2024,46,Monday,1043.13
+2024-11-11,2024-11,2024,Q4,Entertainment,Spotify,183.0,Expense,Debit Card,,False,November 2024,46,Monday,183.0
+2024-11-11,2024-11,2024,Q4,Entertainment,Games,113.11,Expense,Debit Card,,False,November 2024,46,Monday,113.11
+2024-11-11,2024-11,2024,Q4,Other,ATM Withdrawal,52.82,Expense,Debit Card,,False,November 2024,46,Monday,52.82
+2024-11-12,2024-11,2024,Q4,Transport,Public Transit,110.53,Expense,Cash,,False,November 2024,46,Tuesday,110.53
+2024-11-13,2024-11,2024,Q4,Healthcare,Lab Tests,311.1,Expense,Bank Transfer,,False,November 2024,46,Wednesday,311.1
+2024-11-13,2024-11,2024,Q4,Food,Restaurant,56.73,Expense,Debit Card,,False,November 2024,46,Wednesday,56.73
+2024-11-14,2024-11,2024,Q4,Education,Tuition,969.18,Expense,Credit Card,,False,November 2024,46,Thursday,969.18
+2024-11-15,2024-11,2024,Q4,Food,Food Delivery,148.26,Expense,Debit Card,,False,November 2024,46,Friday,148.26
+2024-11-16,2024-11,2024,Q4,Education,Training,117.31,Expense,Debit Card,,False,November 2024,46,Saturday,117.31
+2024-11-17,2024-11,2024,Q4,Healthcare,Pharmacy,649.08,Expense,Cash,,False,November 2024,46,Sunday,649.08
+2024-11-18,2024-11,2024,Q4,Shopping,Amazon,159.12,Expense,Credit Card,,False,November 2024,47,Monday,159.12
+2024-11-18,2024-11,2024,Q4,Healthcare,Dental,317.13,Expense,Debit Card,,False,November 2024,47,Monday,317.13
+2024-11-19,2024-11,2024,Q4,Housing,Maintenance,1328.94,Expense,Credit Card,,False,November 2024,47,Tuesday,1328.94
+2024-11-19,2024-11,2024,Q4,Transport,Parking,340.89,Expense,Debit Card,,False,November 2024,47,Tuesday,340.89
+2024-11-19,2024-11,2024,Q4,Housing,Unknown,1687.89,Expense,Debit Card,,False,November 2024,47,Tuesday,1687.89
+2024-11-20,2024-11,2024,Q4,Food,Coffee Shop,254.43,Expense,Digital Wallet,,False,November 2024,47,Wednesday,254.43
+2024-11-20,2024-11,2024,Q4,Transport,Gas Station,238.84,Expense,Credit Card,,False,November 2024,47,Wednesday,238.84
+2024-11-21,2024-11,2024,Q4,Food,Grocery Store,233.13,Expense,Debit Card,,False,November 2024,47,Thursday,233.13
+2024-11-21,2024-11,2024,Q4,Income,Monthly Salary,5014.914001622249,Income,Bank Transfer,,False,November 2024,47,Thursday,5014.91
+2024-11-21,2024-11,2024,Q4,Shopping,Amazon,566.18,Expense,Cash,,False,November 2024,47,Thursday,566.18
+2024-11-21,2024-11,2024,Q4,Housing,Mortgage Payment,1174.22,Expense,Debit Card,,False,November 2024,47,Thursday,1174.22
+2024-11-22,2024-11,2024,Q4,Shopping,Amazon,189.74,Expense,Debit Card,,False,November 2024,47,Friday,189.74
+2024-11-22,2024-11,2024,Q4,Transport,Parking,231.77,Expense,Debit Card,,False,November 2024,47,Friday,231.77
+2024-11-22,2024-11,2024,Q4,Housing,Property Tax,553.44,Expense,Bank Transfer,,False,November 2024,47,Friday,553.44
+2024-11-23,2024-11,2024,Q4,Food,Food Delivery,214.86,Expense,Bank Transfer,,False,November 2024,47,Saturday,214.86
+2024-11-24,2024-11,2024,Q4,Shopping,Amazon,344.35,Expense,Cash,,False,November 2024,47,Sunday,344.35
+2024-11-24,2024-11,2024,Q4,Shopping,Electronics,202.32,Expense,Debit Card,,False,November 2024,47,Sunday,202.32
+2024-11-24,2024-11,2024,Q4,Travel,Airbnb,2571.52,Expense,Bank Transfer,,False,November 2024,47,Sunday,2571.52
+2024-11-25,2024-11,2024,Q4,Housing,Maintenance,1359.83,Expense,Bank Transfer,,False,November 2024,48,Monday,1359.83
+2024-11-25,2024-11,2024,Q4,Utilities,Water Bill,71.64,Expense,Credit Card,,False,November 2024,48,Monday,71.64
+2024-11-26,2024-11,2024,Q4,Transport,Car Insurance,287.95,Expense,Cash,,False,November 2024,48,Tuesday,287.95
+2024-11-26,2024-11,2024,Q4,Shopping,Online Shopping,571.91,Expense,Debit Card,,False,November 2024,48,Tuesday,571.91
+2024-11-26,2024-11,2024,Q4,Food,Supermarket,126.47,Expense,Debit Card,,False,November 2024,48,Tuesday,126.47
+2024-11-27,2024-11,2024,Q4,Other,Subscription,243.68,Expense,Cash,,False,November 2024,48,Wednesday,243.68
+2024-11-27,2024-11,2024,Q4,Housing,Monthly Rent,529.12,Expense,Debit Card,,False,November 2024,48,Wednesday,529.12
+2024-11-27,2024-11,2024,Q4,Transport,Car Insurance,189.17,Expense,Debit Card,,False,November 2024,48,Wednesday,189.17
+2024-11-27,2024-11,2024,Q4,Transport,Parking,497.6,Expense,Bank Transfer,,False,November 2024,48,Wednesday,497.6
+2024-11-29,2024-11,2024,Q4,Travel,Tour Package,133.29,Expense,Cash,,False,November 2024,48,Friday,133.29
+2024-12-01,2024-12,2024,Q4,Shopping,Clothing Store,469.71,Expense,Bank Transfer,,False,December 2024,48,Sunday,469.71
+2024-12-01,2024-12,2024,Q4,Shopping,Home Goods,545.32,Expense,Credit Card,,False,December 2024,48,Sunday,545.32
+2024-12-02,2024-12,2024,Q4,Food,Coffee Shop,141.43,Expense,Bank Transfer,,False,December 2024,49,Monday,141.43
+2024-12-02,2024-12,2024,Q4,Utilities,Internet,275.69,Expense,Cash,,False,December 2024,49,Monday,275.69
+2024-12-02,2024-12,2024,Q4,Shopping,Online Shopping,423.36,Expense,Digital Wallet,,False,December 2024,49,Monday,423.36
+2024-12-02,2024-12,2024,Q4,Transport,Unknown,258.74,Expense,Digital Wallet,,False,December 2024,49,Monday,258.74
+2024-12-02,2024-12,2024,Q4,Transport,Public Transit,462.86,Expense,Debit Card,,False,December 2024,49,Monday,462.86
+2024-12-02,2024-12,2024,Q4,Shopping,Home Goods,188.24,Expense,Cash,,False,December 2024,49,Monday,188.24
+2024-12-02,2024-12,2024,Q4,Travel,Airbnb,1223.91,Expense,Digital Wallet,,False,December 2024,49,Monday,1223.91
+2024-12-02,2024-12,2024,Q4,Education,Workshop,686.61,Expense,Credit Card,,False,December 2024,49,Monday,686.61
+2024-12-03,2024-12,2024,Q4,Transport,Public Transit,256.39,Expense,Digital Wallet,,False,December 2024,49,Tuesday,256.39
+2024-12-03,2024-12,2024,Q4,Entertainment,Gym Membership,95.75,Expense,Cash,,False,December 2024,49,Tuesday,95.75
+2024-12-03,2024-12,2024,Q4,Healthcare,Pharmacy,548.84,Expense,Bank Transfer,,False,December 2024,49,Tuesday,548.84
+2024-12-04,2024-12,2024,Q4,Food,Supermarket,89.68,Expense,Debit Card,,False,December 2024,49,Wednesday,89.68
+2024-12-04,2024-12,2024,Q4,Shopping,Home Goods,99.31,Expense,Debit Card,,False,December 2024,49,Wednesday,99.31
+2024-12-04,2024-12,2024,Q4,Travel,Hotel,2028.52,Expense,Digital Wallet,,False,December 2024,49,Wednesday,2028.52
+2024-12-05,2024-12,2024,Q4,Food,Grocery Store,196.18,Expense,Cash,,False,December 2024,49,Thursday,196.18
+2024-12-05,2024-12,2024,Q4,Other,Donation,292.63,Expense,Debit Card,,False,December 2024,49,Thursday,292.63
+2024-12-06,2024-12,2024,Q4,Entertainment,Cinema,163.82,Expense,Debit Card,,False,December 2024,49,Friday,163.82
+2024-12-06,2024-12,2024,Q4,Transport,Gas Station,372.48,Expense,Digital Wallet,,False,December 2024,49,Friday,372.48
+2024-12-06,2024-12,2024,Q4,Housing,Mortgage Payment,2416.06,Expense,Cash,,False,December 2024,49,Friday,2416.06
+2024-12-06,2024-12,2024,Q4,Food,Grocery Store,53.24,Expense,Cash,,False,December 2024,49,Friday,53.24
+2024-12-07,2024-12,2024,Q4,Food,Coffee Shop,97.9,Expense,Digital Wallet,,False,December 2024,49,Saturday,97.9
+2024-12-07,2024-12,2024,Q4,Entertainment,Gym Membership,159.62,Expense,Credit Card,,False,December 2024,49,Saturday,159.62
+2024-12-07,2024-12,2024,Q4,Transport,Car Insurance,233.7,Expense,Bank Transfer,,False,December 2024,49,Saturday,233.7
+2024-12-07,2024-12,2024,Q4,Shopping,Electronics,564.04,Expense,Debit Card,,False,December 2024,49,Saturday,564.04
+2024-12-08,2024-12,2024,Q4,Entertainment,Netflix,27.07,Expense,Debit Card,,False,December 2024,49,Sunday,27.07
+2024-12-08,2024-12,2024,Q4,Shopping,Online Shopping,364.0,Expense,Cash,,False,December 2024,49,Sunday,364.0
+2024-12-08,2024-12,2024,Q4,Housing,Mortgage Payment,1127.38,Expense,Bank Transfer,,False,December 2024,49,Sunday,1127.38
+2024-12-08,2024-12,2024,Q4,Shopping,Clothing Store,885.7173712587602,Expense,Digital Wallet,,False,December 2024,49,Sunday,885.72
+2024-12-09,2024-12,2024,Q4,Travel,Tour Package,2765.54,Expense,Bank Transfer,,False,December 2024,50,Monday,2765.54
+2024-12-09,2024-12,2024,Q4,Travel,Tour Package,2365.14,Expense,Debit Card,,False,December 2024,50,Monday,2365.14
+2024-12-09,2024-12,2024,Q4,Transport,Uber/Grab,405.63,Expense,Debit Card,,False,December 2024,50,Monday,405.63
+2024-12-10,2024-12,2024,Q4,Other,Miscellaneous,108.78,Expense,Bank Transfer,,False,December 2024,50,Tuesday,108.78
+2024-12-10,2024-12,2024,Q4,Food,Restaurant,1368.0819743153545,Expense,Credit Card,,True,December 2024,50,Tuesday,1368.08
+2024-12-10,2024-12,2024,Q4,Transport,Car Insurance,484.91,Expense,Credit Card,,False,December 2024,50,Tuesday,484.91
+2024-12-10,2024-12,2024,Q4,Housing,Property Tax,766.41,Expense,Debit Card,,False,December 2024,50,Tuesday,766.41
+2024-12-10,2024-12,2024,Q4,Healthcare,Pharmacy,320.04,Expense,Cash,,False,December 2024,50,Tuesday,320.04
+2024-12-11,2024-12,2024,Q4,Housing,Mortgage Payment,2129.15,Expense,Debit Card,,False,December 2024,50,Wednesday,2129.15
+2024-12-13,2024-12,2024,Q4,Shopping,Online Shopping,480.18,Expense,Debit Card,,False,December 2024,50,Friday,480.18
+2024-12-13,2024-12,2024,Q4,Utilities,Internet,181.54,Expense,Credit Card,,False,December 2024,50,Friday,181.54
+2024-12-13,2024-12,2024,Q4,Shopping,Amazon,255.35,Expense,Bank Transfer,,False,December 2024,50,Friday,255.35
+2024-12-13,2024-12,2024,Q4,Education,Online Course,420.0,Expense,Digital Wallet,,False,December 2024,50,Friday,420.0
+2024-12-13,2024-12,2024,Q4,Shopping,Home Goods,541.83,Expense,Digital Wallet,,False,December 2024,50,Friday,541.83
+2024-12-13,2024-12,2024,Q4,Housing,Mortgage Payment,1073.76,Expense,Bank Transfer,,False,December 2024,50,Friday,1073.76
+2024-12-13,2024-12,2024,Q4,Housing,Property Tax,1268.33,Expense,Credit Card,,False,December 2024,50,Friday,1268.33
+2024-12-14,2024-12,2024,Q4,Education,Online Course,390.07,Expense,Credit Card,,False,December 2024,50,Saturday,390.07
+2024-12-14,2024-12,2024,Q4,Transport,Car Insurance,444.21,Expense,Bank Transfer,,False,December 2024,50,Saturday,444.21
+2024-12-14,2024-12,2024,Q4,Other,Subscription,301.93,Expense,Debit Card,,False,December 2024,50,Saturday,301.93
+2024-12-16,2024-12,2024,Q4,Shopping,Home Goods,557.33,Expense,Credit Card,,False,December 2024,51,Monday,557.33
+2024-12-17,2024-12,2024,Q4,Transport,Public Transit,185.89,Expense,Unknown,,False,December 2024,51,Tuesday,185.89
+2024-12-18,2024-12,2024,Q4,Housing,Monthly Rent,1861.45,Expense,Debit Card,,False,December 2024,51,Wednesday,1861.45
+2024-12-18,2024-12,2024,Q4,Food,Coffee Shop,97.93,Expense,Cash,,False,December 2024,51,Wednesday,97.93
+2024-12-18,2024-12,2024,Q4,Other,Donation,212.56,Expense,Cash,,False,December 2024,51,Wednesday,212.56
+2024-12-19,2024-12,2024,Q4,Shopping,Amazon,533.0,Expense,Cash,,False,December 2024,51,Thursday,533.0
+2024-12-19,2024-12,2024,Q4,Utilities,Internet,121.89,Expense,Digital Wallet,,False,December 2024,51,Thursday,121.89
+2024-12-19,2024-12,2024,Q4,Shopping,Unknown,305.62,Expense,Credit Card,,False,December 2024,51,Thursday,305.62
+2024-12-19,2024-12,2024,Q4,Healthcare,Pharmacy,736.05,Expense,Credit Card,,False,December 2024,51,Thursday,736.05
+2024-12-22,2024-12,2024,Q4,Other,ATM Withdrawal,491.22,Expense,Bank Transfer,,False,December 2024,51,Sunday,491.22
+2024-12-22,2024-12,2024,Q4,Housing,Maintenance,2115.19,Expense,Credit Card,,False,December 2024,51,Sunday,2115.19
+2024-12-23,2024-12,2024,Q4,Healthcare,Health Insurance,791.04,Expense,Debit Card,,False,December 2024,52,Monday,791.04
+2024-12-24,2024-12,2024,Q4,Shopping,Clothing Store,517.61,Expense,Bank Transfer,,False,December 2024,52,Tuesday,517.61
+2024-12-24,2024-12,2024,Q4,Other,Bank Fee,244.41,Expense,Bank Transfer,,False,December 2024,52,Tuesday,244.41
+2024-12-24,2024-12,2024,Q4,Housing,Maintenance,514.45,Expense,Cash,,False,December 2024,52,Tuesday,514.45
+2024-12-25,2024-12,2024,Q4,Healthcare,Dental,466.69,Expense,Digital Wallet,,False,December 2024,52,Wednesday,466.69
+2024-12-25,2024-12,2024,Q4,Healthcare,Pharmacy,682.49,Expense,Bank Transfer,,False,December 2024,52,Wednesday,682.49
+2024-12-25,2024-12,2024,Q4,Other,ATM Withdrawal,319.61,Expense,Bank Transfer,,False,December 2024,52,Wednesday,319.61
+2024-12-27,2024-12,2024,Q4,Food,Restaurant,53.57,Expense,Cash,,False,December 2024,52,Friday,53.57
+2024-12-27,2024-12,2024,Q4,Housing,Property Tax,911.35,Expense,Debit Card,,False,December 2024,52,Friday,911.35
+2024-12-27,2024-12,2024,Q4,Housing,Mortgage Payment,1760.04,Expense,Cash,,False,December 2024,52,Friday,1760.04
+2024-12-27,2024-12,2024,Q4,Shopping,Electronics,566.37,Expense,Bank Transfer,,False,December 2024,52,Friday,566.37
+2024-12-28,2024-12,2024,Q4,Food,Coffee Shop,97.48,Expense,Digital Wallet,,False,December 2024,52,Saturday,97.48
+2024-12-28,2024-12,2024,Q4,Education,Workshop,608.53,Expense,Bank Transfer,,False,December 2024,52,Saturday,608.53
+2024-12-29,2024-12,2024,Q4,Entertainment,Spotify,21.0,Expense,Bank Transfer,,False,December 2024,52,Sunday,21.0
+2024-12-29,2024-12,2024,Q4,Food,Restaurant,257.69,Expense,Cash,,False,December 2024,52,Sunday,257.69
+2024-12-30,2024-12,2024,Q4,Food,Grocery Store,152.69,Expense,Credit Card,,False,December 2024,1,Monday,152.69
+2024-12-30,2024-12,2024,Q4,Utilities,Gas Bill,103.43,Expense,Credit Card,,False,December 2024,1,Monday,103.43
+2024-12-31,2024-12,2024,Q4,Shopping,Amazon,194.34,Expense,Credit Card,,False,December 2024,1,Tuesday,194.34
+2024-12-31,2024-12,2024,Q4,Housing,Property Tax,648.1,Expense,Credit Card,,False,December 2024,1,Tuesday,648.1
+2024-12-31,2024-12,2024,Q4,Education,Workshop,738.94,Expense,Digital Wallet,,False,December 2024,1,Tuesday,738.94
