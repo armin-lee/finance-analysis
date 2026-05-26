@@ -1,0 +1,51 @@
+date,category,description,amount,type,payment_method
+2023-01-17,Housing,Mortgage Payment,364.75,Expense,Digital Wallet
+2023-01-25,Food,Coffee Shop,41.88,Expense,Debit Card
+2023-02-01,Healthcare,Pharmacy,130.73,Expense,Cash
+2023-02-08,Food,Restaurant,39.77,Expense,Credit Card
+2023-02-09,Food,Food Delivery,85.65,Expense,Debit Card
+2023-03-01,Shopping,Electronics,71.81,Expense,Bank Transfer
+2023-04-25,Shopping,Amazon,62.29,Expense,Debit Card
+2023-05-07,Housing,Maintenance,567.31,Expense,Debit Card
+2023-05-29,Food,Food Delivery,400.5894978539648,Expense,Digital Wallet
+2023-06-05,Other,Subscription,119.9,Expense,Credit Card
+2023-06-12,Food,Food Delivery,92.54,Expense,Credit Card
+2023-06-14,Transport,Parking,71.11,Expense,Cash
+2023-06-17,Food,Grocery Store,84.55,Expense,Credit Card
+2023-06-30,Income,Monthly Salary,8749.36,Income,Bank Transfer
+2023-07-01,Shopping,Home Goods,142.11,Expense,Cash
+2023-08-22,Food,Restaurant,110.62,Expense,Credit Card
+2023-08-26,Utilities,Electricity Bill,64.96,Expense,Cash
+2023-08-27,Food,Supermarket,61.4,Expense,Debit Card
+2023-10-10,Education,Books,89.3,Expense,Credit Card
+2023-10-14,Housing,Maintenance,452.98,Expense,Digital Wallet
+2023-11-26,Utilities,Phone Bill,64.72,Expense,Cash
+2023-11-27,Transport,Uber/Grab,124.73,Expense,Credit Card
+2023-11-28,Food,Grocery Store,25.41,Expense,Credit Card
+2023-11-29,Education,Online Course,295.01,Expense,Digital Wallet
+2024-01-06,Healthcare,Lab Tests,194.42,Expense,Bank Transfer
+2024-02-09,Income,Freelance Payment,1173.1,Income,Bank Transfer
+2024-02-09,Entertainment,Cinema,35.21,Expense,Digital Wallet
+2024-02-18,Utilities,Electricity Bill,41.43,Expense,Debit Card
+2024-04-09,Travel,Travel Insurance,483.11,Expense,Bank Transfer
+2024-04-09,Housing,Property Tax,603.01,Expense,Credit Card
+2024-04-12,Housing,Home Insurance,163.77,Expense,Cash
+2024-04-17,Housing,Mortgage Payment,432.73,Expense,Cash
+2024-04-24,Healthcare,Health Insurance,132.97,Expense,Credit Card
+2024-05-27,Other,ATM Withdrawal,132.0,Expense,Digital Wallet
+2024-05-30,Utilities,Water Bill,86.72,Expense,Digital Wallet
+2024-06-12,Food,Supermarket,91.15,Expense,Digital Wallet
+2024-06-12,Travel,Airbnb,543.94,Expense,Credit Card
+2024-06-12,Utilities,Water Bill,32.77,Expense,Debit Card
+2024-07-25,Shopping,Electronics,46.53,Expense,Debit Card
+2024-09-18,Utilities,Gas Bill,33.88,Expense,Cash
+2024-09-22,Income,Monthly Salary,8997.08,Income,Bank Transfer
+2024-10-26,Shopping,Home Goods,98.21,Expense,Credit Card
+2024-11-06,Housing,Home Insurance,562.26,Expense,Credit Card
+2024-11-08,Transport,Parking,67.0,Expense,Bank Transfer
+2024-11-19,Transport,Parking,102.92,Expense,Debit Card
+2024-12-09,Travel,Tour Package,479.59,Expense,Debit Card
+2024-12-13,Education,Online Course,129.05,Expense,Digital Wallet
+2024-12-16,Shopping,Home Goods,186.26,Expense,Credit Card
+2024-12-27,Food,Restaurant,23.94,Expense,Cash
+2024-12-27,Housing,Property Tax,243.97,Expense,Debit Card
