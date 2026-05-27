@@ -272,4 +272,4 @@ MIT License — free to use and modify for personal or commercial projects.
 ## 👤 Author
 
 Built as a portfolio project for freelance data analytics services.
-For inquiries, reach out via [Fiverr](https://www.fiverr.com) or [LinkedIn].
+For inquiries, reach out via [Fiverr](https://www.fiverr.com/arminlee/analyze-financial-data-and-create-clear-reports-and-dashboards) or [LinkedIn](https://www.linkedin.com/in/armin-lee/).
